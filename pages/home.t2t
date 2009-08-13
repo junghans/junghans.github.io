@@ -1,0 +1,42 @@
+Homepage of Christoph Junghans
+
+Home
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The config used by all pages are centralized on this file
+%!includeconf: config.t2t
+
+%%% Some post processing filter magic (search & replace)
+
+% Adds an ID to the <body> tag
+% Note: the (?i) makes the pattern case insensitive (avoids headaches)
+%!postproc: '(?i)(<body)'	'\1 id="home"'
+
+% google tags
+%!postproc: '(?i)(<head>)' '\1\n<meta name="verify-v1" content="Y/4F5bOsUeLPQRL3MXpaT1dn+ceNOBfW96AvUesWE+g=">'
+%!postproc: '(?i)(<head>)' '\1\n<meta name="verify-v1" content="L05wTfF+TirUBN/7eug26MZbrgHWGxNHo2B0poQx+/o=">'
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+
+[img/junghans.jpg]
+
+
+== About Christoph ==
+
+| Name | Christoph Junghans |
+| Group | Theory of Polymers |
+| Status | PhD-Student |
+| Room | 1.701 |
+| Phone | ++49-(0)6131-379-335 |
+| Email | [img/email.jpg] |
+
+
+% The footer is an external file
+
+%!include: footer.t2t

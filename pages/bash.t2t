@@ -1,0 +1,29 @@
+Homepage of Christoph Junghans
+
+Introduction To Bash Shell Scripting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%!postproc: SITEPATH ..
+% The config used by all pages are centralized on this file
+%!includeconf: ../pages/config.t2t
+
+%%% Some post processing filter magic (search & replace)
+
+% Adds an ID to the <body> tag
+% Note: the (?i) makes the pattern case insensitive (avoids headaches)
+%!postproc: '(?i)(<body)'	'\1 id="fluchomat"'
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: menu.t2t
+
+**THIS IS NOT MY WORK, JUST A COPY FROM SOMEWHERE, BUT THE PAGE IS GONE NOW**
+
+%!include: ''../pages/bash_body.html''
+
+% The footer is an external file
+
+%!include: ../pages/footer.t2t

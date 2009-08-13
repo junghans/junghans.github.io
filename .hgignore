@@ -1,0 +1,11 @@
+syntax:glob
+*~
+.*.swp
+
+old/*
+stuff/*
+publications/publications.html
+downloads/downloads.html
+pages/bash.html
+pages/home.html
+pages/fluchomat.html

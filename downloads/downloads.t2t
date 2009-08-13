@@ -1,0 +1,38 @@
+Homepage of Christoph Junghans
+
+Downloads
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%!postproc: SITEPATH ..
+% The config used by all pages are centralized on this file
+%!includeconf: ../pages/config.t2t
+
+%%% Some post processing filter magic (search & replace)
+
+% Adds an ID to the <body> tag
+% Note: the (?i) makes the pattern case insensitive (avoids headaches)
+%!postproc: '(?i)(<body)'	'\1 id="downloads"'
+
+%!preproc: 'dow\((.*)\)' '""[""[download SITEPATH/downloads/\1]""]""'
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: ../pages/menu.t2t
+
+== Useful scripts ==
+
+: gplot & gp2eps :
+  Some script to be used with gnuplot, have been moved to [googlecode {GPLOT}].
+: start script (version 3.7.1):
+  A script to start a (MPI-)program inside a computer network with E-mail notication afterwards. dow(lstart) 
+: mpilist (version 1.6.2):
+  A script to find certain number of maschines with the lowest load in a network. dow(mpilist)
+: guard (version 0.14):
+  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....) dow(guard)
+
+% The footer is an external file
+
+%!include: ../pages/footer.t2t
