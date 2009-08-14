@@ -42,6 +42,7 @@
 % meta: description
 %!postproc: (</HEAD>)	<meta name="description" content="Homepage of Christoph Junghans">\n\1
 
+%%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<A HREF="http://www.mpip-mainz.mpg.de"><IMG SRC="http://www.mpip-mainz.mpg.de/www/images/MPIP_Logo"></A>'
 
 % A nice database of links.
 
