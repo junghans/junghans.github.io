@@ -1,10 +1,8 @@
 OBJS=downloads.php 
 
-DEPS=../pages/config.t2t ../pages/footer.t2t ../pages/menu.t2t ../pages/menu-links.html ../pages/site.css ../pages/logger.php
-
 all: $(OBJS)
 
-downloads.php: downloads.t2t $(DEPS)
+downloads.php: downloads.t2t $(PHPDEPS)
 
 .SUFFIXES: .t2t .php
 
