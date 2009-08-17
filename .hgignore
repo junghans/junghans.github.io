@@ -4,8 +4,9 @@ syntax:glob
 
 old/*
 stuff/*
-publications/publications.html
-downloads/downloads.html
-pages/bash.html
-pages/home.html
-pages/fluchomat.html
+publications/publications.php
+downloads/downloads.php
+pages/bash.php
+pages/home.php
+pages/fluchomat.php
+logs/*

@@ -3,7 +3,7 @@ Homepage of Christoph Junghans
 Home
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The config used by all pages are centralized on this file
-%!includeconf: config.t2t
+%!includeconf: ../pages/config.t2t
 
 %%% Some post processing filter magic (search & replace)
 
@@ -21,7 +21,7 @@ Home
 
 % The sidebar with the menu links are on a separated file, included now
 
-%!include: menu.t2t
+%!include: ../pages/menu.t2t
 
 
 [img/junghans.jpg]
@@ -39,4 +39,4 @@ Home
 
 % The footer is an external file
 
-%!include: footer.t2t
+%!include: ../pages/footer.t2t

@@ -1,15 +1,15 @@
-OBJS=downloads.html 
+OBJS=downloads.php 
 
-DEPS=../pages/config.t2t ../pages/footer.t2t ../pages/menu.t2t ../pages/menu-links.html ../pages/site.css
+DEPS=../pages/config.t2t ../pages/footer.t2t ../pages/menu.t2t ../pages/menu-links.html ../pages/site.css ../pages/logger.php
 
 all: $(OBJS)
 
-downloads.html: downloads.t2t $(DEPS)
+downloads.php: downloads.t2t $(DEPS)
 
-.SUFFIXES: .t2t .html
+.SUFFIXES: .t2t .php
 
-.t2t.html:
-	        txt2tags -t html $<
+.t2t.php:
+	        txt2tags -t html --infile $< --outfile $*.php
 
 clean:
 	        rm -f $(OBJS)

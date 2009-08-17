@@ -9,5 +9,8 @@ Last modified on %%mtime(%c)
 ([See sources %%infile],
 [Validate HTML http://validator.w3.org/check?uri=referer])
 
+% {{?php $page="%%infile(%F)" ?}}
+%!include: ''../pages/logger.php''
+
 """ {{/div}}{{div id="fake"}}
 % Open a fake DIV that will be closed by the old #body </div>

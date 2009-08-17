@@ -1,17 +1,17 @@
-OBJS=home.html fluchomat.html bash.html
+OBJS=home.php fluchomat.php bash.php
 
-DEPS=config.t2t footer.t2t menu.t2t menu-links.html site.css
+DEPS=config.t2t footer.t2t menu.t2t menu-links.html site.css logger.php
 
 all: $(OBJS)
 
-home.html: home.t2t $(DEPS)
-bash.html: bash.t2t $(DEPS)
-fluchomat.html: fluchomat.t2t $(DEPS)
+home.php: home.t2t $(DEPS)
+bash.php: bash.t2t $(DEPS)
+fluchomat.php: fluchomat.t2t $(DEPS)
 
-.SUFFIXES: .t2t .html
+.SUFFIXES: .t2t .php
 
-.t2t.html:
-	        txt2tags -t html $<
+.t2t.php:
+	        txt2tags -t html --infile $< --outfile $*.php
 
 clean:
 	        rm -f $(OBJS)
