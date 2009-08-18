@@ -7,8 +7,13 @@ $userAgent = getenv('HTTP_USER_AGENT');
 $referrer = getenv('HTTP_REFERER');
 $query = getenv('QUERY_STRING');
 
+if (empty($page))
+{
+  $page="UNDEF";
+}
+
 //COMBINE VARS INTO OUR LOG ENTRY
-$msg = "IP: " . $ip . " TIME: " . $time . " REFERRER: " . $referrer . " SEARCHSTRING: " . $query . " USERAGENT: " . $userAgent;
+$msg = "IP: " . $ip . " TIME: " . $time . " REFERRER: " . $referrer . " PAGE: ". $page ." SEARCHSTRING: " . $query . " USERAGENT: " . $userAgent;
 
 //CALL OUR LOG FUNCTION
 writeToLogFile($msg);

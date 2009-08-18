@@ -9,7 +9,7 @@ Last modified on %%mtime(%c)
 ([See sources %%infile],
 [Validate HTML http://validator.w3.org/check?uri=referer])
 
-% {{?php $page="%%infile(%F)" ?}}
+{{?php $page="%%infile(%F)" ?}}
 %!include: ''../pages/logger.php''
 
 """ {{/div}}{{div id="fake"}}
