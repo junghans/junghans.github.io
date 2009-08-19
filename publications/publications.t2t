@@ -15,7 +15,7 @@ Publications
 % Make my name bold
 %!preproc: '(C. Junghans)' '**\1**'
 
-%!preproc: 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
+%!preproc: '===' '=='
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% All the config is made, so the real contents begins now

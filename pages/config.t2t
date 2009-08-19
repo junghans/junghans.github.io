@@ -43,6 +43,12 @@
 
 %%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<A HREF="http://www.mpip-mainz.mpg.de"><IMG SRC="http://www.mpip-mainz.mpg.de/www/images/MPIP_Logo"></A>'
 
+% Make my name bold in publications
+%!preproc: '(C. Junghans)' '**\1**'
+
+%link pdfs in publications
+%!preproc: 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
+
 % A nice database of links.
 
 %!preproc: {GPLOT}              http://gnuplotutils.googlecode.com

@@ -14,9 +14,6 @@ Christoph Junghans
 %nicer tables
 %!postproc(tex): 'tabular}{ll}' 'tabular}{p{0.3\\textwidth}p{0.58\\textwidth}}'
 
-% Make my name bold
-%!preproc: '(C. Junghans)' '**\1**'
-
 % Remove html code
 %!preproc(tex): '{{.*?}}' ''
 
