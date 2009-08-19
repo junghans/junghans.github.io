@@ -3,6 +3,7 @@
 //ASSIGN VARIABLES TO USER INFO
 $time = date("y-m-d G:i:s"); 
 $ip = getenv('REMOTE_ADDR');
+$uri = getenv('REQUEST_URI');
 $userAgent = getenv('HTTP_USER_AGENT');
 $referrer = getenv('HTTP_REFERER');
 $query = getenv('QUERY_STRING');
@@ -13,7 +14,7 @@ if (empty($page))
 }
 
 //COMBINE VARS INTO OUR LOG ENTRY
-$msg = "IP: " . $ip . " TIME: " . $time . " REFERRER: " . $referrer . " PAGE: ". $page ." SEARCHSTRING: " . $query . " USERAGENT: " . $userAgent;
+$msg = "IP: ".$ip." URI: ".$uri." TIME: ".$time." REFERRER: ".$referrer." PAGE: ".$page." SEARCHSTRING: ".$query." USERAGENT: ".$userAgent;
 
 //CALL OUR LOG FUNCTION
 writeToLogFile($msg);
