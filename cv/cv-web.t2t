@@ -1,6 +1,6 @@
 Homepage of Christoph Junghans
 
-Publications
+Curriculum Vitae
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The config used by all pages are centralized on this file
 %!postproc: 'SITEPATH'  '..'
@@ -10,12 +10,9 @@ Publications
 
 % Adds an ID to the <body> tag
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
-%!postproc: '(?i)(<body)'	'\1 id="publications"'
+%!postproc: '(?i)(<body)'	'\1 id="cv"'
+%!preproc: 'TEXCODE\((.*?)\)' ''
 
-% Make my name bold
-%!preproc: '(C. Junghans)' '**\1**'
-
-%!preproc: 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% All the config is made, so the real contents begins now
@@ -24,7 +21,10 @@ Publications
 
 %!include: ../pages/menu.t2t
 
-%!include: ../publications/pub-content.t2t
+%!include: cv-content.t2t
+
+--------------------
+Download this as [pdf SITEPATH/cv/cv.pdf].
 
 % The footer is an external file
 

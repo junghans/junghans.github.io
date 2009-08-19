@@ -10,3 +10,5 @@ pages/bash.php
 pages/home.php
 pages/fluchomat.php
 logs/*
+cv/cv-web.php
+cv/cv.pdf

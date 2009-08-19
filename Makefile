@@ -4,9 +4,11 @@ all:
 	$(MAKE) $(MFLAGS) -C pages PHPDEPS="$(PHPDEPS)"
 	$(MAKE) $(MFLAGS) -C publications PHPDEPS="$(PHPDEPS)"
 	$(MAKE) $(MFLAGS) -C downloads PHPDEPS="$(PHPDEPS)"
+	$(MAKE) $(MFLAGS) -C cv PHPDEPS="$(PHPDEPS)"
 
 clean:
 	$(MAKE) $(MFLAGS) -C pages clean
 	$(MAKE) $(MFLAGS) -C publications clean
 	$(MAKE) $(MFLAGS) -C downloads clean
+	$(MAKE) $(MFLAGS) -C cv clean
 

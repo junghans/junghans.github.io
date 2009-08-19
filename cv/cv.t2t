@@ -1,0 +1,31 @@
+Curriculum Vitae
+Christoph Junghans
+%%mtime(%d/%m/%Y)
+
+%!postproc(tex): 'ü' '{\"u}'
+%!postproc(tex): 'ä' '{\"a}'
+
+% Quoting
+%!postproc(tex): '"(.*?)"' ``\1''
+
+%tex code
+%!postproc(tex): 'TEXCODE\((.*?)\)' '\\\1'
+
+%nicer tables
+%!postproc(tex): 'tabular}{ll}' 'tabular}{p{0.3\\textwidth}p{0.58\\textwidth}}'
+
+% Make my name bold
+%!preproc: '(C. Junghans)' '**\1**'
+
+% Remove html code
+%!preproc(tex): '{{.*?}}' ''
+
+%!postproc(tex): 'SITEPATH'  'http://www.mpip-mainz.mpg.de/~junghans'
+%!preproc(tex): 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
+
+%decrease section level by one
+%!preproc(tex): '==' '='
+
+%!include: cv-content.t2t
+
+

@@ -1,0 +1,72 @@
+
+
+
+== Personal Information ==
+
+| **Name**               | Christoph Junghans
+|                        | [../img/junghans.jpg]
+| **Date of Birth**       | March, 4th 1982
+| **City of Birth**      | Merseburg, Sachsen-Anhalt, Germany
+
+
+== Education ==
+
+| **University**         | 	
+| Nov. 2006              | Diploma in Physics, University of Leipzig, Germany
+|                        | Minors: Meteorology, Chemistry
+|                        |
+| **School**             |
+| July 2000              | Abitur, Gymnasium Brandis, Germany
+|                        | Majors: Mathematics, Physics
+
+
+== Work Experience ==
+
+| Jan. 2007 - Present    | PhD Student, Max Planck Institute for Polymer Research, Mainz
+| Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
+| Oct. 2003 - Sept. 2006 | Student assistant, Institute for Theoretical Physics, University of Leipzig
+| Aug. 2005 - Oct. 2005  | Visiting students program "Scientific Computing", Jülich Supercomputing Centre
+| Sept. 2004             | Student assistant, Institute for Meteorology, University of Leipzig
+| Feb. 2003 - April 2003 | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg
+| March 2002             | Student assistant, Institute for Theoretical Physics, University of Leipzig
+
+
+TEXCODE(newpage)
+== Teaching Experience ==
+
+| April 2007 - Sept. 2008 | Tutor, Theoretical physics I/II/III, Johannes Gutenberg University of Mainz
+| April 2006 - Sept. 2006 | Tutor, Introduction to computer simulations I, University of Leipzig
+| Oct. 2005 - March 2006  | Tutor, Simulation methods in generalized ensembles, University of Leipzig
+| Sept. 2004 - Oct. 2004  | Tutor, Mathematical preparation course for first-year students, University of Leipzig
+
+
+== Engagement ==
+
+| July 2007 - Dec. 2008  | PhD representative of the Kremer group, Max Planck Institute for Polymer Research, Mainz
+| Nov. 2007 - Nov. 2008  | PhD representative of the MPI for Polymer Research
+| Oct. 2002 - Sept. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University Leipzig
+|             //Tasks:// | Spokesperson of the students of the Physics Department (2 years)
+|                        | Full member of faculty council of the Physics Department (2 years)
+|                        | Full member of council of the University of Leipzig (2 years)
+|                        | Member of the commission for examination issues of the Physics Department (2 years)
+|                        | Member of the commission for study affairs of Physics Department (3 years)
+|                        | Financial assignee of the Fachschaftsrates of the Physics Department (1 year)
+
+
+== Computer Skills ==
+
+| **General**               | Linux, AIX, Mac OS, DOS, Windows
+| **Programming**           | C, Fortran, MPI, OpenMP
+| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl
+| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
+
+
+== Awards ==
+
+| Nov. 2005 | Wolfgang Natonek award, University of Leipzig
+| Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
+| July 2000 | Book award of the German Physical Society (DPG) for school graduates
+
+== Publications ==
+
+%!include: ../publications/pub-content.t2t
