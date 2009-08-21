@@ -12,9 +12,6 @@ Publications
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="publications"'
 
-% Make my name bold
-%!preproc: '(C. Junghans)' '**\1**'
-
 %!preproc: '===' '=='
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
