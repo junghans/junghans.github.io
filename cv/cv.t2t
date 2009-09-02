@@ -10,6 +10,7 @@ Christoph Junghans
 
 %tex code
 %!postproc(tex): 'TEXCODE\((.*?)\)' '\\\1'
+%!postproc(tex): 'JOURNR\((.*?)\)' '\\textbf{\1}'
 
 %nicer tables
 %!postproc(tex): 'tabular}{ll}' 'tabular}{p{0.3\\textwidth}p{0.58\\textwidth}}'
@@ -21,6 +22,7 @@ Christoph Junghans
 %!preproc(tex): 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
 
 %decrease section level by one
+%in web it look nice, but in tex not
 %!preproc(tex): '==' '='
 
 %!include: cv-content.t2t

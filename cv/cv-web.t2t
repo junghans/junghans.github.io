@@ -12,9 +12,6 @@ Curriculum Vitae
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="cv"'
 
-%remove texcode
-%!preproc: 'TEXCODE\((.*?)\)' ''
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% All the config is made, so the real contents begins now

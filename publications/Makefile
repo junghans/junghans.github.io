@@ -2,7 +2,7 @@ OBJS=publications.php
 
 all: $(OBJS)
 
-publications.php: publications.t2t $(PHPDEPS) pub-content.t2t
+publications.php: update_time publications.t2t $(PHPDEPS) pub-content.t2t
 
 .SUFFIXES: .t2t .php
 

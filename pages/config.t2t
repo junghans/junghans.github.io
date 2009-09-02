@@ -51,5 +51,9 @@
 
 % A nice database of links.
 
+%remove texcode
+%!preproc: 'TEXCODE\((.*?)\)' ''
+%!preproc: 'JOURNR\((.*?)\)' '\1'
+
 %!preproc: {GPLOT}              http://gnuplotutils.googlecode.com
 

@@ -12,6 +12,8 @@ Publications
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="publications"'
 
+% pub-content is === section, because of cv-web.t2t
+% but here it should be ==
 %!preproc: '===' '=='
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
