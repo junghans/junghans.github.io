@@ -2,8 +2,8 @@ OBJS=cv-web.php cv.pdf
 
 all: $(OBJS)
 
-cv-web.php: cv-web.t2t $(PHPDEPS) cv-content.t2t ../publications/pub-content.t2t
-cv.pdf: cv.t2t cv-content.t2t ../publications/pub-content.t2t
+cv-web.php: update_time cv-web.t2t $(PHPDEPS) cv-content.t2t ../publications/pub-content.t2t
+cv.pdf: update_time cv.t2t cv-content.t2t ../publications/pub-content.t2t
 
 .SUFFIXES: .tex .t2t .php .pdf
 
@@ -19,10 +19,10 @@ update_time:
 		touch -r cv-content.t2t cv.t2t; \
 	fi
 		
-.t2t.php: update_time
+.t2t.php:
 	txt2tags -t html --infile $< --outfile $@
 
-.t2t.tex: update_time
+.t2t.tex:
 	txt2tags -t tex --infile $< --outfile $@
 	#cat -n cv.tex
 
