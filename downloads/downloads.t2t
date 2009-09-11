@@ -12,8 +12,6 @@ Downloads
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
 %!postproc: '(?i)(<body)'	'\1 id="downloads"'
 
-%!preproc: 'dow\((.*)\)' '""[""[download SITEPATH/downloads/\1]""]""'
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% All the config is made, so the real contents begins now
@@ -24,15 +22,27 @@ Downloads
 
 == Useful scripts ==
 
-: gplot & gp2eps :
+- **gplot & gp2eps** :
   Some script to be used with gnuplot, have been moved to [googlecode {GPLOT}].
-: start script (version 3.7.1):
-  A script to start a (MPI-)program inside a computer network with E-mail notication afterwards. dow(lstart) 
-: mpilist (version 1.6.2):
-  A script to find certain number of maschines with the lowest load in a network. dow(mpilist)
-: guard (version 0.14):
+- **start** ([version 3.7.1 lstart]):
+  A script to start a (MPI-)program inside a computer network with E-mail notication afterwards.
+- **mpilist** ([version 1.6.2 mpilist]):
+  A script to find certain number of maschines with the lowest load in a network.
+- **guard** ([version 0.14 guard]):
   A script to run command after a given file was modified. (latex after tex-files, make after c-files,....) dow(guard)
 
+
+== Free Books ==
+
+- **Mercurial: The Definitive Guide** from Bryan O'Sullivan ([version from 2009-03-10 http://i18n-zh.googlecode.com/files/hgbook-en-090310.pdf]) 
+- **Die Programmiersprache Perl** (in german) from Eike Grote ([version 2.02 http://www.cpan.org/authors/id/E/EI/EIKEG/doc/perl-tutorial-DE_2.02.pdf])
+
+
+== Manuals ==
+To have them all in one place
+- **Gromacs 4.0** ([version from 2008-12-10 ftp://ftp.gromacs.org/pub/manual/manual-4.0.pdf])
+- **PGF & TikZ** ([version 2.0 http://www.ctan.org/tex-archive/graphics/pgf/base/doc/generic/pgf/pgfmanual.pdf])
+- **The beamer class** ([version 3.07 http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/doc/beameruserguide.pdf])
 % The footer is an external file
 
 %!include: ../pages/footer.t2t
