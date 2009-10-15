@@ -2,8 +2,9 @@
 
 //ASSIGN VARIABLES TO USER INFO
 $time = date("y-m-d G:i:s"); 
-$ip = $_SERVER['REMOTE_ADDR'];
-$ip = $ip." (".@GetHostByAddr($REMOTE_ADDR).")";
+#$ip = $_SERVER['REMOTE_ADDR'];
+$ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
+$ip = $ip." (".@GetHostByAddr($ip).")";
 $uri = $_SERVER['REQUEST_URI'];
 $userAgent = $_SERVER['HTTP_USER_AGENT'];
 $referrer = $_SERVER['HTTP_REFERER'];
