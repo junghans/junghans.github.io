@@ -23,7 +23,11 @@ Publications
 
 %!include: ../pages/menu.t2t
 
+[To most recent paper #recent]
+
 %!include: ../publications/pub-content.t2t
+
+anchor(recent)
 
 % The footer is an external file
 
