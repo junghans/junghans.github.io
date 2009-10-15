@@ -2,11 +2,12 @@
 
 //ASSIGN VARIABLES TO USER INFO
 $time = date("y-m-d G:i:s"); 
-$ip = getenv('REMOTE_ADDR');
-$uri = getenv('REQUEST_URI');
-$userAgent = getenv('HTTP_USER_AGENT');
-$referrer = getenv('HTTP_REFERER');
-$query = getenv('QUERY_STRING');
+$ip = $_SERVER['REMOTE_ADDR'];
+$ip = $ip." (".@GetHostByAddr($REMOTE_ADDR).")";
+$uri = $_SERVER['REQUEST_URI'];
+$userAgent = $_SERVER['HTTP_USER_AGENT'];
+$referrer = $_SERVER['HTTP_REFERER'];
+$query = $_SERVER['QUERY_STRING'];
 
 if (empty($page))
 {
