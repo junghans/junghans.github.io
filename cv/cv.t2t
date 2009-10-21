@@ -18,7 +18,7 @@ Christoph Junghans
 %!postproc(tex): '(TEXCODE\([^)]*)\$backslash\$' '\1\\'
 %!postproc(tex): '(TEXCODE\([^)]*)\$backslash\$' '\1\\'
 %replace TEXCODE(xx) by xx
-%!postproc(tex): 'TEXCODE\(([^)].*)\)' '\1'
+%!postproc(tex): 'TEXCODE\(([^)]*)\)' '\1'
 %!postproc(tex): 'JOURNR\((.*?)\)' '\\textbf{\1}'
 
 %nicer tables
