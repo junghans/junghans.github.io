@@ -42,7 +42,7 @@ Downloads
 To have them all in one place
 - **Gromacs 4.0** ([version from 2008-12-10 ftp://ftp.gromacs.org/pub/manual/manual-4.0.pdf])
 - **PGF & TikZ** ([version 2.0 http://www.ctan.org/tex-archive/graphics/pgf/base/doc/generic/pgf/pgfmanual.pdf])
-- **The beamer class** ([version 3.07 http://www.ctan.org/tex-archive/macros/latex/contrib/beamer/doc/beameruserguide.pdf])
+- **The beamer class** ([version 3.07 http://mirror.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf])
 % The footer is an external file
 
 %!include: ../pages/footer.t2t
