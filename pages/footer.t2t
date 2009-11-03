@@ -11,6 +11,7 @@ Last modified on %%mtime(%c)
 
 {{?php $page="%%infile(%F)" ?}}
 %!include: ''../pages/logger.php''
+%!include: ''../pages/google_analytics.php''
 
 """ {{/div}}{{div id="fake"}}
 % Open a fake DIV that will be closed by the old #body </div>
