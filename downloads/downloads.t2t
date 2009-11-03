@@ -29,7 +29,7 @@ Downloads
 - **mpilist** ([version 1.6.2 mpilist]):
   A script to find certain number of maschines with the lowest load in a network.
 - **guard** ([version 0.14 guard]):
-  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....) dow(guard)
+  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....)
 
 
 == Free Books ==
