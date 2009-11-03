@@ -9,6 +9,6 @@ downloads/downloads.php
 pages/bash.php
 pages/home.php
 pages/fluchomat.php
-logs/*
+logs/*.txt
 cv/cv-web.php
 cv/cv.pdf
