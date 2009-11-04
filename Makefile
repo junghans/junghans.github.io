@@ -1,4 +1,4 @@
-PHPDEPS=../pages/config.t2t ../pages/footer.t2t ../pages/menu.t2t ../pages/menu-links.html ../pages/site.css ../pages/logger.php
+PHPDEPS=../pages/config.t2t ../pages/footer.t2t ../pages/menu.t2t ../pages/menu-links.html ../pages/site.css ../pages/logger.php ../pages/google_analytics.php
 
 all:
 	$(MAKE) $(MFLAGS) -C pages PHPDEPS="$(PHPDEPS)"
