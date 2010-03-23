@@ -3,9 +3,9 @@
 
 === Papers & Proceedings ===
 
-+ C. Junghans,{{br}} 
++ C. Junghans,{{br}}
   //Modern Methods in Protein Simulations//, {{br}}
-  in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf], 
+  in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf],
   John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
 
 + C. Junghans and U.H.E. Hansmann,{{br}}
@@ -15,7 +15,7 @@
 + C. Junghans and U.H.E. Hansmann,{{br}}
   //Cross-Check Methods in Protein Simulations//,{{br}}
   in: U.H.E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
-  From Computational Biophysics to Systems Biology 2006, 
+  From Computational Biophysics to Systems Biology 2006,
   [NIC Series Vol. 34 http://www.fz-juelich.de/nic-series/volume34/nic-series-volume34.pdf], Jülich (2006), 157 pdf:2006b.
 
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
@@ -38,8 +38,7 @@
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
   //Thermodynamics of Peptide Aggregation Processes. An Analysis from Perspectives of Three Statistical Ensembles//,{{br}}
   [J. Chem. Phys. JOURNR(128), 085103 (2008) http://dx.doi.org/10.1063/1.2830233] pdf:2008b.{{br}}
-  Also featured in: [Virt. J. Nanoscale Sci. & Techn. JOURNR(17)(10) (2008) http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT01&amp;Volume=17&amp;Issue=10] and 
-  [Virt. J. Biol. Phys. Res. JOURNR(15)(5) (2008) http://ojps.aip.org/dbt/dbt.jsp?KEY=VIRT02&amp;Volume=15&amp;Issue=5].
+  Also featured in: [Virt. J. Nanoscale Sci. & Techn. JOURNR(17)(10) (2008) http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT01&amp;Volume=17&amp;Issue=10] and [Virt. J. Biol. Phys. Res. JOURNR(15)(5) (2008) http://ojps.aip.org/dbt/dbt.jsp?KEY=VIRT02&amp;Volume=15&amp;Issue=5].
 
 + M. Praprotnik, C. Junghans, L. Delle Site and K. Kremer,{{br}}
   //Simulation approaches to soft matter: Generic statistical properties vs. chemical details//,{{br}}
@@ -52,7 +51,7 @@
 + C. Junghans, M. Praprotnik and L. Delle Site,{{br}}
   //Adaptive Resolution Schemes//,{{br}}
   in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{br}}
-  Multiscale Simulation Methods in Molecular Sciences, [NIC Series Vol. 42 http://www.fz-juelich.de/nic-series/volume42/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b. 
+  Multiscale Simulation Methods in Molecular Sciences, [NIC Series Vol. 42 http://www.fz-juelich.de/nic-series/volume42/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
 
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
   //Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers//,{{br}}
@@ -62,6 +61,11 @@
   //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{br}}
   [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://csgth.mpip-mainz.mpg.de]""]"".
   {{br}}{{script type="text/javascript" src="""http://www.ohloh.net/p/469750/widgets/project_thin_badge.js"""}}{{/script}}
+
++ T. Weidauer, C. Junghans, O. Pauluis, M. Pütz and J. Schumacher,{{br}}
+  //Shallow Moist Convection//,{{br}}
+  in: G. Münster, D. Wolf, M. Kremer (Eds.),{{br}}
+  NIC Symposium 2010, [IAS Series Vol. 3 http://hdl.handle.net/2128/3697], Jülich (2010), 373 pdf:2010a.
 
 %== Preprints ==
 %
