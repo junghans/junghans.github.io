@@ -1,0 +1,45 @@
+SHELL=/bin/bash
+all: $(SUBDIRS)
+
+BASE=/people/thnfs/homes/junghans/public_html/
+TRUNC=$(shell pwd | sed -e 's@^$(BASE)@@' -e 's@[^/]\+@..@g')
+
+PHPDEPS=$(TRUNC)/pages/config.t2t \
+       	$(TRUNC)/pages/footer.t2t \
+	$(TRUNC)/pages/menu.t2t \
+	$(TRUNC)/pages/menu-links.html \
+	$(TRUNC)/pages/site.css \
+	$(TRUNC)/pages/logger.php \
+	$(TRUNC)/pages/google_analytics.php
+
+TXT2TAGS=$(TRUNC)/pages/txt2tags
+
+dummy: ;
+
+%.php: %.t2t
+	$(TXT2TAGS) -t html --infile $< --outfile $*.php
+
+%.tex: %.t2t
+	$(TXT2TAGS) -t tex --infile $< --outfile $@
+
+%.pdf: %.tex
+	pdflatex -halt-on-error $<
+	rm -f $*.aux $*.log $*.out
+
+.PHONY: $(SUBDIRS)
+
+$(SUBDIRS):
+	$(MAKE) $(MFLAGS) -C $@ all
+
+CLEANDIRS:=$(shell echo $(SUBDIRS) | sed 's/\>/_subclean /g')
+#.PHONY: $(CLEANDIRS)
+
+.PHONY: clean subdirclean
+
+subdirclean: $(CLEANDIRS)
+
+%_subclean:
+	$(MAKE) $(MFLAGS) -C $* clean
+
+clean: subdirclean
+	rm -rf *~ $(OBJS)

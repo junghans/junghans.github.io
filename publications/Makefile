@@ -1,16 +1,12 @@
+SUBDIRS=
+include ../pages/Makefile.incl
 OBJS=publications.php 
 
-all: $(OBJS)
+all: date $(OBJS)
 
-publications.php: publications.t2t $(PHPDEPS) pub-content.t2t
+publications.php: pub-content.t2t
 
-.SUFFIXES: .t2t .php
+.PHONY: date
 
-.t2t.php:
-	touch -r pub-content.t2t $<
-	txt2tags -t html --infile $< --outfile $@
-
-clean:
-	rm -f $(OBJS)
-	rm -f *~
-
+date: dummy
+	touch -r pub-content.t2t publications.t2t
