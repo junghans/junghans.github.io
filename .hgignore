@@ -6,6 +6,7 @@ old/*
 stuff/*
 publications/publications.php
 downloads/downloads.php
+downloads/*
 pages/bash.php
 pages/home.php
 pages/fluchomat.php
