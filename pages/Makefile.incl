@@ -16,7 +16,7 @@ TXT2TAGS=$(TRUNC)/pages/txt2tags
 
 dummy: ;
 
-%.php: $(PHPDEPS) %.t2t
+%.php: %.t2t $(PHPDEPS)
 	$(TXT2TAGS) -t html --infile $< --outfile $*.php
 
 %.tex: %.t2t
