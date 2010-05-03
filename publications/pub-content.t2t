@@ -59,8 +59,9 @@
 
 + V.Rühle, C. Junghans, A. Lukyanov, K. Kremer and D. Andrienko,{{br}}
   //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{br}}
-  [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://csgth.mpip-mainz.mpg.de]""]"".
-  {{br}}{{script type="text/javascript" src="""http://www.ohloh.net/p/469750/widgets/project_thin_badge.js"""}}{{/script}}
+  [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://csgth.mpip-mainz.mpg.de]""]""
+%leave the . in the next line to avoid two empty line in tex
+  .{{br}}{{script type="text/javascript" src="""http://www.ohloh.net/p/469750/widgets/project_thin_badge.js"""}}{{/script}}
 
 + T. Weidauer, C. Junghans, O. Pauluis, M. Pütz and J. Schumacher,{{br}}
   //Shallow Moist Convection//,{{br}}
