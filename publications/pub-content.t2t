@@ -8,13 +8,13 @@
   in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf],
   John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
 
-+ C. Junghans and U.H.E. Hansmann,{{br}}
++ C. Junghans and U. H. E. Hansmann,{{br}}
   //Numerical Comparison of Wang Landau Sampling and Parallel Tempering for Met-enkephalin//, {{br}}
   [Int. J. Mod. Phys. C JOURNR(17), 817 (2006) http://dx.doi.org/10.1142/S012918310600931X] pdf:2006a.
 
-+ C. Junghans and U.H.E. Hansmann,{{br}}
++ C. Junghans and U. H. E. Hansmann,{{br}}
   //Cross-Check Methods in Protein Simulations//,{{br}}
-  in: U.H.E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
   From Computational Biophysics to Systems Biology 2006,
   [NIC Series Vol. 34 http://www.fz-juelich.de/nic-series/volume34/nic-series-volume34.pdf], Jülich (2006), 157 pdf:2006b.
 
@@ -28,7 +28,7 @@
 
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
   //Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model//,{{br}}
-  in: U.H.E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
   From Computational Biophysics to Systems Biology 2007 , [NIC Series Vol. 36 http://www.fz-juelich.de/nic-series/volume36/nic-series-volume36.pdf], Jülich (2007), 169 pdf:2007a.
 
 + C. Junghans, M. Praprotnik and K. Kremer,{{br}}
@@ -36,7 +36,7 @@
   [Soft Matter JOURNR(4), 156 (2008) http://dx.doi.org/10.1039/b713568h] pdf:2008a.
 
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
-  //Thermodynamics of Peptide Aggregation Processes. An Analysis from Perspectives of Three Statistical Ensembles//,{{br}}
+  //Thermodynamics of Peptide Aggregation Processes: An Analysis from Perspectives of Three Statistical Ensembles//,{{br}}
   [J. Chem. Phys. JOURNR(128), 085103 (2008) http://dx.doi.org/10.1063/1.2830233] pdf:2008b.{{br}}
   Also featured in: [Virt. J. Nanoscale Sci. & Techn. JOURNR(17)(10) (2008) http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT01&Volume=17&Issue=10] and [Virt. J. Biol. Phys. Res. JOURNR(15)(5) (2008) http://ojps.aip.org/dbt/dbt.jsp?KEY=VIRT02&Volume=15&Issue=5].
 
@@ -57,7 +57,7 @@
   //Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers//,{{br}}
   [Europhys. Lett. JOURNR(87), 40002 (2009) http://dx.doi.org/10.1209/0295-5075/87/40002] pdf:2009c.
 
-+ V.Rühle, C. Junghans, A. Lukyanov, K. Kremer and D. Andrienko,{{br}}
++ V. Rühle, C. Junghans, A. Lukyanov, K. Kremer and D. Andrienko,{{br}}
   //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{br}}
   [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://csgth.mpip-mainz.mpg.de]""]""
 %leave the . in the next line to avoid two empty line in tex
