@@ -23,6 +23,10 @@ Christoph Junghans
 
 %nicer tables
 %!postproc(tex): 'tabular}{ll}' 'tabular}{p{0.3\\textwidth}p{0.58\\textwidth}}'
+%Invited Talks table
+%!postproc(tex): 'tabular}{rl}' 'tabular}{p{0.2\\textwidth}p{0.73\\textwidth}}'
+%Open Source Projects table
+%!postproc(tex): 'tabular}{lll}' 'tabular}{p{0.18\\textwidth}p{0.55\\textwidth}p{0.2\\textwidth}}'
 
 % Remove html code
 %!preproc(tex): '{{.*?}}' ''

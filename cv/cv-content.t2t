@@ -70,3 +70,25 @@ TEXCODE(\newpage)
 == Publications ==
 
 %!include: ../publications/pub-content.t2t
+
+
+== Invited Talks ==
+
+|  Nov. 30th 2007 | "Controlling material properties using a thermostat", [CompPhys07 http://www.physik.uni-leipzig.de/~janke/CompPhys07]
+|  Nov. 27th 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08]
+|  Nov. 19th 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Semniar, [IFF-2 http://www.fz-juelich.de/iff/d_th2], [FZ Jülich  http://www.fz-juelich.de]
+|  May 31th 2010 | Votca Workshop, [CSI http://www.csi.tu-darmstadt.de/] Darmstadt
+
+
+TEXCODE(\newpage)
+== Open Source Projects ==
+
+| [VOTCA http://www.votca.org] | A versatile object-oriented toolkit for coarse-graining applications | Core Developer
+| [ESPReSo http://www.espresso.mpg.de] | Extensible Simulation Package for Research on Soft matter | Developer
+| [GroMaCS http://www.gromacs.org] | A versatile package to perform molecular dynamics | Contributor
+| [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
+| [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
+
+
+TEXCODE(\noindent)
+For more infomation see [ohloh http://www.ohloh.net/accounts/junghans]

@@ -18,6 +18,9 @@ sed -i \
        -e '/LinkLint-checkonly/d' \
        -e '/NutchCVS/d' \
        -e '/Speedy Spider/d' \
+       -e '/Sosospider/d' \
+       -e '/Baiduspider/d' \
+       -e '/008\/0\.83/d' \
        -e '/minerva\/crawl/d' \
        -e '/Ask Jeeves\/Teoma/d' \
        -e '/crawler@alexa.com/d' \
@@ -25,6 +28,7 @@ sed -i \
        -e '/sSearch Crawler/d' \
        -e '/conpilot crawler/d' \
        -e '/Steeler/d' \
+       -e '/mpg-crawler/d' \
        -e '/Yeti\//d' \
        -e '/SSearch Crawler/d' \
        $logfile
