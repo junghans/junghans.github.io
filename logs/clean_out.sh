@@ -14,6 +14,7 @@ sed -i \
        -e '/MJ12bot/d' \
        -e '/citeseerxbot/d' \
        -e '/MLBot/d' \
+       -e '/psbot/d' \
        -e '/Yandex/d' \
        -e '/LinkLint-checkonly/d' \
        -e '/NutchCVS/d' \
@@ -31,4 +32,5 @@ sed -i \
        -e '/mpg-crawler/d' \
        -e '/Yeti\//d' \
        -e '/SSearch Crawler/d' \
+       -e '/spider2\.webhostingspider\.com/d' \
        $logfile
