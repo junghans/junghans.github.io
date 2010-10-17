@@ -63,6 +63,7 @@ TEXCODE(\newpage)
 
 == Awards ==
 
+| June 2010 | Participant of 60th Lindau Nobel Laureate Meetings
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
 | July 2000 | Book award of the German Physical Society (DPG) for school graduates
@@ -74,10 +75,11 @@ TEXCODE(\newpage)
 
 == Invited Talks ==
 
-|  Nov. 30th 2007 | "Controlling material properties using a thermostat", [CompPhys07 http://www.physik.uni-leipzig.de/~janke/CompPhys07]
-|  Nov. 27th 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08]
-|  Nov. 19th 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Semniar, [IFF-2 http://www.fz-juelich.de/iff/d_th2], [FZ Jülich  http://www.fz-juelich.de]
+|  Oct. 14th 2010 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo" http://www.cecam.org/workshop-4-489.html], [ICP Stuttgart http://www.ica1.uni-stuttgart.de/~icp/Main_Page]
 |  May 31th 2010 | Votca Workshop, [CSI http://www.csi.tu-darmstadt.de/] Darmstadt
+|  Nov. 19th 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Semniar, [IFF-2 http://www.fz-juelich.de/iff/d_th2], [FZ Jülich  http://www.fz-juelich.de]
+|  Nov. 27th 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08], [ITP Leipzig http://www.physik.uni-leipzig.de]
+|  Nov. 30th 2007 | "Controlling material properties using a thermostat", [CompPhys07 http://www.physik.uni-leipzig.de/~janke/CompPhys07], [ITP Leipzig http://www.physik.uni-leipzig.de]
 
 
 TEXCODE(\newpage)
@@ -91,4 +93,4 @@ TEXCODE(\newpage)
 
 
 TEXCODE(\noindent)
-For more infomation see [ohloh http://www.ohloh.net/accounts/junghans]
+For more infomation see [my ohloh profile http://www.ohloh.net/accounts/junghans]
