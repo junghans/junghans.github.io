@@ -1,35 +1,15 @@
 
 
 
-=== Papers & Proceedings ===
-
-+ C. Junghans,{{br}}
-  //Modern Methods in Protein Simulations//, {{br}}
-  in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf],
-  John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
+=== Reviewed Papers & Proceedings ===
 
 + C. Junghans and U. H. E. Hansmann,{{br}}
   //Numerical Comparison of Wang Landau Sampling and Parallel Tempering for Met-enkephalin//, {{br}}
   [Int. J. Mod. Phys. C JOURNR(17), 817 (2006) http://dx.doi.org/10.1142/S012918310600931X] pdf:2006a.
 
-+ C. Junghans and U. H. E. Hansmann,{{br}}
-  //Cross-Check Methods in Protein Simulations//,{{br}}
-  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
-  From Computational Biophysics to Systems Biology 2006,
-  [NIC Series Vol. 34 http://www.fz-juelich.de/nic-series/volume34/nic-series-volume34.pdf], Jülich (2006), 157 pdf:2006b.
-
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
   //Microcanonical Analyses of Peptide Aggregation Processes//,{{br}}
   [Phys. Rev. Lett. JOURNR(97), 218103 (2006)  http://dx.doi.org/10.1103/PhysRevLett.97.218103] pdf:2006c.
-
-+ C. Junghans,{{br}}
-  //Aggregation of Mesoscopic Protein-like Heteropolymers//,{{br}}
-  Diploma Thesis, Universität Leipzig (2006) pdf:2006d.
-
-+ C. Junghans, M. Bachmann and W. Janke,{{br}}
-  //Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model//,{{br}}
-  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
-  From Computational Biophysics to Systems Biology 2007 , [NIC Series Vol. 36 http://www.fz-juelich.de/nic-series/volume36/nic-series-volume36.pdf], Jülich (2007), 169 pdf:2007a.
 
 + C. Junghans, M. Praprotnik and K. Kremer,{{br}}
   //Transport properties controlled by a thermostat: An extended dissipative particle dynamics thermostat//,{{br}}
@@ -48,11 +28,6 @@
   //Comparative atomistic and coarse-grained study of water: What do we lose by coarse-graining?//,{{br}}
   [Euro. Phys. J. E JOURNR(28), 221 (2009) http://dx.doi.org/10.1140/epje/i2008-10413-5] pdf:2009a.
 
-+ C. Junghans, M. Praprotnik and L. Delle Site,{{br}}
-  //Adaptive Resolution Schemes//,{{br}}
-  in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{br}}
-  Multiscale Simulation Methods in Molecular Sciences, [NIC Series Vol. 42 http://www.fz-juelich.de/nic-series/volume42/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
-
 + C. Junghans, M. Bachmann and W. Janke,{{br}}
   //Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers//,{{br}}
   [Europhys. Lett. JOURNR(87), 40002 (2009) http://dx.doi.org/10.1209/0295-5075/87/40002] pdf:2009c.
@@ -63,14 +38,60 @@
 %leave the . in the next line to avoid two empty line in tex
   .{{br}}{{script type="text/javascript" src="""http://www.ohloh.net/p/469750/widgets/project_thin_badge.js"""}}{{/script}}
 
++ C. Junghans and S. Poblete,{{br}}
+  //A reference implementation of the adaptive resolution scheme in ESPResSo//,{{br}}
+  [Comp. Phys. Comm. JOURNR(181), 1449 (2010) http://dx.doi.org/10.1016/j.cpc.2010.04.013] pdf:2010b.
+
++ B. P. Lambeth, Jr., C. Junghans, K. Kremer, C. Clementi, and L. Delle Site,{{br}}
+  //On the Locality of Hydrogen Bond Networks at Hydrophobic Interface//,{{br}}
+  J. Chem. Phys. (Rapid Comm.), in press (2010).
+
++ C. Junghans, M. Bachmann and W. Janke,{{br}}
+  //Hierarchies in Nucleation Transitions//,{{br}}
+  Comp. Phys. Comm., in press (2010).
+
+
+anchor(recent)
+
+=== Theses ===
+
++ C. Junghans,{{br}}
+  //Aggregation of Mesoscopic Protein-like Heteropolymers//,{{br}}
+  Diploma Thesis, Universität Leipzig (2006) pdf:2006d.
+
++ C. Junghans,{{br}}
+  //Between the Scales: Water from different Perspectives//,{{br}}
+  PhD Thesis, Johannes Gutenberg-Universität Mainz (2010).
+
+
+=== Other Publications ===
+
++ C. Junghans,{{br}}
+  //Modern Methods in Protein Simulations//, {{br}}
+  in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf],
+  John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
+
++ C. Junghans and U. H. E. Hansmann,{{br}}
+  //Cross-Check Methods in Protein Simulations//,{{br}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
+  From Computational Biophysics to Systems Biology 2006,
+  [NIC Series Vol. 34 http://www.fz-juelich.de/nic-series/volume34/nic-series-volume34.pdf], Jülich (2006), 157 pdf:2006b.
+
++ C. Junghans, M. Bachmann and W. Janke,{{br}}
+  //Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model//,{{br}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{br}}
+  From Computational Biophysics to Systems Biology 2007 , [NIC Series Vol. 36 http://www.fz-juelich.de/nic-series/volume36/nic-series-volume36.pdf], Jülich (2007), 169 pdf:2007a.
+
++ C. Junghans, M. Praprotnik and L. Delle Site,{{br}}
+  //Adaptive Resolution Schemes//,{{br}}
+  in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{br}}
+  Multiscale Simulation Methods in Molecular Sciences, [NIC Series Vol. 42 http://www.fz-juelich.de/nic-series/volume42/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
+
 + T. Weidauer, C. Junghans, O. Pauluis, M. Pütz and J. Schumacher,{{br}}
   //Shallow Moist Convection//,{{br}}
   in: G. Münster, D. Wolf, M. Kremer (Eds.),{{br}}
   NIC Symposium 2010, [IAS Series Vol. 3 http://hdl.handle.net/2128/3697], Jülich (2010), 373 pdf:2010a.
 
-+ C. Junghans and S. Poblete,{{br}}
-  //A reference implementation of the adaptive resolution scheme in ESPResSo//,{{br}}
-  [Comp. Phys. Comm. JOURNR(181), 1449 (2010) http://dx.doi.org/10.1016/j.cpc.2010.04.013] pdf:2010b.
 
 %== Preprints ==
 %

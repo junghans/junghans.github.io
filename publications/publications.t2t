@@ -32,8 +32,6 @@ Publications
 
 %!include: ../publications/pub-content.t2t
 
-anchor(recent)
-
 % The footer is an external file
 
 %!include: ../pages/footer.t2t
