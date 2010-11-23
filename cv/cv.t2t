@@ -9,16 +9,8 @@ Christoph Junghans
 %!postproc(tex): '"(.*?)"' ``\1''
 
 %tex code
-%replace \{ by { and so on
-%!postproc(tex): '(TEXCODE\([^)]*)\\' '\1'
-%!postproc(tex): '(TEXCODE\([^)]*)\\' '\1'
-%!postproc(tex): '(TEXCODE\([^)]*)\\' '\1'
-%replace $backslash$ by \
-%!postproc(tex): '(TEXCODE\([^)]*)\$backslash\$' '\1\\'
-%!postproc(tex): '(TEXCODE\([^)]*)\$backslash\$' '\1\\'
-%!postproc(tex): '(TEXCODE\([^)]*)\$backslash\$' '\1\\'
-%replace TEXCODE(xx) by xx
-%!postproc(tex): 'TEXCODE\(([^)]*)\)' '\1'
+%replace TEXCODE(xx) by ''xx'' (tagged item)
+%!preproc(tex): 'TEXCODE\(([^)]*)\)' "''\1''"
 %!postproc(tex): 'JOURNR\((.*?)\)' '\\textbf{\1}'
 
 %nicer tables
@@ -30,6 +22,8 @@ Christoph Junghans
 
 % Remove html code
 %!preproc(tex): '{{.*?}}' ''
+% Remove anchors
+%!preproc(tex): 'anchor\(([^)]*)\)' ''
 
 %!postproc(tex): 'SITEPATH'  'http://www.mpip-mainz.mpg.de/~junghans'
 %!preproc(tex): 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
