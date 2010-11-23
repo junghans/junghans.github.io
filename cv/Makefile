@@ -11,8 +11,11 @@ cv.pdf: cv-content.t2t ../publications/pub-content.t2t
 
 date: dummy
 	if [ ../publications/pub-content.t2t -nt cv-content.t2t ]; then \
-		touch -r ../publications/pub-content.t2t cv.t2t; \
+		touch -r ../publications/pub-content.t2t cv-content.t2t; \
 	else \
-		touch -r cv-content.t2t cv.t2t; \
+		touch -r cv-content.t2t ../publications/pub-content.t2t; \
+	fi
+	if [ cv-content.t2t -nt cv.t2t ]; then \
+	  touch -r cv-content.t2t cv.t2t; \
 	fi
 
