@@ -89,7 +89,7 @@ TEXCODE(\newpage)
 == Open Source Projects ==
 
 | [VOTCA http://www.votca.org] | A versatile object-oriented toolkit for coarse-graining applications | Core Developer
-| [ESPReSo http://www.espresso.mpg.de] | Extensible Simulation Package for Research on Soft matter | Developer
+| [ESPReSo http://www.espressomd.org] | Extensible Simulation Package for Research on Soft matter | Developer
 | [GroMaCS http://www.gromacs.org] | A versatile package to perform molecular dynamics | Contributor
 | [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
 | [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
