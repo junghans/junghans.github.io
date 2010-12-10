@@ -18,10 +18,13 @@
 
 % A commonly used trick to add a little HTML code directly on the
 % sources. It changes {{<br>}} to <br>, {{</i>}} to </i> and so on...
+%!preproc(html): 'HTML\((.*)\)' '\1'
 %!preproc(html): {{(.*?)}}	''\1''
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
 %!postproc(html): 'anchor\((.*?)\)' '<a name="\1"></a>'
+
+%!postproc(html): 'ALIGN="[^"]*" SRC="RIGHT([^"]*)"' 'ALIGN="right" SRC="\1"'
 
 % Remember the SITEPATH wildcard? Here it is expanded to the current
 % folder (dot). Other files may redefine it to .. or ../.. depending

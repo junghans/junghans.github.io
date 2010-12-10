@@ -36,22 +36,22 @@
   //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{<br>}}
   [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://csgth.mpip-mainz.mpg.de]""]""
 %leave the . in the next line to avoid two empty line in tex
-  .{{<br>}}{{<script type="text/javascript" src="""http://www.ohloh.net/p/469750/widgets/project_thin_badge.js""">}}{{</script>}}
+  .{{<br><script type="text/javascript" src="http://www.ohloh.net/p/469750/widgets/project_thin_badge.js"></script>}}
 
 + C. Junghans and S. Poblete,{{<br>}}
   //A reference implementation of the adaptive resolution scheme in ESPResSo//,{{<br>}}
   [Comp. Phys. Comm. JOURNR(181), 1449 (2010) http://dx.doi.org/10.1016/j.cpc.2010.04.013] pdf:2010b.
 
-+ B. P. Lambeth, Jr., C. Junghans, K. Kremer, C. Clementi, and L. Delle Site,{{<br>}}
-  //Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface//,{{<br>}}
++ B. P. Lambeth, Jr., C. Junghans, K. Kremer, C. Clementi, and L. Delle Site, HTML([[RIGHT2010c.jpg] 2010c_big.jpg])
+  {{<br>}}//Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface//,{{<br>}}
   [J. Chem. Phys. JOURNR(133),  221101 (2010) http://dx.doi.org/10.1063/1.3522773] pdf:2010c.
 
 + C. Junghans, M. Bachmann and W. Janke,{{<br>}}
   //Hierarchies in Nucleation Transitions//,{{<br>}}
   [Comp. Phys. Comm., in press (2010) http://dx.doi.org/10.1016/j.cpc.2010.11.015].
 
-
 anchor(recent)
+
 
 === Theses ===
 
@@ -99,3 +99,5 @@ anchor(recent)
 %  //Transport properties controlled by a thermostat: An extended dissipative particle dynamics thermostat//,{{<br>}}
 %  [arXiv:0709.0276v1 (cond-mat.soft) http://arxiv.org/abs/0709.0276].
 
+TEXCODE(\noindent)
+For more infomation see [my ResearcherID profile http://www.researcherid.com/rid/G-4238-2010]
