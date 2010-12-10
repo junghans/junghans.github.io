@@ -21,7 +21,7 @@ Christoph Junghans
 %!postproc(tex): 'tabular}{lll}' 'tabular}{p{0.18\\textwidth}p{0.55\\textwidth}p{0.2\\textwidth}}'
 
 % Remove html code
-%!preproc(tex): '{{.*?}}' ''
+%!preproc(tex): '{{<.*?>}}' ''
 % Remove anchors
 %!preproc(tex): 'anchor\(([^)]*)\)' ''
 

@@ -1,1 +1,43 @@
-pages/home.t2t
+Homepage of Christoph Junghans
+
+Home
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The config used by all pages are centralized on this file
+%!includeconf: ../pages/config.t2t
+
+%%% Some post processing filter magic (search & replace)
+
+% Adds an ID to the <body> tag
+% Note: the (?i) makes the pattern case insensitive (avoids headaches)
+%!postproc: '(?i)(<body)'	'\1 id="home"'
+
+% google tags
+%!postproc: '(?i)(<head>)' '\1\n<meta name="verify-v1" content="Y/4F5bOsUeLPQRL3MXpaT1dn+ceNOBfW96AvUesWE+g=">'
+%!postproc: '(?i)(<head>)' '\1\n<meta name="verify-v1" content="L05wTfF+TirUBN/7eug26MZbrgHWGxNHo2B0poQx+/o=">'
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% All the config is made, so the real contents begins now
+
+% The sidebar with the menu links are on a separated file, included now
+
+%!include: ../pages/menu.t2t
+
+
+[img/junghans.jpg]
+
+
+== About Christoph ==
+
+| Full Name | Dr. Christoph Junghans |
+| Group | [Theory of Polymers http://www.mpip-mainz.mpg.de/theory.html] |
+| Subgroup | [Biomolecular Simulation Group http://www.mpip-mainz.mpg.de/~peter] |
+| Status | Postdoctoral research assistant |
+| Room | 1.701 |
+| Phone | ++49-(0)6131-379-335 |
+| Email | [img/email.jpg] |
+
+
+% The footer is an external file
+
+%!include: ../pages/footer.t2t

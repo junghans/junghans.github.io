@@ -17,8 +17,8 @@
 %!options : --css-sugar
 
 % A commonly used trick to add a little HTML code directly on the
-% sources. It changes {{br}} to <br>, {{/i}} to </i> and so on...
-%!postproc(html): {{(.*?)}}	<\1>
+% sources. It changes {{<br>}} to <br>, {{</i>}} to </i> and so on...
+%!preproc(html): {{(.*?)}}	''\1''
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
 %!postproc(html): 'anchor\((.*?)\)' '<a name="\1"></a>'

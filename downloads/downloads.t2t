@@ -29,7 +29,7 @@ Downloads
 - **mpilist** ([version 1.6.2 mpilist]):
   A script to find certain number of maschines with the lowest load in a network.
 - **guard** ([latest version http://code.google.com/p/cj-overlay/source/browse/guard?repo=evergreens]):
-  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....){{br}}
+  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....){{<br>}}
   __Please note__ that //guard// is now part of the [evergreens repository http://code.google.com/p/cj-overlay/source/checkout?repo=evergreens] at [my Google Code project http://cj-overlay.googlecode.com].
 
 
