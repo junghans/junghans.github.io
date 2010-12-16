@@ -1,10 +1,11 @@
 SUBDIRS=
 include ../pages/Makefile.incl
 OBJS=publications.php 
+CLEANFILES=pub-content-numbered.t2t
 
 all: date pdfcheck $(OBJS)
 
-publications.php: pub-content.t2t
+publications.php: pub-content-numbered.t2t
 
 .PHONY: date pdfcheck
 
@@ -14,6 +15,11 @@ date: dummy
 	else \
 		touch -r pub-content.t2t publications.t2t; \
 	fi
+
+pub-content-numbered.t2t: pub-content.t2t
+	tac $< | \
+	perl -pe '$$nr=0 if /^==/; $$nr++ if /^\+/; s/^\+ /+ NR($$nr) /' | \
+	tac > $@
 
 pdfcheck: pub-content.t2t dummy
 	@for i in `sed -n 's/^.*pdf:\(.....\).*$$/\1.pdf/p' $<`; do \

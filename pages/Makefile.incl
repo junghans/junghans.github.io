@@ -42,4 +42,4 @@ subdirclean: $(CLEANDIRS)
 	$(MAKE) $(MFLAGS) -C $* clean
 
 clean: subdirclean
-	rm -rf *~ $(OBJS)
+	rm -rf *~ $(OBJS) $(CLEANFILES)

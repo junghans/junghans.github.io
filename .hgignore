@@ -6,6 +6,7 @@ phd/*
 old/*
 stuff/*
 publications/publications.php
+publications/pub-content-numbered.t2t
 downloads/downloads.php
 downloads/*
 pages/bash.php

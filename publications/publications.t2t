@@ -28,9 +28,7 @@ Publications
 
 %!include: ../pages/menu.t2t
 
-[To most recent paper #recent]
-
-%!include: ../publications/pub-content.t2t
+%!include: ../publications/pub-content-numbered.t2t
 
 % The footer is an external file
 
