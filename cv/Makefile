@@ -4,8 +4,8 @@ OBJS=cv-web.php
 all: date $(OBJS)
 
 #extra deps
-cv-web.php: cv-content.t2t ../publications/pub-content.t2t 
-cv.pdf: cv-content.t2t ../publications/pub-content.t2t
+cv-web.php: cv-content.t2t ../publications/pub-content-numbered.t2t 
+cv.pdf: cv-content.t2t ../publications/pub-content-numbered.t2t
 
 .PHONY: date
 
