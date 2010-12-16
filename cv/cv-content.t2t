@@ -34,46 +34,12 @@
 | March 2002             | Student assistant, Institute for Theoretical Physics, University of Leipzig
 
 
-TEXCODE(\newpage)
-== Teaching Experience ==
-
-| April 2007 - Sept. 2008 | Tutor, Theoretical physics I/II/III, Johannes Gutenberg University of Mainz
-| April 2006 - Sept. 2006 | Tutor, Introduction to computer simulations I, University of Leipzig
-| Oct. 2005 - March 2006  | Tutor, Simulation methods in generalized ensembles, University of Leipzig
-| Sept. 2004 - Oct. 2004  | Tutor, Mathematical preparation course for first-year students, University of Leipzig
-
-
-== Engagement ==
-
-| July 2007 - Dec. 2008  | PhD representative of the Kremer group, Max Planck Institute for Polymer Research, Mainz
-| Nov. 2007 - Nov. 2008  | PhD representative of the MPI for Polymer Research
-| Oct. 2002 - Sept. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University Leipzig
-|             //Tasks:// | Spokesperson of the students of the Physics Department (2 years)
-|                        | Full member of faculty council of the Physics Department (2 years)
-|                        | Full member of council of the University of Leipzig (2 years)
-|                        | Member of the commission for examination issues of the Physics Department (2 years)
-|                        | Member of the commission for study affairs of Physics Department (3 years)
-|                        | Financial assignee of the Fachschaftsrates of the Physics Department (1 year)
-
-
-== Computer Skills ==
-
-| **General**               | Linux, AIX, Mac OS, DOS, Windows
-| **Programming**           | C, Fortran, MPI, OpenMP
-| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl
-| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
-
-
 == Awards ==
 
 | June 2010 | Participant of 60th Lindau Nobel Laureate Meetings
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
 | July 2000 | Book award of the German Physical Society (DPG) for school graduates
-
-== Publications ==
-
-%!include: ../publications/pub-content.t2t
 
 
 == Invited Talks ==
@@ -94,6 +60,45 @@ TEXCODE(\newpage)
 | [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
 | [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
 
-
-TEXCODE(\noindent)
 For more infomation see [my ohloh profile http://www.ohloh.net/accounts/junghans]
+
+== Computer Skills ==
+
+| **General**               | Linux, AIX, Mac OS, DOS, Windows
+| **Programming**           | C, Fortran, MPI, OpenMP
+| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl
+| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
+
+
+== Teaching Experience ==
+
+| April 2007 - Sept. 2008 | Tutor, Theoretical physics I/II/III, Johannes Gutenberg University of Mainz
+| April 2006 - Sept. 2006 | Tutor, Introduction to computer simulations I, University of Leipzig
+| Oct. 2005 - March 2006  | Tutor, Simulation methods in generalized ensembles, University of Leipzig
+| Sept. 2004 - Oct. 2004  | Tutor, Mathematical preparation course for first-year students, University of Leipzig
+
+
+== Representative Experience ==
+
+| July 2007 - Dec. 2008  | PhD representative of the Kremer group, Max Planck Institute for Polymer Research, Mainz
+| Nov. 2007 - Nov. 2008  | PhD representative of the MPI for Polymer Research
+| Oct. 2002 - Sept. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University of Leipzig
+
+
+Extensive committee work at University Leipzig
+
+%=== Committee Experience ===
+%- Spokesperson of the students of the Physics Department (2 years)
+%- Full member of faculty council of the Physics Department (2 years)
+%- Full member of council of the University of Leipzig (2 years)
+%- Member of the commission for examination issues of the Physics Department (2 years)
+%- Member of the commission for study affairs of Physics Department (3 years)
+%- Treasurer of the student government of the Physics Department (1 year)
+
+
+== Publications ==
+
+%!include: ../publications/pub-content.t2t
+
+
+%end

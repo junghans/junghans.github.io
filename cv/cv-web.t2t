@@ -22,8 +22,8 @@ Curriculum Vitae
 
 %!include: cv-content.t2t
 
---------------------
-Download this as [pdf SITEPATH/cv/cv.pdf].
+%--------------------
+%Download this as [pdf SITEPATH/cv/cv.pdf].
 
 % The footer is an external file
 

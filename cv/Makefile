@@ -1,6 +1,6 @@
 SUBDIRS=
 include ../pages/Makefile.incl
-OBJS=cv-web.php cv.pdf
+OBJS=cv-web.php
 all: date $(OBJS)
 
 #extra deps
