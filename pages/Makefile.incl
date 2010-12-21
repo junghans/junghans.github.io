@@ -1,8 +1,7 @@
 SHELL=/bin/bash
 all: $(SUBDIRS)
 
-BASE=/people/thnfs/homes/junghans/public_html/
-TRUNC=$(shell pwd | sed -e 's@^$(BASE)@@' -e 's@[^/]\+@..@g')
+TRUNC=$(shell hg root)
 
 PHPDEPS=$(TRUNC)/pages/config.t2t \
        	$(TRUNC)/pages/footer.t2t \
