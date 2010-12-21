@@ -1,4 +1,4 @@
-SUBDIRS=
+SUBDIRS=tex
 include ../pages/Makefile.incl
 OBJS=cv-web.php
 all: date $(OBJS)
