@@ -22,6 +22,7 @@
 %!preproc(html): {{(.*?)}}	''\1''
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
+%!postproc(html): 'ö' '&ouml;'
 %!postproc(html): 'anchor\((.*?)\)' '<a name="\1"></a>'
 
 %!postproc(html): 'ALIGN="[^"]*" SRC="RIGHT([^"]*)"' 'ALIGN="right" SRC="\1"'
