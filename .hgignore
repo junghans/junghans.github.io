@@ -15,6 +15,7 @@ pages/fluchomat.php
 logs/*.txt
 cv/cv-web.php
 cv/cv.pdf
+cv/cv.tex
 cv/tex/cv.aux
 cv/tex/cv.fdb_latexmk
 cv/tex/cv.log
