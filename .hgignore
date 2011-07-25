@@ -12,6 +12,7 @@ downloads/*
 pages/bash.php
 pages/home.php
 pages/fluchomat.php
+pages/impressum.php
 logs/*.txt
 cv/cv-web.php
 cv/cv.pdf
