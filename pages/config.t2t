@@ -23,6 +23,7 @@
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
 %!postproc(html): 'ö' '&ouml;'
+%!postproc(html): 'ß' '&szlig;'
 %!postproc(html): 'é' '&eacute;'
 %!postproc(html): 'anchor\((.*?)\)' '<a name="\1"></a>'
 
