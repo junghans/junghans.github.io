@@ -10,7 +10,7 @@ Impressum
 
 % Adds an ID to the <body> tag
 % Note: the (?i) makes the pattern case insensitive (avoids headaches)
-%!postproc: '(?i)(<body)'	'\1 id="fluchomat"'
+%!postproc: '(?i)(<body)'	'\1 id="impress"'
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
