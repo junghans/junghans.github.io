@@ -26,7 +26,7 @@ Christoph Junghans
 % Remove anchors
 %!preproc(tex): 'anchor\(([^)]*)\)' ''
 
-%!postproc(tex): 'SITEPATH'  'http://www.mpip-mainz.mpg.de/~junghans'
+%!postproc(tex): 'SITEPATH'  'http://www.compphys.de'
 %!preproc(tex): 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
 
 %!postproc(tex): 'item NR\(([0-9]+)\)' 'item[\1]'
