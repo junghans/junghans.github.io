@@ -22,3 +22,4 @@ cv/tex/cv.fdb_latexmk
 cv/tex/cv.log
 cv/tex/cv.out
 cv/tex/cv.pdf
+img/*.tex
