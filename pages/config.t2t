@@ -49,7 +49,8 @@
 % meta: description
 %!postproc: (</HEAD>)	<meta name="description" content="Homepage of Christoph Junghans">\n\1
 
-%%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<A HREF="http://www.mpip-mainz.mpg.de"><IMG SRC="http://www.mpip-mainz.mpg.de/www/images/MPIP_Logo"></A>'
+% make logo clickable
+%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="http://www.mpip-mainz.mpg.de"></a>'
 
 % Make my name bold in publications
 %!preproc: '(C. Junghans)' '**\1**'

@@ -107,6 +107,15 @@ form
 	{
 	font-weight	: normal;
 	}
+#linklogo
+	{
+  	position: absolute;
+	right: 0px;
+	top: 17px;
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	}
 
 
 /***************************** CONTENT **************************** 
