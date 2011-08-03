@@ -1,6 +1,6 @@
 SUBDIRS=
 include ../pages/Makefile.incl
-OBJS=email.jpg
+OBJS=email.png
 all: $(OBJS)
 
 MAIL="junghans@mpip-mainz.mpg.de"

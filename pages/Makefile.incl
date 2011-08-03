@@ -28,6 +28,9 @@ dummy: ;
 %.jpg: %.eps
 	convert $< $@
 
+%.png: %.eps
+	convert $< $@
+
 %.eps: %.dvi
 	dvips -E $* -o $@
 
