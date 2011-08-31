@@ -25,6 +25,19 @@ dummy: ;
 	pdflatex -halt-on-error $<
 	rm -f $*.aux $*.log $*.out
 
+%.jpg: %.eps
+	convert $< $@
+
+%.png: %.eps
+	convert $< $@
+
+%.eps: %.dvi
+	dvips -E $* -o $@
+
+%.dvi: %.tex
+	latex $<
+	rm -rf $*.log $*.aux
+
 .PHONY: $(SUBDIRS)
 
 $(SUBDIRS):

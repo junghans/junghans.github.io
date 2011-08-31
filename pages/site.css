@@ -107,6 +107,16 @@ form
 	{
 	font-weight	: normal;
 	}
+#linklogo
+	{
+  	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 155px;
+	height: 117px;
+	background-color: transparent;
+	/*border: 1px solid yellow;*/
+	}
 
 
 /***************************** CONTENT **************************** 
@@ -266,11 +276,10 @@ form
 */
 
 body#home #sidebar li#menuhome,
-body#publications #sidebar li#menupubl,
-body#cv #sidebar li#menucv,
 body#downloads #sidebar li#menudown,
 body#fluchomat #sidebar li#menuflom,
-body#bash #sidebar li#menubash
+body#bash #sidebar li#menubash,
+body#impress #sidebar li#menuimpress
 	{
 	list-style-type	: square;
 	}

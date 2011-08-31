@@ -23,6 +23,8 @@
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
 %!postproc(html): 'ö' '&ouml;'
+%!postproc(html): 'ß' '&szlig;'
+%!postproc(html): 'é' '&eacute;'
 %!postproc(html): 'anchor\((.*?)\)' '<a name="\1"></a>'
 
 %!postproc(html): 'ALIGN="[^"]*" SRC="RIGHT([^"]*)"' 'ALIGN="right" SRC="\1"'
@@ -47,7 +49,8 @@
 % meta: description
 %!postproc: (</HEAD>)	<meta name="description" content="Homepage of Christoph Junghans">\n\1
 
-%%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<A HREF="http://www.mpip-mainz.mpg.de"><IMG SRC="http://www.mpip-mainz.mpg.de/www/images/MPIP_Logo"></A>'
+% make logo clickable
+%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="http://www.mpip-mainz.mpg.de"></a>'
 
 % Make my name bold in publications
 %!preproc: '(C. Junghans)' '**\1**'
