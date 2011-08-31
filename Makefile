@@ -1,2 +1,2 @@
-SUBDIRS=pages publications downloads cv
+SUBDIRS=pages downloads
 include pages/Makefile.incl
