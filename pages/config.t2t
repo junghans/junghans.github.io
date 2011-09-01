@@ -39,10 +39,10 @@
 %!postproc: '(?i)(<head>)'	'\1\n<meta name="author" content="Christoph Junghans">'
 
 % Trick to add the favicon meta tag right before the </head> tag.
-%!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" href="img/favicon.png">\n\1'
+%!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/png" href="img/favicon.ico">\n\1'
 
 % Trick to add an automatic link to the page top title
-%!postproc: '^<H1>(Homepage of .*)</H1>$'   '<h1><a href="/">\1</a></h1>'
+%!postproc: '^<H1>(Homepage of .*)</H1>$'   '<h1><a href="HOME">\1</a></h1>'
 
 % Trick to add the TITLE/ALT attribute to an image
 %!postproc(html): '(?i)(src="[^"]*t2tpowered.png")'         '\1 title="O>OOOO"'
@@ -53,7 +53,7 @@
 %!postproc: (</HEAD>)	<meta name="keywords" content="Christoph Junghans, Junghans, Christoph, Monte Carlo, Multicanonical, dpd, dissipative particle dynamics, espresso, gromacs, adress ">\n\1
 
 % meta: description
-%!postproc: (</HEAD>)	<meta name="description" content="Homepage of Christoph Junghans">\n\1
+%!postproc: (</HEAD>)	<meta name="description" content="Homepage of Ottxor">\n\1
 
 % make logo clickable
 %!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="AFFI"></a>'
@@ -71,6 +71,7 @@
 %!preproc: 'JOURNR\((.*?)\)' '\1'
 
 %!preproc: {GPLOT}              http://gnuplotutils.googlecode.com
-%!postproc: AFFI               http://www.mpip-mainz.mpg.de
+%!postproc: HOME                http://dev.gentoo.org/~ottxor
+%!postproc: AFFI                http://www.gentoo.org
 
 
