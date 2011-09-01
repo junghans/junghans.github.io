@@ -103,6 +103,15 @@ form
 	{
 	margin		: 0;
 	}
+#header a
+        {
+        color           : white;
+        text-decoration : none;
+        }
+#header a:hover
+        {
+        background      : transparent;
+	}
 #header h3
 	{
 	font-weight	: normal;
