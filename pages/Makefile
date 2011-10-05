@@ -11,6 +11,6 @@ itemcheck: menu-links.html dummy
 	done
 
 itemcheck2: site.css dummy
-	for i in `sed -n 's/.*li#\(menu[a-z]*\).*/\1/p' $<`; do \
+	@for i in `sed -n 's/.*li#\(menu[a-z]*\).*/\1/p' $<`; do \
 	  grep -q "id=.$$i" menu-links.html || ( echo $$i is missing in menu-links.html; exit 1; ) \
 	done
