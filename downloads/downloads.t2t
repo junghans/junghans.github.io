@@ -25,12 +25,12 @@ Downloads
 - **gplot & gp2eps** :
   Some script to be used with gnuplot, have been moved to [googlecode {GPLOT}].
 - **job-tools** (including qstart,lstart,..) have moved to [googlecode http://code.google.com/p/cj-overlay/source/browse?repo=job-tools&name=mpip]
-- **[guard http://code.google.com/p/cj-overlay/source/browse?repo=evergreens]**:  A script to run command after a given file was modified. (latex after tex-files, make after c-files,....){{<br>}}
+- **[guard http://code.google.com/p/cj-overlay/source/browse?repo=evergreens]**:  A script to execute a command after a given file was modified. (latex after tex-files, make after c-files,....){{<br>}}
 
 
 == Free Books ==
 
-- **Mercurial: The Definitive Guide** from Bryan O'Sullivan ([version from 2009-03-10 http://i18n-zh.googlecode.com/files/hgbook-en-090310.pdf]) 
+- **Mercurial: The Definitive Guide** from Bryan O'Sullivan ([version from 2009-03-10 http://i18n-zh.googlecode.com/files/hgbook-en-090310.pdf])
 - **Die Programmiersprache Perl** (in german) from Eike Grote ([version 2.02 http://www.cpan.org/authors/id/E/EI/EIKEG/doc/perl-tutorial-DE_2.02.pdf])
 - [Warum Microsoft-Word-Dokumente nichts in Email-Anhängen zu suchen haben! http://blog.jan-filter.de/wp-content/uploads/2006/08/word_doc.pdf]
 
