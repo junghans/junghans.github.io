@@ -1,6 +1,6 @@
 SUBDIRS=
 include ../pages/Makefile.incl
-OBJS=home.php fluchomat.php bash.php impressum.php
+OBJS=home.php fluchomat.php impressum.php
 all: $(OBJS) itemcheck itemcheck2
 
 .PHONY: itemcheck itemcheck2

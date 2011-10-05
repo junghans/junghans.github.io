@@ -9,10 +9,7 @@ publications/publications.php
 publications/pub-content-numbered.t2t
 downloads/downloads.php
 downloads/*
-pages/bash.php
-pages/home.php
-pages/fluchomat.php
-pages/impressum.php
+pages/*.php
 logs/*.txt
 cv/cv-web.php
 cv/cv.pdf
