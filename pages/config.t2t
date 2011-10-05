@@ -50,7 +50,7 @@
 % Trick to use a remote image (footer)
 %!postproc: 't2tpowered-white.png' 'http://txt2tags.sourceforge.net/img/t2tpowered-white.png'
 
-%!postproc: (</HEAD>)	<meta name="keywords" content="Christoph Junghans, Junghans, Christoph, Monte Carlo, Multicanonical, dpd, dissipative particle dynamics, espresso, gromacs, adress ">\n\1
+%!postproc: (</HEAD>)	<meta name="keywords" content="Christoph Junghans, Junghans, Christoph, espresso, gromacs, adress ">\n\1
 
 % meta: description
 %!postproc: (</HEAD>)	<meta name="description" content="Homepage of Ottxor">\n\1
