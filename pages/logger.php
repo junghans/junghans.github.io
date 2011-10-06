@@ -7,7 +7,6 @@ $ip = $_SERVER['REMOTE_ADDR'];
 $ip = $ip." (".@GetHostByAddr($ip).")";
 $uri = $_SERVER['REQUEST_URI'];
 $userAgent = $_SERVER['HTTP_USER_AGENT'];
-$referrer = $_SERVER['HTTP_REFERER'];
 $query = $_SERVER['QUERY_STRING'];
 
 if (empty($page))
@@ -16,7 +15,7 @@ if (empty($page))
 }
 
 //COMBINE VARS INTO OUR LOG ENTRY
-$msg = "IP: ".$ip." URI: ".$uri." TIME: ".$time." REFERRER: ".$referrer." PAGE: ".$page." SEARCHSTRING: ".$query." USERAGENT: ".$userAgent;
+$msg = "IP: ".$ip." URI: ".$uri." TIME: ".$time."  PAGE: ".$page." SEARCHSTRING: ".$query." USERAGENT: ".$userAgent;
 
 //CALL OUR LOG FUNCTION
 writeToLogFile($msg);
