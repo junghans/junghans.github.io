@@ -88,14 +88,14 @@ form
 / They are placed inside the #header DIV when using --css-suggar.
 / So we can format it freely without messing other rules.
 /
-/ Yes, it is that green strip at the top. Note that the white gems
+/ Yes, it is that green strip at the top. Note that the hite gems
 / image is referred as background.
 */
 
 #header
 	{
-	background	: #007a69 url(img/MPIP_Logo.gif) no-repeat right;
-	color		: white;
+	background	: white url(img/Logo) no-repeat right;
+	color		: #66f;
 	margin		: 0;
 	padding		: 1.8em;
 	}
@@ -105,7 +105,7 @@ form
 	}
 #header a
         {
-        color           : white;
+        color           : #66f;
         text-decoration : none;
         }
 #header a:hover
@@ -120,9 +120,9 @@ form
 	{
   	position: absolute;
 	right: 0px;
-	top: 17px;
-	width: 80px;
-	height: 80px;
+	top: 25px;
+	width: 180px;
+	height: 66px;
 	background-color: transparent;
 	/*border: 1px solid yellow;*/
 	}
@@ -143,7 +143,7 @@ form
 	{
 	margin		: 0;
 	padding		: 0 2em 2em 2em;
-	border-top	: 1px solid #007a69; /* Required: Fixes spacing bug */
+	border-top	: 1px solid #cf9; /* Required: Fixes spacing bug */
 	line-height	: 130%;
 	font-size	: 90%;
 	_font-size	: 80%; /* IE: Font becomes ugly with 90% */
