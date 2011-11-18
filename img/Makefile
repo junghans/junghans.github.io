@@ -3,7 +3,7 @@ include ../pages/Makefile.incl
 OBJS=email.png
 all: $(OBJS)
 
-MAIL="ottxor@g.o"
+MAIL="ottxor@gentoo.org"
 	
 email.tex: Makefile
 	echo '\documentclass{minimal}' > $@

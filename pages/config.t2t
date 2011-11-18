@@ -42,7 +42,7 @@
 %!postproc: '(?i)(</head>)'	'<link rel="icon" type="image/x-icon" href="HOME/img/favicon.ico">\n\1'
 
 % Trick to add an automatic link to the page top title
-%!postproc: '^<H1>(Homepage of .*)</H1>$'   '<h1><a href="HOME">\1</a></h1>'
+%!postproc: '^<H1>(.*Homepage of .*)</H1>$'   '<h1><a href="HOME">\1</a></h1>'
 
 % Trick to add the TITLE/ALT attribute to an image
 %!postproc(html): '(?i)(src="[^"]*t2tpowered.png")'         '\1 title="O>OOOO"'
