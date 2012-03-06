@@ -1,11 +1,15 @@
 
 
 
-=== Reviewed Papers & Proceedings ===
+=== Reviewed Papers ===
 
-+ S. Fritsch, C. Junghans and K. Kremer{{<br>}}
++ S. Fritsch, S. Poblete, C. Junghans, G. Ciccotti, L. Delle Site and K.Kremer,{{<br>}}
+  //Adaptive resolution molecular dynamics simulation through coupling to an internal particle reservoir//,{{<br>}}
+  [Phys. Rev. Lett., in press (2012) http://prl.aps.org/accepted/L/7a076Ye7Wf410e2fe963542091e771ed5eeb25f66] .
+
++ S. Fritsch, C. Junghans and K. Kremer,{{<br>}}
   //Structure formation of toluene around C60: Implementation of the Adaptive Resolution Scheme (AdResS) into GROMACS//,{{<br>}}
-  [J. Chem. Theo. Comp. in press (2012) http://dx.doi.org/10.1021/ct200706f] pdf:2012a.
+  [J. Chem. Theo. Comp. JOURNR(8), 398 (2012) http://dx.doi.org/10.1021/ct200706f] pdf:2012a.
 
 + V. Rühle and C. Junghans,{{<br>}}
   //Hybrid approaches to coarse-graining using the VOTCA package: liquid hexane//,{{<br>}}
