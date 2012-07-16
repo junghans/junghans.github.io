@@ -4,6 +4,9 @@ Christoph Junghans
 
 %!postproc(tex): 'ü' '{\"u}'
 %!postproc(tex): 'ä' '{\"a}'
+%!postproc(tex): 'ö' '{\"o}'
+%!postproc(tex): 'ß' '{\ss}'
+%!postproc(tex): 'é' "{\'e}"
 
 % Quoting
 %!postproc(tex): '"(.*?)"' ``\1''
