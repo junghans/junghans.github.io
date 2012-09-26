@@ -61,6 +61,7 @@
 
 
 === Seminar Talks ===
+| Sep. 2012 | "Adaptive Resolution Simulations of C60 in Toluene", [Biomolecular Modeling Group http://www.matysiaklab.umd.edu/], [UMD http://www.umd.edu/]
 | Aug. 2012 | "Multi-scale Modeling using the Adaptive Resolution Scheme", [Sandia National Laboratory http://www.sandia.gov/], Albuquerque, NM
 | May 2012 | "Particle-based multi-scale simulations using the Adaptive Resolution Scheme", [IBM Research, Almaden http://www.almaden.ibm.com]
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", [DFH-UFA http://www.dfh-ufa.org] & [TKM http://www.physik.uni-leipzig.de/tkm.html] Seminar, [Institut für Theoretische Physik http://www.physik.uni-leipzig.de], [University of Leipzig http://www.zv.uni-leipzig.de]
@@ -75,12 +76,13 @@
 
 
 === Contributed Talks ===
-| Mar. 2012 | "Structure formation of toluene around C60: Application of the Adaptive Resolution Scheme", [APS March Meeting http://www.aps.org/meetings/meeting.cfm?name=MAR12], Boston 2012
+| Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", [IWCMM XXII http://iwcmm22.jhu.edu/]
+| Mar. 2012 | "Structure formation of toluene around C60: Application of the Adaptive Resolution Scheme", [APS March Meeting 2012 http://www.aps.org/meetings/meeting.cfm?name=MAR12], Boston
 | Feb. 2012 | "Local structure formation of toluene around a C60 fullerene: An adaptive resolution study", [25th Annual CSP Workshop http://www.csp.uga.edu/Workshop/2012], [Center for Simulational Physics http://www.csp.uga.edu], [University of Georgia http://www.uga.edu]
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", [CompPhys09 http://www.physik.uni-leipzig.de/~janke/CompPhys09], [ITP Leipzig http://www.physik.uni-leipzig.de]
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08], [ITP Leipzig http://www.physik.uni-leipzig.de]
 | June 2008 | "Adjusting dynamic material properties by a thermostat", [ICMMES 2008 http://2008.icmmes.org], [University of Amsterdam http://www.uva.nl]
-| Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting http://berlin08.dpg-tagungen.de], Berlin 2008
+| Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008 http://berlin08.dpg-tagungen.de], Berlin
 
 
 == Open Source Projects ==
