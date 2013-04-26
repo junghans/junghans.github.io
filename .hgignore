@@ -5,20 +5,10 @@ syntax:glob
 phd/*
 old/*
 stuff/*
-publications/publications.php
-publications/pub-content-numbered.t2t
 downloads/downloads.php
 downloads/*
 pages/*.php
 logs/*.txt
-cv/cv-web.php
-cv/cv.pdf
-cv/cv.tex
-cv/tex/cv.aux
-cv/tex/cv.fdb_latexmk
-cv/tex/cv.log
-cv/tex/cv.out
-cv/tex/cv.pdf
 img/*.tex
 img/email.png
 
