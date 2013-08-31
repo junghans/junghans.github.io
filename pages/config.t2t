@@ -39,7 +39,7 @@
 %!postproc: '(?i)(<head>)'	'\1\n<meta name="author" content="Christoph Junghans">'
 
 % Trick to add the favicon meta tag right before the </head> tag.
-%!postproc: '(?i)(</head>)'	'<link rel="icon" href="HOME/img/Icon">\n\1'
+%%!postproc: '(?i)(</head>)'	'<link rel="icon" href="HOME/img/Icon">\n\1'
 
 % Trick to add an automatic link to the page top title
 %!postproc: '^<H1>(.*Homepage of .*)</H1>$'   '<h1><a href="HOME">\1</a></h1>'
@@ -56,7 +56,7 @@
 %!postproc: (</HEAD>)	<meta name="description" content="Private Homepage of Christoph Junghans">\n\1
 
 % make logo clickable
-%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="AFFI"></a>'
+%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="AFFI"></a>'
 
 % Make my name bold in publications
 %!preproc: '(C. Junghans)' '**\1**'

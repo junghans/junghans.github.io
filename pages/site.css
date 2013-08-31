@@ -94,7 +94,7 @@ form
 
 #header
 	{
-	background	: white url(img/Logo) no-repeat right;
+	/*background	: white url(img/Logo) no-repeat right;*/
 	color		: #66f;
 	margin		: 0;
 	padding		: 1.8em;
