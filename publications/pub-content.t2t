@@ -3,9 +3,13 @@
 
 === Reviewed Papers ===
 
++ A. Nagarajan, C. Junghans and S. Matysiak,{{<br>}}
+  //Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining//,{{<br>}}
+  to appear in J. Chem. Theo. Comp. (2013).
+
 + S. Bevc, C. Junghans, K. Kremer and M. Praprotnik,{{<br>}}
   //Adaptive resolution simulation of salt solutions//,{{<br>}}
-  [to appear in New J. Phys., JOURNR(15), (2013) http://iopscience.iop.org/1367-2630/focus/Focus%20on%20Novel%20Materials%20Discovery].
+  [New J. Phys., JOURNR(15), 105007 (2013) http://dx.doi.org/10.1088/1367-2630/15/10/105007] pdf:2013a.
 
 + P. Ganguly, D. Mukherji, C. Junghans and N. F. A. van der Vegt,{{<br>}}
   //Kirkwood-Buff coarse-grained force fields for aqueous solutions//,{{<br>}}
