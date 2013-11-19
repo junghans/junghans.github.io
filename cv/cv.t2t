@@ -32,7 +32,7 @@ Christoph Junghans
 %!postproc(tex): 'SITEPATH'  'http://www.compphys.de'
 %!preproc(tex): 'pdf:(.{5})' '""[""[online SITEPATH/publications/\1.pdf]""]""'
 
-%!postproc(tex): 'item NR\(([0-9]+)\)' 'item[\1]'
+%!postproc(tex): 'item NR\(([0-9]+)\)' 'item[\1.]'
 
 %decrease section level by one
 %in web it look nice, but in tex not
