@@ -1,6 +1,13 @@
 
 
 
+=== Preprints ===
+
++ C. Junghans, D. Perez and T. Vogel,{{<br>}}
+  //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
+  [arXiv:1401.6184 http://arxiv.org/abs/1401.6184].
+
+
 === Reviewed Papers ===
 
 + A. Nagarajan, C. Junghans and S. Matysiak,{{<br>}}
@@ -134,9 +141,3 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
   in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/zam/gaststudenten/ib-2005-13.pdf],
   John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
 
-
-%== Preprints ==
-%
-%+ C. Junghans, M. Praprotnik and K. Kremer,{{<br>}}
-%  //Transport properties controlled by a thermostat: An extended dissipative particle dynamics thermostat//,{{<br>}}
-%  [arXiv:0709.0276v1 (cond-mat.soft) http://arxiv.org/abs/0709.0276].
