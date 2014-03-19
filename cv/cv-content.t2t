@@ -26,15 +26,15 @@
 
 | Mar. 2013 - Present    | Director's Postdoctoral Fellow, Theoretical Division, Los Alamos National Lab
 | Nov. 2011 - Feb. 2013  | Postdoctoral research assistant, Theoretical Division, Los Alamos National Lab
-| May 2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara
-| Nov. 2010 - Oct. 2011  | Postdoctoral research assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz
-| Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz
+| May 2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
+| Nov. 2010 - Oct. 2011  | Postdoctoral research assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
+| Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
 | Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
-| Oct. 2003 - Sept. 2006 | Student assistant, Institute for Theoretical Physics, University of Leipzig
-| Aug. 2005 - Oct. 2005  | Visiting students program "Scientific Computing", Jülich Supercomputing Centre
-| Sept. 2004             | Student assistant, Institute for Meteorology, University of Leipzig
-| Feb. 2003 - April 2003 | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg
-| March 2002             | Student assistant, Institute for Theoretical Physics, University of Leipzig
+| Oct. 2003 - Sep. 2006  | Student assistant, Institute for Theoretical Physics, University of Leipzig
+| Aug. 2005 - Oct. 2005  | Visiting students program "Scientific Computing", Jülich Supercomputing Centre, Germany
+| Sep. 2004              | Student assistant, Institute for Meteorology, University of Leipzig
+| Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
+| Mar. 2002              | Student assistant, Institute for Theoretical Physics, University of Leipzig
 
 
 == Awards ==
@@ -47,6 +47,82 @@
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
 %| July 2000 | Book award of the German Physical Society (DPG) for school graduates
 
+== Open Source Projects ==
+
+| [VOTCA http://www.votca.org] | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
+| [GroMaCS http://www.gromacs.org] | Versatile package to perform molecular dynamics | Developer
+| [Gentoo http://www.gentoo.org] | An advanced linux distribution | Developer
+| [ESPReSo http://www.espressomd.org] | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
+| [ESPReSo++ http://www.espresso-pp.de] | Successor of the ESPResSo simulation package | Developer (inactive)
+%| [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
+%| [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
+
+For more infomation see [my ohloh profile http://www.ohloh.net/accounts/junghans]
+
+
+== Professional Services ==
+
+=== Refereeing ===
+
+- ACS - J. Chem. Inf. Model. & J. Phys. Chem.
+- AIP - J. Chem. Phys.
+- Elsevier - Comp. Phys. Comm.
+- RSC - Phys. Chem. Chem. Phys.
+
+
+=== Code Review ===
+- [Gromacs https://gerrit.gromacs.org]
+- [OpenSuse Build Service https://build.opensuse.org]
+- [Gentoo Science Project https://github.com/gentoo-science]
+
+
+=== Chairing ===
+- APS 
+
+
+=== Academic ===
+
+| July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
+| Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
+| Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
+
+%=== Committee Experience ===
+%- Spokesperson of the students of the Physics Department (2 years)
+%- Full member of faculty council of the Physics Department (2 years)
+%- Full member of council of the University of Leipzig (2 years)
+%- Member of the commission for examination issues of the Physics Department (2 years)
+%- Member of the commission for study affairs of Physics Department (3 years)
+%- Treasurer of the student government of the Physics Department (1 year)
+
+
+== Computer Skills ==
+
+| **General**               | Linux, AIX, Mac OS, DOS, Windows
+| **Programming**           | C, Fortran, MPI, OpenMP
+| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl, Python
+| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
+
+
+== Teaching Experience ==
+
+=== Teaching Assistant ===
+| Apr. 2008 - Sep. 2008 | Theoretical physics III, Johannes Gutenberg University of Mainz
+| Oct. 2007 - Mar. 2008 | Theoretical physics II, Johannes Gutenberg University of Mainz
+| Apr. 2007 - Sep. 2007 | Theoretical physics I, Johannes Gutenberg University of Mainz
+| Apr. 2006 - Sep. 2006 | Introduction to computer simulations I, University of Leipzig
+| Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
+
+=== Mentoring ===
+| Jul. 2013 - Aug. 2013  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
+| Oct. 2005 - Mar. 2006  | Simulation methods in generalized ensembles (2 Students), University of Leipzig
+
+=== Tutorials ===
+| Oct. 2013 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| July 2013 | Gromacs Tutorial, [The Seventh q-bio Summer School http://q-bio.org/wiki/The_Seventh_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
+| Oct. 2012 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| July 2012 | Gromacs Tutorial, [The Sixth q-bio Summer School http://cnls.lanl.gov/q-bio/wiki/index.php/The_Sixth_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
+| Oct. 2011 | Hands-on: VOTCA, [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| May 2010  | Votca Workshop, [CSI Darmstadt http://www.csi.tu-darmstadt.de/]
 
 == Talks ==
 
@@ -56,21 +132,15 @@
 
 === Invited Talks ===
 | Oct. 2013 | "Recent and Future Developments of VOTCA", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| Oct. 2013 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| July 2013 | Gromacs Tutorial, [The Seventh q-bio Summer School http://q-bio.org/wiki/The_Seventh_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
-| Oct. 2012 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
 | Oct. 2012 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| July 2012 | Gromacs Tutorial, [The Sixth q-bio Summer School http://cnls.lanl.gov/q-bio/wiki/index.php/The_Sixth_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
 | June 2012 | "Molecular Dynamics using Gromacs", Intel EPOCH, Workshop, Portland, OR 
 | June 2012 | ["Towards a Unified Framework for Coarse-graining Particle-based Simulations" http://online.kitp.ucsb.edu/online/multiscale_c12/junghans/], [KITP http://www.kitp.ucsb.edu] [Conference: "Modeling Soft Matter: Linking Multiple Length and Time Scales" http://www.kitp.ucsb.edu/activities/dbdetails?acro=multiscale12], [UCSB http://www.ucsb.edu]
-| Oct. 2011 | Hands-on: VOTCA, [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
 | Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
 | Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo" http://www.cecam.org/workshop-4-489.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| May 2010  | Votca Workshop, [CSI Darmstadt http://www.csi.tu-darmstadt.de/]
 | Nov. 2007 | "Controlling material properties using a thermostat", [CompPhys07 http://www.physik.uni-leipzig.de/~janke/CompPhys07], [ITP Leipzig http://www.physik.uni-leipzig.de]
 
 
-=== Seminar Talks ===
+=== Seminar Talks (invited) ===
 | Sep. 2012 | "Adaptive Resolution Simulations of C60 in Toluene", [Biomolecular Modeling Group http://www.matysiaklab.umd.edu/], [UMD http://www.umd.edu/]
 | Aug. 2012 | "Multi-scale Modeling using the Adaptive Resolution Scheme", [Sandia National Laboratory http://www.sandia.gov/], Albuquerque, NM
 | May 2012 | "Particle-based multi-scale simulations using the Adaptive Resolution Scheme", [IBM Research, Almaden http://www.almaden.ibm.com]
@@ -87,7 +157,8 @@
 
 
 === Contributed Talks ===
-| Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", [Gromacs USA Workshop and Conference http://faculty.virginia.edu/gromacsworkshop/], [UVA http://www.virginia.edu/].
+| Mar. 2014 | "Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics", [APS March Meeting 2014 http://www.aps.org/meetings/meeting.cfm?name=MAR14], Denver
+| Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", [Gromacs USA Workshop and Conference http://faculty.virginia.edu/gromacsworkshop/], [UVA http://www.virginia.edu/]
 | Aug. 2013 | "Introduction to coarse-graining of liquids and soft matter", [August 2013 LAMMPS Users' Workshop and Symposium http://lammps.sandia.gov/workshops/Aug13/agenda.html], Albuquerque, NM
 | Mar. 2013 | "Recent developments in the VOTCA package for coarse-graining", [APS March Meeting 2013 http://www.aps.org/meetings/meeting.cfm?name=MAR13], Baltimore
 | Sep. 2012 | "Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme", [IWCMM XXII http://iwcmm22.jhu.edu/]
@@ -97,49 +168,6 @@
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08], [ITP Leipzig http://www.physik.uni-leipzig.de]
 | June 2008 | "Adjusting dynamic material properties by a thermostat", [ICMMES 2008 http://2008.icmmes.org], [University of Amsterdam http://www.uva.nl]
 | Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008 http://berlin08.dpg-tagungen.de], Berlin
-
-
-== Open Source Projects ==
-
-| [VOTCA http://www.votca.org] | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
-| [GroMaCS http://www.gromacs.org] | Versatile package to perform molecular dynamics | Developer
-| [Gentoo http://www.gentoo.org] | An advanced linux distribution | Developer
-| [ESPReSo http://www.espressomd.org] | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
-| [ESPReSo++ http://www.espresso-pp.de] | Successor of the ESPResSo simulation package | Developer (inactive)
-%| [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
-%| [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
-
-For more infomation see [my ohloh profile http://www.ohloh.net/accounts/junghans]
-
-== Computer Skills ==
-
-| **General**               | Linux, AIX, Mac OS, DOS, Windows
-| **Programming**           | C, Fortran, MPI, OpenMP
-| **Scripting**             | Shell, awk, Perl, expect, PHP, tcl
-| **Markup Languages**      | HTML, latex, mediawiki, txt2tags
-
-
-== Teaching Experience ==
-
-| April 2007 - Sept. 2008 | Tutor, Theoretical physics I/II/III, Johannes Gutenberg University of Mainz
-| April 2006 - Sept. 2006 | Tutor, Introduction to computer simulations I, University of Leipzig
-| Oct. 2005 - March 2006  | Tutor, Simulation methods in generalized ensembles, University of Leipzig
-| Sept. 2004 - Oct. 2004  | Tutor, Mathematical preparation course for first-year students, University of Leipzig
-
-
-== Representative Experience ==
-
-| July 2007 - Dec. 2008  | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
-| Nov. 2007 - Nov. 2008  | PhD representative of the MPI for Polymer Research
-| Oct. 2002 - Sept. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period
-
-%=== Committee Experience ===
-%- Spokesperson of the students of the Physics Department (2 years)
-%- Full member of faculty council of the Physics Department (2 years)
-%- Full member of council of the University of Leipzig (2 years)
-%- Member of the commission for examination issues of the Physics Department (2 years)
-%- Member of the commission for study affairs of Physics Department (3 years)
-%- Treasurer of the student government of the Physics Department (1 year)
 
 
 == Publications ==

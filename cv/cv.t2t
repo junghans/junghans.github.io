@@ -34,6 +34,9 @@ Christoph Junghans
 
 %!postproc(tex): 'item NR\(([0-9]+)\)' 'item[\1.]'
 
+% Make my name bold in publications
+%!preproc(tex): '(C. Junghans)' '**\1**'
+
 %decrease section level by one
 %in web it look nice, but in tex not
 %!preproc(tex): '==' '='
