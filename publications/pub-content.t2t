@@ -1,18 +1,18 @@
 
 
 
-=== Preprints ===
-
-+ C. Junghans, D. Perez and T. Vogel,{{<br>}}
-  //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
-  [arXiv:1401.6184 http://arxiv.org/abs/1401.6184].
+%=== Preprints ===
 
 
 === Reviewed Papers ===
 
++ C. Junghans, D. Perez and T. Vogel,{{<br>}}
+  //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
+  [to appear in J. Chem. Theo. Comp. (2014) http://dx.doi.org/10.1021/ct500077d] pdf:2014b.
+
 + B. Rouet-Leduc, K. Barros, E. Cieren, V. Elango, C. Junghans, T. Lookman, J. Mohd-Yusof, R. S. Pavel, A. Y. Rivera, D. Roehm, A. L. McPherson, T. C. Germann,{{<br>}}
   //Spatial adaptive sampling in multiscale simulation//,{{<br>}}
-  [to appear in Comp. Phys. Comm. (2014) http://dx.doi.org/10.1016/j.cpc.2014.03.011].
+  [to appear in Comp. Phys. Comm. (2014) http://dx.doi.org/10.1016/j.cpc.2014.03.011] pdf:2014a.
 
 + A. Nagarajan, C. Junghans and S. Matysiak,{{<br>}}
   //Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining//,{{<br>}}
@@ -103,6 +103,12 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
 
 
 === Other Publications ===
+
++ L. Delle Site, A. Agarwal, C. Junghans, and H. Wang, {{<br>}}
+  //Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives//,{{<br>}}
+  in: C. Clementi (Ed.),{{<br>}}
+  //Multiscale Methods in Molecular Biophysics//,{{<br>}}
+  Series in Computational Biophysics, CRC Press (2014).
 
 + E. Apol, R. Apostolov, H.J.C. Berendsen, A. van Buuren, P. Bjelkmar, R. van Drunen, A. Feenstra, S. Fritsch, G. Groenhof, C. Junghans, P. Kasson, P. Larsson, P. Meulenhoff, T. Murtola, S. Pall, S. Pronk, R. Schulz, M. Shirts, A. Sijbers, P. Tieleman, B. Hess, D. van der Spoel, and E. Lindahl, {{<br>}}
   //Gromacs User Manual Version 4.6//,{{<br>}}
