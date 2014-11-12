@@ -6,6 +6,10 @@
 
 === Reviewed Papers ===
 
++ S. M. Mniszewski, C. Junghans, A. F. Voter, D. Perez, and S. J. Eidenbenz,{{<br>}}
+  //TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics//,{{<br>}}
+  to appear in Trans.  Mod. Comp. Sim. (2014).
+
 + C. Junghans, D. Perez and T. Vogel,{{<br>}}
   //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
   [J. Chem. Theo. Comp. JOURNR(10), 1843 (2014) http://dx.doi.org/10.1021/ct500077d] pdf:2014b.
