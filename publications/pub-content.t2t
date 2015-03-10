@@ -6,19 +6,23 @@
 
 === Reviewed Papers ===
 
-+ S. Bevc, C. Junghans, and M. Praprotnik, HTML([[RIGHT../publications/2015a.jpg] ../publications/2015a_big.jpg]){{<br>}}
-  //STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations//,{{<br>}}
-  [J. Comp. Chem. JOURNR(36), 467 (2015) http://dx.doi.org/10.1002/jcc.23806] pdf:2015a.
++ D. G. Roehm, Robert S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
+  //Distributed Database Kriging for Adaptive Sampling//,{{<br>}}
+  to appear in Comp. Phys. Comm. (2015).
 
 + S. M. Mniszewski, C. Junghans, A. F. Voter, D. Perez, and S. J. Eidenbenz,{{<br>}}
   //TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics//,{{<br>}}
-  [to appear in Trans.  Mod. Comp. Sim. (2014) http://tomacs.acm.org/forthcoming.html].
+  [to appear in Trans.  Mod. Comp. Sim.  JOURNR(25) (2015) http://tomacs.acm.org].
+
++ S. Bevc, C. Junghans, and M. Praprotnik, HTML([[RIGHT../publications/2015a.jpg] ../publications/2015a_big.jpg]){{<br>}}
+  //STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations//,{{<br>}}
+  [J. Comp. Chem. JOURNR(36), 467 (2015) http://dx.doi.org/10.1002/jcc.23806] pdf:2015a.
 
 + C. Junghans, D. Perez and T. Vogel,{{<br>}}
   //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
   [J. Chem. Theo. Comp. JOURNR(10), 1843 (2014) http://dx.doi.org/10.1021/ct500077d] pdf:2014b.
 
-+ B. Rouet-Leduc, K. Barros, E. Cieren, V. Elango, C. Junghans, T. Lookman, J. Mohd-Yusof, R. S. Pavel, A. Y. Rivera, D. Roehm, A. L. McPherson, T. C. Germann,{{<br>}}
++ B. Rouet-Leduc, K. Barros, E. Cieren, V. Elango, C. Junghans, T. Lookman, J. Mohd-Yusof, R. S. Pavel, A. Y. Rivera, D. Roehm, A. L. McPherson, and T. C. Germann,{{<br>}}
   //Spatial adaptive sampling in multiscale simulation//,{{<br>}}
   [Comp. Phys. Comm.  JOURNR(185), 1857 (2014) http://dx.doi.org/10.1016/j.cpc.2014.03.011] pdf:2014a.
 
