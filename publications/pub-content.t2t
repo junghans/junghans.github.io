@@ -6,13 +6,13 @@
 
 === Reviewed Papers ===
 
-+ D. G. Roehm, Robert S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
-  //Distributed Database Kriging for Adaptive Sampling//,{{<br>}}
-  [to appear in Comp. Phys. Comm. (2015) http://dx.doi.org/10.1016/j.cpc.2015.03.006].
-
 + S. M. Mniszewski, C. Junghans, A. F. Voter, D. Perez, and S. J. Eidenbenz,{{<br>}}
   //TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics//,{{<br>}}
-  [to appear in Trans.  Mod. Comp. Sim.  JOURNR(25) (2015) http://tomacs.acm.org].
+  [to appear in Trans.  Mod. Comp. Sim.  JOURNR(25) (2015) http://dx.doi.org/10.1145/2699715] pdf:2015c.
+
++ D. G. Roehm, Robert S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
+  //Distributed Database Kriging for Adaptive Sampling//,{{<br>}}
+  [to appear in Comp. Phys. Comm. (2015) http://dx.doi.org/10.1016/j.cpc.2015.03.006] pdf:2015b.
 
 + S. Bevc, C. Junghans, and M. Praprotnik, HTML([[RIGHT../publications/2015a.jpg] ../publications/2015a_big.jpg]){{<br>}}
   //STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations//,{{<br>}}
