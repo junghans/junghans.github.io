@@ -103,6 +103,7 @@
 TEXCODE(\noindent)
 For more infomation see [my ResearcherID profile http://www.researcherid.com/rid/G-4238-2010], [my Google Scholar profile http://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100], [my ORCID profile http://orcid.org/0000-0003-0925-1458], [my ResearchGate profile https://www.researchgate.net/profile/Christoph_Junghans/publications/] or [my Impactstory profile https://impactstory.org/Junghans].
 
+
 === Theses ===
 
 + C. Junghans,{{<br>}}
@@ -114,7 +115,7 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
   Diploma Thesis, Universität Leipzig (2006) pdf:2006d.
 
 
-=== Other Publications ===
+=== Book Chapters ===
 
 + L. Delle Site, A. Agarwal, C. Junghans, and H. Wang, {{<br>}}
   //Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives//,{{<br>}}
@@ -126,10 +127,13 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
   //[Gromacs User Manual Version 4.6 http://dx.doi.org/10.13140/2.1.1310.0480]//,{{<br>}}
   [gromacs.org http://www.gromacs.org] (2013) ""[""[online ftp://ftp.gromacs.org/pub/manual/manual-4.6.5.pdf]""]"".
 
-+ C. Junghans, A. K. Hüttel and U. Müller, {{<br>}}
-  //Gentoo Linux: Quelltexte und Rolling Releases//,{{<br>}}
-  [c't Magazin JOURNR(16), 162 (2012) http://www.heise.de/ct/inhalt/2012/16/162/].
-%http://epaper.heise.de/download/archiv/9f53e5ae4257/ct.12.16.162-164.pdf
++ C. Junghans, M. Praprotnik and L. Delle Site,{{<br>}}
+  //Adaptive Resolution Schemes//,{{<br>}}
+  in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{<br>}}
+  //Multiscale Simulation Methods in Molecular Sciences//, [NIC Series Vol. 42 http://juser.fz-juelich.de/record/3737/files/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
+
+
+=== Proceedings ===
 
 + S. Eidenbenz, K. Davis, A. Voter, H. Djidjev, L. Gurvits, C. Junghans, S. Mniszewski, D. Perez, N. Santhi and S. Thulasidasan,{{<br>}}
   //Optimization Principles for Codesign applied to Molecular Dynamics: Design Space Exploration, Performance Prediction, and Optimization Strategies//,{{<br>}}
@@ -139,11 +143,6 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
   //Shallow Moist Convection//,{{<br>}}
   in: G. Münster, D. Wolf, M. Kremer (Eds.),{{<br>}}
   NIC Symposium 2010, [IAS Series Vol. 3 http://hdl.handle.net/2128/3697], Jülich (2010), 373 pdf:2010a.
-
-+ C. Junghans, M. Praprotnik and L. Delle Site,{{<br>}}
-  //Adaptive Resolution Schemes//,{{<br>}}
-  in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{<br>}}
-  //Multiscale Simulation Methods in Molecular Sciences//, [NIC Series Vol. 42 http://juser.fz-juelich.de/record/3737/files/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
 
 + C. Junghans, M. Bachmann and W. Janke,{{<br>}}
   //[Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model http://dx.doi.org/10.13140/2.1.4488.5440]//,{{<br>}}
@@ -155,6 +154,14 @@ For more infomation see [my ResearcherID profile http://www.researcherid.com/rid
   in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{<br>}}
   //From Computational Biophysics to Systems Biology 2006//,
   NIC Series Vol. 34, Jülich (2006), 157.
+
+
+=== Other Publications ===
+
++ C. Junghans, A. K. Hüttel and U. Müller, {{<br>}}
+  //Gentoo Linux: Quelltexte und Rolling Releases//,{{<br>}}
+  [c't Magazin JOURNR(16), 162 (2012) http://www.heise.de/ct/inhalt/2012/16/162/].
+%pdf:2012e.pdf
 
 + C. Junghans,{{<br>}}
   //The Method of Multicanonical Simulations in Different Models//, {{<br>}}
