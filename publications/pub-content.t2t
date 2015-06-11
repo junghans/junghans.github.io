@@ -6,11 +6,15 @@
 
 === Reviewed Papers ===
 
++ S. Y. Mashayak, M. N. Jochum, K. Koschke, N. R. Aluru, V. Rühle, and C. Junghans,{{<br>}}
+  //Relative entropy and optimization-driven coarse-graining methods in VOTCA//,{{<br>}}
+  [to appear in PLoS ONE (2015) http://dx.doi.org/10.1371/journal.pone.0131754].
+
 + S. M. Mniszewski, C. Junghans, A. F. Voter, D. Perez, and S. J. Eidenbenz,{{<br>}}
   //TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics//,{{<br>}}
   [Trans. Mod. Comp. Sim.  JOURNR(25), 15 (2015) http://dx.doi.org/10.1145/2699715] pdf:2015c.
 
-+ D. G. Roehm, Robert S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
++ D. G. Roehm, R. S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
   //Distributed Database Kriging for Adaptive Sampling//,{{<br>}}
   [Comp. Phys. Comm. JOURNR(192), 138 (2015) http://dx.doi.org/10.1016/j.cpc.2015.03.006] pdf:2015b.
 
