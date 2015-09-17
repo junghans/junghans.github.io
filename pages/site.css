@@ -287,8 +287,6 @@ form
 body#home #sidebar li#menuhome,
 body#publications #sidebar li#menupubl,
 body#cv #sidebar li#menucv,
-body#downloads #sidebar li#menudown,
-body#fluchomat #sidebar li#menuflom,
 body#impress #sidebar li#menuimpress
 	{
 	list-style-type	: square;
@@ -300,10 +298,3 @@ body#impress #sidebar li#menuimpress
 / specific rules in a breeze, avoiding %!postproc tricks on sources,
 / or multiple tiny CSS files all around.
 */
-
-/* Back to normal bold */
-body#download li b
-	{
-	font-weight	: bold;
-	color		: #444;
-	}

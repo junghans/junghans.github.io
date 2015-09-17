@@ -1,4 +1,4 @@
-SUBDIRS=pages publications downloads cv img logs
+SUBDIRS=pages publications cv img logs
 include pages/Makefile.incl
 
 all:
