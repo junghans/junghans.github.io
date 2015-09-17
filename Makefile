@@ -1,2 +1,2 @@
-SUBDIRS=pages downloads img
+SUBDIRS=pages img
 include pages/Makefile.incl

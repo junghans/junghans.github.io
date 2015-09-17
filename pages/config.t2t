@@ -56,7 +56,7 @@
 %!postproc: (</HEAD>)	<meta name="description" content="Homepage of Ottxor">\n\1
 
 % make logo clickable
-%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="AFFI"></a>'
+%%!postproc: '(<DIV CLASS="header" ID="header">)' '\1\n<a id="linklogo" href="AFFI"></a>'
 
 % Make my name bold in publications
 %!preproc: '(C. Junghans)' '**\1**'

@@ -43,6 +43,9 @@ dummy: ;
 $(SUBDIRS):
 	$(MAKE) $(MFLAGS) -C $@ all
 
+root:
+	$(MAKE) $(MFLAGS) -C $(TRUNC) all
+
 CLEANDIRS:=$(shell echo $(SUBDIRS) | sed 's/\>/_subclean /g')
 #.PHONY: $(CLEANDIRS)
 

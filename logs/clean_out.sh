@@ -33,4 +33,5 @@ sed -i \
        -e '/Yeti\//d' \
        -e '/SSearch Crawler/d' \
        -e '/spider2\.webhostingspider\.com/d' \
+       -e '/crawl.baidu.com/d' \
        $logfile
