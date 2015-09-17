@@ -21,5 +21,6 @@ cv/tex/cv.out
 cv/tex/cv.pdf
 img/*.tex
 img/email.png
+ip/ip.txt
 
 archive/*
