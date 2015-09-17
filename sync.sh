@@ -6,6 +6,7 @@ rsync -av --delete \
   --exclude '*.orig' \
   --exclude '*.sh' \
   --exclude 'logs/*.txt' \
+  --exclude 'dist/*' \
   --exclude 'publications/*' \
   --exclude 'cv/*' \
   --exclude 'txt2tags' \
