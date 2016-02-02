@@ -1,7 +1,7 @@
 SHELL=/bin/bash
 all: $(SUBDIRS)
 
-TRUNC=$(shell hg root)
+TRUNC=$(shell git rev-parse --show-toplevel 2>/dev/null)
 
 PHPDEPS=$(TRUNC)/pages/config.t2t \
        	$(TRUNC)/pages/footer.t2t \
