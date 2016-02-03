@@ -10,7 +10,6 @@ Last modified on %%mtime(%c)
 [Validate HTML http://validator.w3.org/check?uri=referer])
 
 {{<?php $page="}}%%infile(%F){{" ?>}}
-%!include: ''../pages/logger.php''
 %!include: ''../pages/google_analytics.php''
 
 ''' </div><div id="fake">
