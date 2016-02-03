@@ -1,15 +1,9 @@
 *~
 .*.swp
 
-phd/*
-old/*
-stuff/*
 publications/publications.php
 publications/pub-content-numbered.t2t
-downloads/downloads.php
-downloads/*
 pages/*.php
-logs/*.txt
 cv/cv-web.php
 cv/cv.pdf
 cv/cv.tex
@@ -20,6 +14,3 @@ cv/tex/cv.out
 cv/tex/cv.pdf
 img/*.tex
 img/email.png
-ip/ip.txt
-
-archive/*
