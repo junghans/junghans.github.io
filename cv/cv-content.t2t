@@ -46,7 +46,7 @@
 | Nov. 2006 | Diploma with honor (highest possible grade)
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
-%| July 2000 | Book award of the German Physical Society (DPG) for school graduates
+| July 2000 | Book award of the German Physical Society (DPG) for school graduates
 
 == Open Source Projects ==
 
@@ -78,12 +78,14 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 - [Gentoo Science Project https://github.com/gentoo-science]
 
 
-=== Chairman ===
-- APS 
+=== Conferences ===
+- Member of the Organization Committee for the [Salishan Conference on High Speed Computing http://salishan.ahsc-nm.org/]
+- Chairman for the APS annual meetings 
 
 
 === Representativ ===
 
+| July 2014 - Present   | Member of the Worker Safety & Security Team (WSST) for CCS-7
 | July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
 | Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
@@ -115,6 +117,9 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 | Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
 
 === Mentoring ===
+| May       - Present    | Metropolis Postdoc Fellow, Los Alamos, National Laboratory
+| Jul. 2015 - Sep. 2014  | IC Summer Student, Los Alamos, National Laboratory
+| Jun. 2015 - Aug. 2015  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
 | Jul. 2014 - Sep. 2014  | CNLS Summer Student, Los Alamos, National Laboratory
 | Jun. 2014 - Aug. 2014  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
 | Jun. 2013 - Aug. 2013  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
@@ -122,7 +127,7 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 
 === Tutorials (invited) ===
 | Oct. 2015 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| Sep. 2014 | Git Hands-On course, ASC/NGC Program, LANL
+| Sep. 2015 | Git Hands-On course, ASC/NGC Program, LANL
 | Nov. 2014 | Git IC Tutorial, Institutional Computing, LANL
 | Oct. 2014 | Hands-on: VOTCA, [CECAM http://www.cecam.org] ["School on Multiscale Modeling and Use of Espresso++ and VOTCA" http://www.cecam.org/workshop-1076.html], Mainz, Germany
 | Aug. 2014 | Gromacs Tutorial, [The Seventh q-bio Summer School http://q-bio.org/wiki/Biomolecular_Simulations], Albuquerque, NM ([LA-UR 14-26188 http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-26188])
@@ -169,6 +174,8 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 
 
 === Contributed Talks ===
+| Feb. 2016 | "Tabasco: A realistic multi-scale proxy app for Material science" (with S.  Mniszewski), Programming Models and Co-Design Meeting, Los Alamos, NM 
+| Feb. 2016 | "Actually Using Runtimes for Meaningful Computation: Multiphysics, not Fibonacci" (with R. Pavel), Programming Models and Co-Design Meeting, Los Alamos, NM 
 | Aug. 2015 | "Coarse-graining using VOTCA and LAMMPS", [August 2015 LAMMPS Users' Workshop and Symposium http://lammps.sandia.gov/workshops/Aug15/agenda.html], Albuquerque, NM
 | May  2015 | "Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling", [13th Annual Workshop on Charm++ and its Applications http://charm.cs.illinois.edu/workshops/charmWorkshop2015/], Champaign-Urbana
 | Mar. 2014 | "Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics", [APS March Meeting 2014 http://www.aps.org/meetings/meeting.cfm?name=MAR14], Denver
