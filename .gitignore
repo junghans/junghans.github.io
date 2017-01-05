@@ -7,10 +7,10 @@ pages/*.php
 cv/cv-web.php
 cv/cv.pdf
 cv/cv.tex
-cv/tex/cv.aux
-cv/tex/cv.fdb_latexmk
-cv/tex/cv.log
-cv/tex/cv.out
-cv/tex/cv.pdf
+cv/tex/*.aux
+cv/tex/*.fdb_latexmk
+cv/tex/*.log
+cv/tex/*.out
+cv/tex/*.pdf
 img/*.tex
 img/email.png

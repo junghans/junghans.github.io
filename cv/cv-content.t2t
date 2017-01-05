@@ -25,7 +25,7 @@
 | May  2014 - Present    | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Mar. 2013 - Apr. 2014  | Director's Postdoctoral Fellow, Theoretical Division, Los Alamos National Lab
 | Nov. 2011 - Feb. 2013  | Postdoctoral research assistant, Theoretical Division, Los Alamos National Lab
-| May 2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
+| May  2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
 | Nov. 2010 - Oct. 2011  | Postdoctoral research assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
 | Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
 | Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
@@ -39,26 +39,28 @@
 == Awards ==
 
 | Jan. 2015 | Classified as outstanding researcher, USCIS
-| Jan. 2014 | The most cited article published in EPJE in the past 5 years
+| Jan. 2014 | Most cited article published in EPJE in the past 5 years
 | Mar. 2013 | Los Alamos National Laboratory Director's Post-Doctoral Fellowship
 | May  2012 | Member of the Kavli Institute for Theoretical Physics
 | June 2010 | Participant of 60th Lindau Nobel Laureate Meeting
 | Nov. 2006 | Diploma with honor (highest possible grade)
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
-%| July 2000 | Book award of the German Physical Society (DPG) for school graduates
+| July 2000 | Book award of the German Physical Society (DPG) for high school graduates
 
 == Open Source Projects ==
 
 | [VOTCA http://www.votca.org] | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
-| [Gentoo http://www.gentoo.org] | An advanced linux distribution | Developer
+| [Gentoo http://www.gentoo.org] | Advanced Linux distribution | Developer
+| [Fedora https://start.fedoraproject.org] | Linux distribution | Contributor
+| [OpenSuse https://en.opensuse.org] | Linux distribution | Contributor
+| [ESPReSo++ http://www.espresso-pp.de] | Successor of the ESPResSo simulation package | Developer
 | [GroMaCS http://www.gromacs.org] | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo http://www.espressomd.org] | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
-| [ESPReSo++ http://www.espresso-pp.de] | Successor of the ESPResSo simulation package | Developer (inactive)
 %| [Gnuplot http://gnuplot.info] | A portable command-line driven graphing utility  | Contributor
 %| [Gnuplot Utils http://gnuplotutils.googlecode.com/] | Some useful scripts for gnuplot | Developer
 
-For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/junghans]
+For more infomation see [my GitHub profile http://www.github.com/junghans] and [my OpenHUB profile http://www.openhub.net/accounts/junghans]
 
 
 == Professional Skills ==
@@ -78,12 +80,14 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 - [Gentoo Science Project https://github.com/gentoo-science]
 
 
-=== Chairman ===
-- APS 
+=== Conferences ===
+- Member of the Organization Committee for the [Salishan Conference on High Speed Computing http://salishan.ahsc-nm.org/]
+- Chairman for the APS annual meetings 
 
 
 === Representativ ===
 
+| July 2015 - June 2016 | Member of the Worker Safety & Security Team (WSST) for CCS-7
 | July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
 | Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrates) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
@@ -115,23 +119,34 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 | Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
 
 === Mentoring ===
+| Dec. 2016 - Present    | Postdoctoral research assistant, Los Alamos, National Laboratory
+| Aug. 2016 - Present    | Postdoctoral research assistant, Los Alamos, National Laboratory
+| Feb. 2016 - Present    | Postdoctoral research assistant, Los Alamos, National Laboratory
+| May  2015 - Present    | Metropolis Postdoc Fellow, Los Alamos, National Laboratory
+| Jul. 2016 - Sep. 2016  | CNLS Summer Student, Los Alamos, National Laboratory
+| Jun. 2016 - Aug. 2016  | Co-Design Summer School (7 Students), Los Alamos, National Laboratory
+| Jul. 2015 - Sep. 2015  | IC Summer Student, Los Alamos, National Laboratory
+| Jun. 2015 - Aug. 2015  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
 | Jul. 2014 - Sep. 2014  | CNLS Summer Student, Los Alamos, National Laboratory
 | Jun. 2014 - Aug. 2014  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
 | Jun. 2013 - Aug. 2013  | Co-Design Summer School (6 Students), Los Alamos, National Laboratory
+| Jun. 2010 - Aug. 2010  | Summer Student, University of Mainz
 | Oct. 2005 - Mar. 2006  | Simulation methods in generalized ensembles (2 Students), University of Leipzig
 
 === Tutorials (invited) ===
-| Oct. 2015 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| Sep. 2014 | Git Hands-On course, ASC/NGC Program, LANL
+| Oct. 2016 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA" https://www.cecam.org/workshop-1371.html], Mainz, Germany 
+| May  2016 | Gitlab Hands-On course, ASC/NGC Program, LANL
+| Oct. 2015 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
+| Sep. 2015 | Git Hands-On course, ASC/NGC Program, LANL
 | Nov. 2014 | Git IC Tutorial, Institutional Computing, LANL
 | Oct. 2014 | Hands-on: VOTCA, [CECAM http://www.cecam.org] ["School on Multiscale Modeling and Use of Espresso++ and VOTCA" http://www.cecam.org/workshop-1076.html], Mainz, Germany
-| Aug. 2014 | Gromacs Tutorial, [The Seventh q-bio Summer School http://q-bio.org/wiki/Biomolecular_Simulations], Albuquerque, NM ([LA-UR 14-26188 http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-26188])
+| Aug. 2014 | Gromacs Tutorial, [The Eighth q-bio Summer School http://q-bio.org/wiki/The_Eighth_q-bio_Summer_School], Albuquerque, NM ([LA-UR 14-26188 http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-26188])
 | June 2014 | Gromacs IC Tutorial, Institutional Computing, LANL ([LA-UR 14-24814 http://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-14-24814])
-| Oct. 2013 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| Oct. 2013 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
 | July 2013 | Gromacs Tutorial, [The Seventh q-bio Summer School http://www.q-bio.org/wiki/The_Seventh_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
-| Oct. 2012 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| Oct. 2012 | "Systematic Coarse-Graining with VOTCA" (Tutorial), [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
 | July 2012 | Gromacs Tutorial, [The Sixth q-bio Summer School http://cnls.lanl.gov/q-bio/wiki/index.php/The_Sixth_q-bio_Summer_School:_Biomolecular_Simulations], Santa Fe, NM
-| Oct. 2011 | Hands-on: VOTCA, [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| Oct. 2011 | Hands-on: VOTCA, [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
 | May 2010  | Votca Workshop, [CSI Darmstadt http://www.csi.tu-darmstadt.de/]
 
 == Talks ==
@@ -141,35 +156,40 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 
 
 === Invited Talks ===
-| Oct. 2015 | "Recent and Future Developments of VOTCA", [CECAM http://www.cecam.org] [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page] 
+| Oct. 2016 | "Recent developments in VOTCA", [CECAM http://www.cecam.org] [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA" https://www.cecam.org/workshop-1371.html], Mainz, Germany 
+| Oct. 2015 | "Recent and Future Developments of VOTCA", [CECAM http://www.cecam.org] [Summer School "Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/] 
 | Oct. 2014 | "Introduction to coarse-graining of liquids and soft matter using VOTCA", [CECAM http://www.cecam.org] ["School on Multiscale Modeling and Use of Espresso++ and VOTCA" http://www.cecam.org/workshop-1076.html], Mainz, Germany
-| Oct. 2013 | "Recent and Future Developments of VOTCA", [CECAM http://www.cecam.org] [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| Oct. 2012 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| Oct. 2013 | "Recent and Future Developments of VOTCA", [CECAM http://www.cecam.org] [Summer School "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2013/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
+| Oct. 2012 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA" http://espressomd.org/wordpress/ess2012/], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
 | June 2012 | "Molecular Dynamics using Gromacs", Intel EPOCH, Workshop, Portland, OR 
 | June 2012 | ["Towards a Unified Framework for Coarse-graining Particle-based Simulations" http://online.kitp.ucsb.edu/online/multiscale_c12/junghans/], [KITP http://www.kitp.ucsb.edu] [Conference: "Modeling Soft Matter: Linking Multiple Length and Time Scales" http://www.kitp.ucsb.edu/activities/dbdetails?acro=multiscale-c12], [UCSB http://www.ucsb.edu]
-| Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
-| Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo" http://www.cecam.org/workshop-4-489.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/~icp/Main_Page]
+| Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo" http://www.cecam.org/workshop-532.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
+| Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM http://www.cecam.org] [Workshop "Simulating Soft Matter with ESPResSo" http://www.cecam.org/workshop-4-489.html], [ICP Stuttgart http://www.icp.uni-stuttgart.de/]
 | Nov. 2007 | "Controlling material properties using a thermostat", [CompPhys07 http://www.physik.uni-leipzig.de/~janke/CompPhys07], [ITP Leipzig http://www.physik.uni-leipzig.de]
 
 
 === Seminar Talks (invited) ===
+| Oct. 2016 | "Co-Design at Los Alamos National Laboratory", [MPCDF http://www.mpcdf.mpg.de/] 
+| June 2016 | ASC/NGC Gitlab Tutorial, Parallel Computing Summer Research Internship Program, LANL
 | Sep. 2012 | "Adaptive Resolution Simulations of C60 in Toluene", [Biomolecular Modeling Group http://www.matysiaklab.umd.edu/], [UMD http://www.umd.edu/]
 | Aug. 2012 | "Multi-scale Modeling using the Adaptive Resolution Scheme", [Sandia National Laboratory http://www.sandia.gov/], Albuquerque, NM
 | May 2012 | "Particle-based multi-scale simulations using the Adaptive Resolution Scheme", [IBM Research, Almaden http://www.almaden.ibm.com]
 | May 2012 | ["Coarse-graining Using the VOTCA Package" http://online.kitp.ucsb.edu/online/multiscale12/junghans/], [KITP http://www.kitp.ucsb.edu] [Program: "Physical Principles of Multiscale Modeling, Analysis and Simulation in Soft Condensed Matter" http://online.kitp.ucsb.edu/online/multiscale12/], [UCSB http://www.ucsb.edu]
-| July 2011 | "Locality Analysis via Adaptive Resolution Simulations", [DFH-UFA http://www.dfh-ufa.org] & [TKM http://www.physik.uni-leipzig.de/tkm.html] Seminar, [Institut für Theoretische Physik http://www.physik.uni-leipzig.de], [University of Leipzig http://www.zv.uni-leipzig.de]
+| July 2011 | "Locality Analysis via Adaptive Resolution Simulations", [DFH-UFA http://www.dfh-ufa.org] & [TKM http://www.physik.uni-leipzig.de/index.php?id=8] Seminar, [Institut für Theoretische Physik http://www.physik.uni-leipzig.de], [University of Leipzig http://www.zv.uni-leipzig.de/en]
 | June 2011 | "Versatile object-oriented toolkit for coarse-graining applications", [Department of Materials and Environmental Chemistry http://www.mmk.su.se], [Stockholm University http://www.su.se]
 | Apr. 2011 | "Adaptive resolution simulations of aqueous solutions", Séminaire de Physique, [Biophysique et Physique Statistique http://geomnat.de/sitegroupe/index_en.php], [UPV Metz http://www.univ-metz.fr]
 | Mar. 2011 | "Adaptive resolution simulations of water", [Theoretical and Computational Biophysics Group http://www.ks.uiuc.edu], [UIUC http://illinois.edu]
 | Mar. 2011 | "Adaptive resolution simulations of aqueous solutions", [Laufer Center for Physical and Quantitative Biology http://laufercenter.stonybrook.edu], [Stony Brook University http://www.stonybrook.edu]
 | Jan. 2011 | "Versatile object-oriented toolkit for coarse-graining applications", [Theoretical and Computational Department Biophysics http://www.mpibpc.mpg.de/home/grubmueller], [MPI-BPC http://www.mpibpc.mpg.de]
-| Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Seminar, IFF-2, [FZ Jülich  http://www.fz-juelich.de]
+| Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Seminar, IFF-2, [FZ Jülich http://www.fz-juelich.de/portal/EN/Home/home_node.html]
 | July 2009 | "New HPC libraries for performance improvements", IBM Systems & Technology Group
 | June 2007 | "Extensions to Dissipative Particle Dynamics", [Faculty of Science  http://www.naturvetenskap.lu.se], [Lund University http://www.lunduniversity.lu.se]
 
 
 === Contributed Talks ===
-| Aug. 2015 | "Coarse-graining using VOTCA and LAMMPS", [August 2015 LAMMPS Users' Workshop and Symposium http://lammps.sandia.gov/workshops/Aug15/agenda.html], Albuquerque, NM
+| Feb. 2016 | "Tabasco: A realistic multi-scale proxy app for Material science" (with S.  Mniszewski), Programming Models and Co-Design Meeting, Los Alamos, NM 
+| Feb. 2016 | "Actually Using Runtimes for Meaningful Computation: Multiphysics, not Fibonacci" (with R. Pavel), Programming Models and Co-Design Meeting, Los Alamos, NM 
+| Aug. 2015 | "Coarse-graining using VOTCA and LAMMPS", [August 2015 LAMMPS Users' Workshop and Symposium http://lammps.sandia.gov/workshops/Aug15/workshop.html], Albuquerque, NM
 | May  2015 | "Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling", [13th Annual Workshop on Charm++ and its Applications http://charm.cs.illinois.edu/workshops/charmWorkshop2015/], Champaign-Urbana
 | Mar. 2014 | "Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics", [APS March Meeting 2014 http://www.aps.org/meetings/meeting.cfm?name=MAR14], Denver
 | Sep. 2013 | "Adaptive Resolution Simulations of C60 in Toluene", [Gromacs USA Workshop and Conference http://faculty.virginia.edu/gromacsworkshop/], [UVA http://www.virginia.edu/]
@@ -180,8 +200,8 @@ For more infomation see [my OpenHUB profile http://www.openhub.net/accounts/jung
 | Feb. 2012 | "Local structure formation of toluene around a C60 fullerene: An adaptive resolution study", [25th Annual CSP Workshop http://www.csp.uga.edu/Workshop/2012], [Center for Simulational Physics http://www.csp.uga.edu], [University of Georgia http://www.uga.edu]
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", [CompPhys09 http://www.physik.uni-leipzig.de/~janke/CompPhys09], [ITP Leipzig http://www.physik.uni-leipzig.de]
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08 http://www.physik.uni-leipzig.de/~janke/CompPhys08], [ITP Leipzig http://www.physik.uni-leipzig.de]
-| June 2008 | "Adjusting dynamic material properties by a thermostat", [ICMMES 2008 http://2008.icmmes.org], [University of Amsterdam http://www.uva.nl]
-| Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008 http://berlin08.dpg-tagungen.de], Berlin
+| June 2008 | "Adjusting dynamic material properties by a thermostat", ICMMES 2008, [University of Amsterdam http://www.uva.nl]
+| Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008 http://berlin08.dpg-tagungen.de/index.html?lang=en], Berlin
 
 
 == Publications ==
