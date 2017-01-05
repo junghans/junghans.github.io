@@ -1,21 +1,23 @@
 SHELL=/bin/bash
 all: $(SUBDIRS)
 
+.PHONY: all
+
 TRUNC=$(shell git rev-parse --show-toplevel 2>/dev/null)
 
-PHPDEPS=$(TRUNC)/pages/config.t2t \
+HTMLDEPS=$(TRUNC)/pages/config.t2t \
        	$(TRUNC)/pages/footer.t2t \
 	$(TRUNC)/pages/menu.t2t \
 	$(TRUNC)/pages/menu-links.html \
 	$(TRUNC)/pages/site.css \
-	$(TRUNC)/pages/google_analytics.php
+	$(TRUNC)/pages/google_analytics.html
 
 TXT2TAGS=$(TRUNC)/pages/txt2tags
 
 dummy: ;
 
-%.php: %.t2t $(PHPDEPS)
-	$(TXT2TAGS) -t html --infile $< --outfile $*.php
+%.html: %.t2t $(HTMLDEPS)
+	$(TXT2TAGS) -t html --infile $< --outfile $*.html
 
 %.tex: %.t2t
 	$(TXT2TAGS) -t tex --infile $< --outfile $@

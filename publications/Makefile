@@ -1,11 +1,11 @@
 SUBDIRS=
 include ../pages/Makefile.incl
-OBJS=publications.php 
+OBJS=publications.html 
 CLEANFILES=pub-content-numbered.t2t
 
 all: date pdfcheck $(OBJS)
 
-publications.php: pub-content-numbered.t2t
+publications.html: pub-content-numbered.t2t
 
 .PHONY: date pdfcheck
 

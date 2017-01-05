@@ -9,8 +9,7 @@ Last modified on %%mtime(%c)
 ([See sources %%infile],
 [Validate HTML http://validator.w3.org/check?uri=referer])
 
-{{<?php $page="}}%%infile(%F){{" ?>}}
-%!include: ''../pages/google_analytics.php''
+%!include: ''../pages/google_analytics.html''
 
 ''' </div><div id="fake">
 % Open a fake DIV that will be closed by the old #body </div>

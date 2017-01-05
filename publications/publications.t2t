@@ -16,12 +16,6 @@ Publications
 % but here it should be ==
 %!preproc: '===' '=='
 
-% here: we want a reverse numbered list
-% is NOT enabled yet, because we would to revert the list!
-%%!postproc: '<LI>' '<LI value="<?php echo $nr;$nr--?>">'
-%%!postproc: '(?i)(<body.*)$' '\1\n<?php $nr=15?>'
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %%% All the config is made, so the real contents begins now
 
 % The sidebar with the menu links are on a separated file, included now

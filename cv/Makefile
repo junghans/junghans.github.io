@@ -1,10 +1,10 @@
 SUBDIRS=tex
 include ../pages/Makefile.incl
-OBJS=cv-web.php
+OBJS=cv-web.html
 all: date $(OBJS) cv.tex
 
 #extra deps
-cv-web.php: cv-content.t2t ../publications/pub-content-numbered.t2t 
+cv-web.html: cv-content.t2t ../publications/pub-content-numbered.t2t 
 cv.pdf: cv-content.t2t ../publications/pub-content-numbered.t2t
 
 .PHONY: date
