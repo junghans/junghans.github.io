@@ -1,0 +1,187 @@
+
+
+
+%=== Preprints ===
+
+
+=== Reviewed Papers ===
+
++ NR(25) T. E. de Oliveira, P. A. Netz, K. Kremer, C. Junghans, and D. Mukherji,{{<br>}}
+  //C-IBI: Targeting cumulative coordination within an iterative protocol to derive coarse-grained models of (multi-component) complex fluids//,{{<br>}}
+  [J. Chem. Phys. JOURNR(144), 174106 (2016) http://dx.doi.org/10.1063/1.4947253] pdf:2016a.  
+
++ NR(24) R. S. Pavel, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
+  //Database Assisted Distribution to Improve Fault Tolerance for Multiphysics Applications//,{{<br>}}
+  in: //Proceedings of the 2nd International Workshop on Hardware-Software Co-Design for High Performance Computing 2015// (Co-HPC '15),{{<br>}}
+  ACM, New York, NY, USA, [Article 4 http://dx.doi.org/10.1145/2834899.2834908] pdf:2015e.
+
++ NR(23) S. Y. Mashayak, M. N. Jochum, K. Koschke, N. R. Aluru, V. Rühle, and C. Junghans,{{<br>}}
+  //Relative entropy and optimization-driven coarse-graining methods in VOTCA//,{{<br>}}
+  [PLoS one JOURNR(10), e131754 (2015) http://dx.doi.org/10.1371/journal.pone.0131754] pdf:2015d.
+
++ NR(22) S. M. Mniszewski, C. Junghans, A. F. Voter, D. Perez, and S. J. Eidenbenz,{{<br>}}
+  //TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics//,{{<br>}}
+  [Trans. Mod. Comp. Sim.  JOURNR(25), 15 (2015) http://dx.doi.org/10.1145/2699715] pdf:2015c.
+
++ NR(21) D. G. Roehm, R. S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
+  //Distributed Database Kriging for Adaptive Sampling//,{{<br>}}
+  [Comp. Phys. Comm. JOURNR(192), 138 (2015) http://dx.doi.org/10.1016/j.cpc.2015.03.006] pdf:2015b.
+
++ NR(20) S. Bevc, C. Junghans, and M. Praprotnik, HTML([[RIGHT../publications/2015a.jpg] ../publications/2015a_big.jpg]){{<br>}}
+  //STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations//,{{<br>}}
+  [J. Comp. Chem. JOURNR(36), 467 (2015) http://dx.doi.org/10.1002/jcc.23806] pdf:2015a ""[""[Homepage http://stock.cmm.ki.si]""]"".
+
++ NR(19) C. Junghans, D. Perez and T. Vogel,{{<br>}}
+  //Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics//,{{<br>}}
+  [J. Chem. Theo. Comp. JOURNR(10), 1843 (2014) http://dx.doi.org/10.1021/ct500077d] pdf:2014b.
+
++ NR(18) B. Rouet-Leduc, K. Barros, E. Cieren, V. Elango, C. Junghans, T. Lookman, J. Mohd-Yusof, R. S. Pavel, A. Y. Rivera, D. Roehm, A. L. McPherson, and T. C. Germann,{{<br>}}
+  //Spatial adaptive sampling in multiscale simulation//,{{<br>}}
+  [Comp. Phys. Comm.  JOURNR(185), 1857 (2014) http://dx.doi.org/10.1016/j.cpc.2014.03.011] pdf:2014a.
+
++ NR(17) A. Nagarajan, C. Junghans and S. Matysiak,{{<br>}}
+  //Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining//,{{<br>}}
+  [J. Chem. Theo. Comp. JOURNR(9), 5168 (2013) http://dx.doi.org/10.1021/ct400566j] pdf:2013b.
+  
++ NR(16) S. Bevc, C. Junghans, K. Kremer and M. Praprotnik, HTML([[RIGHT../publications/2013a.jpg] ../publications/2013a_big.jpg]){{<br>}}
+  //Adaptive resolution simulation of salt solutions//,{{<br>}}
+  [New J. Phys., JOURNR(15), 105007 (2013) http://dx.doi.org/10.1088/1367-2630/15/10/105007] pdf:2013a.
+
++ NR(15) P. Ganguly, D. Mukherji, C. Junghans and N. F. A. van der Vegt,{{<br>}}
+  //Kirkwood-Buff coarse-grained force fields for aqueous solutions//,{{<br>}}
+  [J. Chem. Theo. Comp., JOURNR(8), 1802 (2012) http://dx.doi.org/10.1021/ct3000958] pdf:2012c.
+
++ NR(14) S. Fritsch, S. Poblete, C. Junghans, G. Ciccotti, L. Delle Site and K. Kremer,{{<br>}}
+  //Adaptive resolution molecular dynamics simulation through coupling to an internal particle reservoir//,{{<br>}}
+  [Phys. Rev. Lett. JOURNR(108), 170602 (2012) http://dx.doi.org/10.1103/PhysRevLett.108.170602] pdf:2012b.
+
++ NR(13) S. Fritsch, C. Junghans and K. Kremer,{{<br>}}
+  //Structure formation of toluene around C60: Implementation of the Adaptive Resolution Scheme (AdResS) into GROMACS//,{{<br>}}
+  [J. Chem. Theo. Comp. JOURNR(8), 398 (2012) http://dx.doi.org/10.1021/ct200706f] pdf:2012a.
+
++ NR(12) V. Rühle and C. Junghans,{{<br>}}
+  //Hybrid approaches to coarse-graining using the VOTCA package: liquid hexane//,{{<br>}}
+  [Macromol. Theory Simul.  JOURNR(20), 472 (2011) http://dx.doi.org/10.1002/mats.201100011] pdf:2011a.
+
++ NR(11) C. Junghans, W. Janke and M. Bachmann,{{<br>}}
+  //Hierarchies in Nucleation Transitions//,{{<br>}}
+  [Comp. Phys. Comm. JOURNR(182), 1937 (2011) http://dx.doi.org/10.1016/j.cpc.2010.11.015] pdf:2010d.
+
++ NR(10) B. P. Lambeth, Jr., C. Junghans, K. Kremer, C. Clementi, and L. Delle Site, HTML([[RIGHT../publications/2010c.jpg] ../publications/2010c_big.jpg])
+  {{<br>}}//Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface//,{{<br>}}
+  [J. Chem. Phys. JOURNR(133),  221101 (2010) http://dx.doi.org/10.1063/1.3522773] pdf:2010c.{{<br>}}
+%  Also featured in: [Virt. J. Bio. Phys. Res. JOURNR(20)(12) (2010) http://www.virtualjournals.org/dbt/dbt.jsp?KEY=VIRT02&Volume=20&Issue=12].
+
++ NR(9) C. Junghans and S. Poblete,{{<br>}}
+  //A reference implementation of the adaptive resolution scheme in ESPResSo//,{{<br>}}
+  [Comp. Phys. Comm. JOURNR(181), 1449 (2010) http://dx.doi.org/10.1016/j.cpc.2010.04.013] pdf:2010b.
+
++ NR(8) V. Rühle, C. Junghans, A. Lukyanov, K. Kremer and D. Andrienko,{{<br>}}
+  //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{<br>}}
+  [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://www.votca.org]""]""
+%leave the . in the next line to avoid two empty line in tex
+  .{{<br><script type="text/javascript" src="http://www.openhub.net/p/469750/widgets/project_thin_badge.js"></script>}}
+
++ NR(7) C. Junghans, M. Bachmann and W. Janke,{{<br>}}
+  //Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers//,{{<br>}}
+  [Europhys. Lett. JOURNR(87), 40002 (2009) http://dx.doi.org/10.1209/0295-5075/87/40002] pdf:2009c.
+
++ NR(6) H. Wang, C. Junghans and K. Kremer,{{<br>}}
+  //Comparative atomistic and coarse-grained study of water: What do we lose by coarse-graining?//,{{<br>}}
+  [Euro. Phys. J. E JOURNR(28), 221 (2009) http://dx.doi.org/10.1140/epje/i2008-10413-5] pdf:2009a.{{<br>}}
+  "Most cited article published in the journal in the past 5 years" (2014)
+
++ NR(5) M. Praprotnik, C. Junghans, L. Delle Site and K. Kremer,{{<br>}}
+  //Simulation approaches to soft matter: Generic statistical properties vs. chemical details//,{{<br>}}
+  [Comp. Phys. Comm. JOURNR(179), 51 (2008) http://dx.doi.org/10.1016/j.cpc.2008.01.018] pdf:2008c.
+
++ NR(4) C. Junghans, M. Bachmann and W. Janke,{{<br>}}
+  //Thermodynamics of Peptide Aggregation Processes: An Analysis from Perspectives of Three Statistical Ensembles//,{{<br>}}
+  [J. Chem. Phys. JOURNR(128), 085103 (2008) http://dx.doi.org/10.1063/1.2830233] pdf:2008b.{{<br>}}
+%  Also featured in: [Virt. J. Nanoscale Sci. & Techn. JOURNR(17)(10) (2008) http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT01&Volume=17&Issue=10] and [Virt. J. Biol. Phys. Res. JOURNR(15)(5) (2008) http://ojps.aip.org/dbt/dbt.jsp?KEY=VIRT02&Volume=15&Issue=5].
+
++ NR(3) C. Junghans, M. Praprotnik and K. Kremer,{{<br>}}
+  //Transport properties controlled by a thermostat: An extended dissipative particle dynamics thermostat//,{{<br>}}
+  [Soft Matter JOURNR(4), 156 (2008) http://dx.doi.org/10.1039/b713568h] pdf:2008a.
+
++ NR(2) C. Junghans, M. Bachmann and W. Janke,{{<br>}}
+  //Microcanonical Analyses of Peptide Aggregation Processes//,{{<br>}}
+  [Phys. Rev. Lett. JOURNR(97), 218103 (2006)  http://dx.doi.org/10.1103/PhysRevLett.97.218103] pdf:2006c.
+
++ NR(1) C. Junghans and U. H. E. Hansmann,{{<br>}}
+  //Numerical Comparison of Wang Landau Sampling and Parallel Tempering for Met-enkephalin//, {{<br>}}
+  [Int. J. Mod. Phys. C JOURNR(17), 817 (2006) http://dx.doi.org/10.1142/S012918310600931X] pdf:2006a.
+
+
+TEXCODE(\noindent)
+For more infomation see [my ResearcherID profile http://www.researcherid.com/rid/G-4238-2010], [my Google Scholar profile http://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100], [my ORCID profile http://orcid.org/0000-0003-0925-1458], [my ResearchGate profile https://www.researchgate.net/profile/Christoph_Junghans/publications/] or [my Impactstory profile https://impactstory.org/u/0000-0003-0925-1458].
+
+
+=== Theses ===
+
++ NR(2) C. Junghans,{{<br>}}
+  //Between the Scales: Water from different Perspectives//,{{<br>}}
+  [PhD Thesis http://edoc.mpg.de/display.epl?mode=doc&id=520521&col=69&grp=474], [Johannes Gutenberg-Universität Mainz (2010) http://ubm.opus.hbz-nrw.de/volltexte/2010/2457], [Google Books http://books.google.com/books/about?id=BDVcf_fJE1gC], pdf:2010e.
+
++ NR(1) C. Junghans,{{<br>}}
+  //Aggregation of Mesoscopic Protein-like Heteropolymers//,{{<br>}}
+  Diploma Thesis, Universität Leipzig (2006) pdf:2006d.
+
+
+=== Book Chapters ===
+
++ NR(3) L. Delle Site, A. Agarwal, C. Junghans, and H. Wang, {{<br>}}
+  //Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives//,{{<br>}}
+  in: C. Clementi (Ed.),{{<br>}}
+  //Multiscale Methods in Molecular Biophysics//,{{<br>}}
+  Series in Computational Biophysics, CRC Press (2016), ISBN 1482225700 pdf:2016a.
+
++ NR(2) E. Apol, R. Apostolov, H.J.C. Berendsen, A. van Buuren, P. Bjelkmar, R. van Drunen, A. Feenstra, S. Fritsch, G. Groenhof, C. Junghans, P. Kasson, P. Larsson, P. Meulenhoff, T. Murtola, S. Pall, S. Pronk, R. Schulz, M. Shirts, A. Sijbers, P. Tieleman, B. Hess, D. van der Spoel, and E. Lindahl, {{<br>}}
+  //[Gromacs User Manual Version 4.6 http://dx.doi.org/10.13140/2.1.1310.0480]//,{{<br>}}
+  [gromacs.org http://www.gromacs.org] (2013) ""[""[online ftp://ftp.gromacs.org/pub/manual/manual-4.6.5.pdf]""]"".
+
++ NR(1) C. Junghans, M. Praprotnik and L. Delle Site,{{<br>}}
+  //Adaptive Resolution Schemes//,{{<br>}}
+  in: J. Grotendorst, N. Attig, S. Blügel and D. Marx (Eds.),{{<br>}}
+  //Multiscale Simulation Methods in Molecular Sciences//, [NIC Series Vol. 42 http://juser.fz-juelich.de/record/3737/files/nic-series-volume42.pdf], Jülich (2009), 359 pdf:2009b.
+
+
+=== Proceedings ===
+
++ NR(4) S. Eidenbenz, K. Davis, A. Voter, H. Djidjev, L. Gurvits, C. Junghans, S. Mniszewski, D. Perez, N. Santhi and S. Thulasidasan,{{<br>}}
+  //Optimization Principles for Codesign applied to Molecular Dynamics: Design Space Exploration, Performance Prediction, and Optimization Strategies//,{{<br>}}
+  in: Proceedings of the [DOE ASCR Exascale Research Conference, Portland, OR (2012) http://exascaleresearch.labworks.org/apr2012/conference], pdf:2012d (LA-UR 12-20070). 
+
++ NR(3) T. Weidauer, C. Junghans, O. Pauluis, M. Pütz and J. Schumacher,{{<br>}}
+  //Shallow Moist Convection//,{{<br>}}
+  in: G. Münster, D. Wolf, M. Kremer (Eds.),{{<br>}}
+  NIC Symposium 2010, [IAS Series Vol. 3 http://hdl.handle.net/2128/3697], Jülich (2010), 373 pdf:2010a.
+
++ NR(2) C. Junghans, M. Bachmann and W. Janke,{{<br>}}
+  //[Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model http://dx.doi.org/10.13140/2.1.4488.5440]//,{{<br>}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{<br>}}
+  //From Computational Biophysics to Systems Biology 2007//, NIC Series Vol. 36, Jülich (2007), 169 pdf:2007a.
+
++ NR(1) C. Junghans and U. H. E. Hansmann,{{<br>}}
+  //Cross-Check Methods in Protein Simulations//,{{<br>}}
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),{{<br>}}
+  //From Computational Biophysics to Systems Biology 2006//,
+  NIC Series Vol. 34, Jülich (2006), 157.
+
+
+=== Other Publications ===
+
++ NR(3) C. Junghans, A. K. Hüttel and U. Müller, {{<br>}}
+  //Gentoo Linux: Quelltexte und Rolling Releases//,{{<br>}}
+  [c't Magazin JOURNR(16), 162 (2012) http://www.heise.de/ct/inhalt/2012/16/162/].
+%pdf:2012e.pdf
+
++ NR(2) C. Junghans,{{<br>}}
+  //The Method of Multicanonical Simulations in Different Models//, {{<br>}}
+  Technical Report, Universität Leipzig (2005), pdf:2005b.
+
++ NR(1) C. Junghans,{{<br>}}
+  //Modern Methods in Protein Simulations//, {{<br>}}
+  in: R. Esser(Ed.), [Technical Report IB-2005-13 http://www.fz-juelich.de/ias/jsc/EN/Career/Gueststudentprogramme/Previous_years/2005/proceedings.pdf?__blob=publicationFile],
+  John von Neumann Institute for Computing, Jülich (2005), 83 pdf:2005a.
+
