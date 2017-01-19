@@ -3,7 +3,7 @@ all: $(SUBDIRS)
 
 .PHONY: all
 
-TRUNC=$(shell git rev-parse --show-toplevel 2>/dev/null)
+TRUNC?=$(shell git rev-parse --show-toplevel 2>/dev/null)
 
 HTMLDEPS=$(TRUNC)/pages/config.t2t \
        	$(TRUNC)/pages/footer.t2t \
@@ -44,8 +44,15 @@ dummy: ;
 $(SUBDIRS):
 	$(MAKE) $(MFLAGS) -C $@ all
 
+#TRUNC=$(TRUNC) is need to make git hooks work
+# $ cat .git/hooks/pre-commit
+#!/bin/sh
+# make root
+# $ cat .git/hooks/post-commit
+# #!/bin/sh
+# git push
 root:
-	$(MAKE) $(MFLAGS) -C $(TRUNC) all
+	$(MAKE) $(MFLAGS) -C $(TRUNC) all TRUNC=$(TRUNC)
 
 CLEANDIRS:=$(shell echo $(SUBDIRS) | sed 's/\>/_subclean /g')
 #.PHONY: $(CLEANDIRS)
