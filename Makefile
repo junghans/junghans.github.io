@@ -6,6 +6,6 @@ all:
 deploy:
 	make
 	git checkout master
-	git commit -a -m "deploy html"
-	git push
+	git commit -a -m "deploy html" || true
+	git push || true
 	git checkout github
