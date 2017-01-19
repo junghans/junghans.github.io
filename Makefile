@@ -6,8 +6,8 @@ all:
 deploy:
 	git checkout github || true
 	git pull || true
-	make
 	git checkout master
+	make
 	git commit -a -m "deploy html" || true
 	git push || true
 	git checkout github
