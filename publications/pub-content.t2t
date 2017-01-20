@@ -6,9 +6,14 @@
 
 === Reviewed Papers ===
 
++ S. K. Gutierrez, K. Davis, D. Arnold, R. S. Baker, R. W. Robey, P. McCormick, D. Holladay, J. A. Dahl, J. Zerr, F. Weik, and C. Junghans,{{<br>}}
+  //Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications//,{{<br>}}
+  in: //Proceedings of the IEEE International Parallel and Distributed Processing Symposium 2017// (IPDPS '17),{{<br>}}
+  Orlando, FL, To appear May 2017.
+
 + T. E. de Oliveira, P. A. Netz, K. Kremer, C. Junghans, and D. Mukherji,{{<br>}}
   //C-IBI: Targeting cumulative coordination within an iterative protocol to derive coarse-grained models of (multi-component) complex fluids//,{{<br>}}
-  [J. Chem. Phys. JOURNR(144), 174106 (2016) http://dx.doi.org/10.1063/1.4947253] pdf:2016a.  
+  [J. Chem. Phys. JOURNR(144), 174106 (2016) http://dx.doi.org/10.1063/1.4947253] pdf:2016a.
 
 + R. S. Pavel, A. L. McPherson, T. C. Germann, and C. Junghans,{{<br>}}
   //Database Assisted Distribution to Improve Fault Tolerance for Multiphysics Applications//,{{<br>}}
@@ -42,7 +47,7 @@
 + A. Nagarajan, C. Junghans and S. Matysiak,{{<br>}}
   //Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining//,{{<br>}}
   [J. Chem. Theo. Comp. JOURNR(9), 5168 (2013) http://dx.doi.org/10.1021/ct400566j] pdf:2013b.
-  
+
 + S. Bevc, C. Junghans, K. Kremer and M. Praprotnik, HTML([[RIGHT../publications/2013a.jpg] ../publications/2013a_big.jpg]){{<br>}}
   //Adaptive resolution simulation of salt solutions//,{{<br>}}
   [New J. Phys., JOURNR(15), 105007 (2013) http://dx.doi.org/10.1088/1367-2630/15/10/105007] pdf:2013a.
