@@ -30,7 +30,7 @@ dummy: ;
 	convert $< $@
 
 %.png: %.eps
-	convert $< $@
+	convert -define png:exclude-chunks=date $< $@
 
 %.eps: %.dvi
 	dvips -E $* -o $@
