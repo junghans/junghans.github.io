@@ -1,6 +1,8 @@
 *~
 .*.swp
 
+/archive
+
 publications/publications.html
 publications/pub-content-numbered.t2t
 pages/*.html
