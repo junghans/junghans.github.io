@@ -1,6 +1,16 @@
 *~
 .*.swp
 
+<<<<<<< HEAD
+=======
+/archive
+
+publications/publications.html
+publications/pub-content-numbered.t2t
+pages/*.html
+cv/cv-web.html
+cv/cv.pdf
+>>>>>>> github
 cv/cv.tex
 cv/tex/*.aux
 cv/tex/*.fdb_latexmk
