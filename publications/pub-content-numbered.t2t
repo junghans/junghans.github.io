@@ -1,14 +1,20 @@
 
 
 
-=== Preprints ===
+%=== Preprints ===
+
+=== Reviewed Papers ===
 
 + NR(1) H. V. Guzman, C. Junghans, K. Kremer, and T. Stuehn,{{<br>}}
   //Scalable and fast heterogeneous molecular simulation with predictive parallelization schemes//,{{<br>}}
+<<<<<<< HEAD
   [To appear in Phys. Rev. E https://arxiv.org/abs/1711.03290]
 
 
 === Reviewed Papers ===
+=======
+  [Phys. Rev. E JOURNR(96), 053311 (2017) https://doi.org/10.1103/PhysRevE.96.053311] pdf:2017c.
+>>>>>>> github
 
 + NR(27) S. K. Gutierrez, K. Davis, D. Arnold, R. S. Baker, R. W. Robey, P. McCormick, D. Holladay, J. A. Dahl, J. Zerr, F. Weik, and C. Junghans,{{<br>}}
   //Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications//,{{<br>}}
