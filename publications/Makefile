@@ -5,7 +5,7 @@ CLEANFILES=pub-content-numbered.t2t
 
 all: pdfcheck $(OBJS)
 
-publications.t2t: pub-content-numbered.t2t
+publications.html: pub-content-numbered.t2t
 
 .PHONY: pdfcheck
 
