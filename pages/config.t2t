@@ -22,6 +22,7 @@
 %!preproc(html): {{(.*?)}}	''\1''
 %!postproc(html): 'ü' '&uuml;'
 %!postproc(html): 'ä' '&auml;'
+%!postproc(html): 'Ä' '&Auml;'
 %!postproc(html): 'ö' '&ouml;'
 %!postproc(html): 'ß' '&szlig;'
 %!postproc(html): 'é' '&eacute;'
