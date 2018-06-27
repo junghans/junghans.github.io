@@ -5,6 +5,10 @@
 
 === Reviewed Papers ===
 
++ C. Krekeler, A. Agarwal, C. Junghans, M. Praprotnik, and L. Delle Site,{{<br>}}
+  //Adaptive Resolution Molecular Dynamics Technique: Down to the Essential//,{{<br>}}
+  [To appear in J. Chem. Phys. (2018) https://arxiv.org/abs/1806.09870].
+
 + H. V. Guzman, C. Junghans, K. Kremer, and T. Stuehn,{{<br>}}
   //Scalable and fast heterogeneous molecular simulation with predictive parallelization schemes//,{{<br>}}
   [Phys. Rev. E JOURNR(96), 053311 (2017) https://doi.org/10.1103/PhysRevE.96.053311] pdf:2017c.
