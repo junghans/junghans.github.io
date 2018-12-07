@@ -105,7 +105,7 @@
   //Versatile Object-oriented Toolkit for Coarse-graining Applications//,{{<br>}}
   [J. Chem. Theo. Comp. JOURNR(5), 3211 (2009) http://dx.doi.org/10.1021/ct900369w] pdf:2009d ""[""[Homepage http://www.votca.org]""]""
 %leave the . in the next line to avoid two empty line in tex
-  .{{<br><script type="text/javascript" src="http://www.openhub.net/p/469750/widgets/project_thin_badge.js"></script>}}
+  .{{<br><script type='text/javascript' src='https://www.openhub.net/p/votca/widgets/project_thin_badge?format=js'></script>}}
 
 + C. Junghans, M. Bachmann and W. Janke,{{<br>}}
   //Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers//,{{<br>}}
