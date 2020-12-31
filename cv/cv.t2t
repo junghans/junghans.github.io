@@ -5,11 +5,11 @@ Christoph Junghans
 % Quoting
 %!postproc(tex): '"(.*?)"' ``\1''
 
-%!postproc(tex): 'ü' '{\"u}'
-%!postproc(tex): 'ä' '{\"a}'
-%!postproc(tex): 'ö' '{\"o}'
-%!postproc(tex): 'ß' '{\ss}'
-%!postproc(tex): 'é' "{\'e}"
+%!postproc(tex): 'ü' '{\\"u}'
+%!postproc(tex): 'ä' '{\\"a}'
+%!postproc(tex): 'ö' '{\\"o}'
+%!postproc(tex): 'ß' '{\\ss}'
+%!postproc(tex): 'é' "{\\'e}"
 
 %tex code
 %replace TEXCODE(xx) by ''xx'' (tagged item)
