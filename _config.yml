@@ -57,6 +57,7 @@ wikidata_id: Q50042017 # your wikidata id
 contact_note:
 
 google_analytics: UA-3351348-1 # out your google-analytics code
+panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -151,12 +152,13 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  false
-enable_mansory:           true
-enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          true
-show_social_icons:        false
+enable_google_analytics:    false
+enable_panelbear_analytics: false
+enable_mansory:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            true
+show_social_icons:          false
 
 # -----------------------------------------------------------------------------
 # Library versions
