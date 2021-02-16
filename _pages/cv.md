@@ -113,9 +113,10 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 #### Representativ ####
 
-| July 2015 - June 2016 | Member of the Worker Safety & Security Team (WSST) for CCS-7
+| Nov. 2018 - Present   | Member of the Information Science and Technology Institute (ISTI) council, LANL
+| July 2015 - June 2016 | Member of the Worker Safety & Security Team (WSST) for CCS-7, LANL
 | July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
-| Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research
+| Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research, Mainz
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrat) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
 | |
 
