@@ -10,6 +10,9 @@ nav: true
 
 {: reversed="reversed"}
 
+0. J. Bakosi, R. Bird, F. Gonzalez, **C. Junghans**, W. Li, H. Luo, A. Pandare, and J. Waltz,<br>
+   *Asynchronous distributed-memory task-parallel algorithm for compressible flows on unstructured 3D Eulerian grids*,<br>
+   To appear in Adv. Eng. Softw. (2021) [[online](2021a.pdf)].
 0. A. Diaw, K. Barros, J. Haack, **C. Junghans**, B. Keenan, Y. W. Li, D. Livescu, N. Lubbers, M. McKerns, R. S. Pavel, D. Rosenberger, I. Sagert, and T. C. Germann,<br>
    *Multiscale simulation of plasma flows using active learning*,<br>
    [Phys. Rev. E 102, 023310 (2020)](https://doi.org/10.1103/PhysRevE.102.023310) [[online](2020c.pdf)].
