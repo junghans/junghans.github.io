@@ -38,8 +38,9 @@ table td:first-of-type {
 }
 </style>
 
-| July 2018 - Present    | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
+| Feb. 2021 - Present    | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
+| July 2018 - Feb. 2021  | Deputy Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Jan. 2017 - July 2018  | Deputy Team Leader, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | May  2014 - July 2018  | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Mar. 2013 - Apr. 2014  | Director's Postdoc. Fellow, Theoretical Division, Los Alamos National Lab
