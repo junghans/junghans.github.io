@@ -12,10 +12,17 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
+icon: 🔥 # the emoji used as the favicon
 url: https://www.compphys.de # the base hostname & protocol for your site
 baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: /impressum/ # set to path to include impressum link in the footer, use the same as permanlink in a page 
+
+# -----------------------------------------------------------------------------
+# RSS Feed
+# -----------------------------------------------------------------------------
+# will use title and url fields
+# Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -41,6 +48,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: junghans # your GitHub user name
+gitlab_username: junghans # your GitLab user name
 twitter_username: chrjunghans # your Twitter handle
 linkedin_username: christophjunghans # your LinkedIn user name
 scholar_userid: nwPxp24AAAAJ # your Google Scholar ID
@@ -50,7 +58,7 @@ quora_username: # your Quora username
 publons_id: G-4238-2010 # your ID on Publons
 research_gate_profile: Christoph_Junghans # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.lanl.gov/junghans # other homepage
+work_url: https://www.lanl.gov/junghans # work page URL
 keybase_username: junghans # your keybase user name
 wikidata_id: Q50042017 # your wikidata id
 
@@ -110,18 +118,28 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude:
+  - bin
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+keep_files:
+  - CNAME
+  - .nojekyll
+  - .git
 
 # Plug-ins
 plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
+  - jekyll-feed
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
-  # - bootstrap
-  # - material-sass
+
+# Extras
+github: [metadata]
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -152,13 +170,18 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false
-enable_panelbear_analytics: false
-enable_mansory:             true
-enable_math:                true
-enable_tooltips:            false
-enable_darkmode:            true
-show_social_icons:          false
+enable_google_analytics:    false  # enables google analytics
+enable_panelbear_analytics: false  # enables panelbear analytics
+enable_mansory:             true   # enables automatic project cards arangement
+enable_math:                true   # enables math typesetting (uses MathJax)
+enable_tooltips:            false  # enables automatic tooltip links generated
+                                   # for each section titles on pages and posts
+enable_darkmode:            true   # enables switching between light/dark modes
+enable_navbar_social:       false  # enables displaying social links in the
+                                   # navbar on the about page
+enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 # -----------------------------------------------------------------------------
 # Library versions
@@ -191,3 +214,6 @@ mdb:
 popper:
   version: "2.4.4"
   integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
+medium_zoom:
+  version: "1.0.6"
+  integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
