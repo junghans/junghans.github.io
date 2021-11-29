@@ -13,9 +13,9 @@ nav: true
 0. J. Bakosi, R. Bird, F. Gonzalez, **C. Junghans**, W. Li, H. Luo, A. Pandare, and J. Waltz,<br>
    *Asynchronous distributed-memory task-parallel algorithm for compressible flows on unstructured 3D Eulerian grids*,<br>
    [Adv. Eng. Softw. 160, 102962 (2021)](https://doi.org/10.1016/j.advengsoft.2020.102962) [[online](2021b.pdf)].
-0. S. M. Mniszewski, J. Belak, J.-L. Fattebert, C. F. A. Negre, S. RSlattery, A. A. Adedoyin, R. F. Bird, C.S. Chang, G. Chen, S. Ethier, S. Fogerty, S. Habib, **C. Junghans**, D. Lebrun-Grandie, J. Mohd-Yusof, S. G. Moore, D. Osei-Kuffuor, S. J. Plimpton, A. Pope, S. T. Reeve, L. Ricketson, A. Scheinberg, A. Y. Sharma, and M. E. Wall,<br>
+0. S. M. Mniszewski, J. Belak, J.-L. Fattebert, C. F. A. Negre, S. R. Slattery, A. A. Adedoyin, R. F. Bird, C.S. Chang, G. Chen, S. Ethier, S. Fogerty, S. Habib, **C. Junghans**, D. Lebrun-Grandie, J. Mohd-Yusof, S. G. Moore, D. Osei-Kuffuor, S. J. Plimpton, A. Pope, S. T. Reeve, L. Ricketson, A. Scheinberg, A. Y. Sharma, and M. E. Wall,<br>
    *Enabling Particle Applications for Exascale Computing Platforms*,<br>
-   [Int. J. High Perf. Comp. App. (2021)](https://doi.org/10.1177/10943420211022829) [[online](2021a.pdf)].
+   [Int. J. High Perf. Comp. App. 35, 572 (2021)](https://doi.org/10.1177/10943420211022829) [[online](2021a.pdf)].
 0. A. Diaw, K. Barros, J. Haack, **C. Junghans**, B. Keenan, Y. W. Li, D. Livescu, N. Lubbers, M. McKerns, R. S. Pavel, D. Rosenberger, I. Sagert, and T. C. Germann,<br>
    *Multiscale simulation of plasma flows using active learning*,<br>
    [Phys. Rev. E 102, 023310 (2020)](https://doi.org/10.1103/PhysRevE.102.023310) [[online](2020c.pdf)].
