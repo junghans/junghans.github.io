@@ -64,7 +64,7 @@ wikidata_id: Q50042017 # your wikidata id
 dblp_url: https://dblp.org/pid/43/13
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note:
 
