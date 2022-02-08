@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-description:
+subtitle:
+
 profile:
 
 news: false  # includes a list of news items
