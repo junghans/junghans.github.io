@@ -140,7 +140,8 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Teaching Experience ###
 
-| Aug. 2019 | "VOTCA and LAMMPS for electronic spectroscopy and transport" (Tutorial), [LAMMPS Workshop and Symposium](https://lammps.sandia.gov/workshops/Aug19/workshop.html), Albuquerque, NM
+| Aug. 2021 | "Electronic Spectroscopy with VOTCA and LAMMPS" (Tutorial), [LAMMPS Workshop and Symposium 2021](https://www.lammps.org/workshops/Aug21)
+| Aug. 2019 | "VOTCA and LAMMPS for electronic spectroscopy and transport" (Tutorial), [LAMMPS Workshop and Symposium 2019](https://www.lammps.org/workshops/Aug19/workshop.html), Albuquerque, NM
 | May  2018 - Aug. 2018  | [Co-Design Summer School](http://codesign.lanl.gov) (6 Students), Los Alamos National Laboratory
 | May  2017 - July 2017  | [Co-Design Summer School](http://codesign.lanl.gov) (6 Students), Los Alamos National Laboratory
 | Oct. 2016 | "Coarse-Graining with VOTCA" (Tutorial), [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-details/327), Mainz, Germany
@@ -170,7 +171,8 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Mentoring ###
 
-| June 2019 - Present    | Postdoc. Research Assistant, Los Alamos National Laboratory
+| Feb. 2021 - Present    | Postdoc. Research Assistant, Los Alamos National Laboratory
+| June 2019 - Mar. 2021  | Postdoc. Research Assistant, Los Alamos National Laboratory
 | Feb. 2018 - Apr. 2020  | Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory
 | May  2018 - Feb. 2019  | Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory
 | Feb. 2017 - Jan. 2019  | Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory
