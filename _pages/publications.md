@@ -14,6 +14,10 @@ nav: true
    *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
    [arXiv:2202.12309](https://arxiv.org/abs/2202.12309).
 
+0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
+   *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
+   [arXiv:2109.10876](https://arxiv.org/abs/2109.10876).
+
 
 ### Reviewed Papers ###
 
