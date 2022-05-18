@@ -150,7 +150,7 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 
 0.  **C. Junghans**,<br>
     *Between the Scales: Water from different Perspectives*,<br>
-    [PhD Thesis](http://edoc.mpg.de/display.epl?mode=doc&id=520521&col=69&grp=474), [Johannes Gutenberg-Universität Mainz (2010)](http://doi.org/10.25358/openscience-1007), [Google Books](http://books.google.com/books/about?id=BDVcf_fJE1gC) [[online](2010e.pdf)].
+    [PhD Thesis]( http://hdl.handle.net/11858/00-001M-0000-000F-70E9-C), [Johannes Gutenberg-Universität Mainz (2010)](http://doi.org/10.25358/openscience-1007), [Google Books](http://books.google.com/books/about?id=BDVcf_fJE1gC) [[online](2010e.pdf)].
 0.  **C. Junghans**,<br>
     *Aggregation of Mesoscopic Protein-like Heteropolymers*,<br>
     Diploma Thesis, Universität Leipzig (2006) [[online](2006d.pdf)].
