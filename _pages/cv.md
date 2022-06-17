@@ -201,6 +201,17 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Talks ###
 
+Over 50 invited and contributed talks and presentations
+
+#### Selected Talks ####
+
+| Sep. 2018 | Lecture: "Co-Design at Los Alamos National Laboratory", [University of Reims Champagne-Ardenne](http://www.univ-reims.eu/) 
+| Oct. 2016 | Talk: "Recent developments in VOTCA", [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-details/327), Mainz, Germany
+| May 2012 | Seminar: "Particle-based multi-scale simulations using the Adaptive Resolution Scheme", [IBM Research, Almaden](http://www.almaden.ibm.com)
+| July 2011 | Colloquium: "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
+| |
+
+<!--
 #### Colloquium Talks ####
 
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
@@ -261,6 +272,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | June 2008 | "Adjusting dynamic material properties by a thermostat", ICMMES 2008, [University of Amsterdam](http://www.uva.nl)
 | Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008](http://berlin08.dpg-tagungen.de/index.html?lang=en), Berlin
 | |
+-->
 
 ### Publications ###
 
