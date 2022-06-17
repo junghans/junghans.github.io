@@ -141,7 +141,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Teaching Experience ###
 
-| Aug. 2021 | "Electronic Spectroscopy with VOTCA and LAMMPS" (Tutorial), [LAMMPS Workshop and Symposium 2021](https://www.lammps.org/workshops/Aug21)
+| Aug. 2021 | "Electronic Spectroscopy with VOTCA and LAMMPS" (Tutorial), [LAMMPS Workshop and Symposium 2021](https://www.lammps.org/workshops/Aug21), Virtual
 | Aug. 2019 | "VOTCA and LAMMPS for electronic spectroscopy and transport" (Tutorial), [LAMMPS Workshop and Symposium 2019](https://www.lammps.org/workshops/Aug19/workshop.html), Albuquerque, NM
 | May  2018 - Aug. 2018  | [Co-Design Summer School](http://codesign.lanl.gov) (6 Students), Los Alamos National Laboratory
 | May  2017 - July 2017  | [Co-Design Summer School](http://codesign.lanl.gov) (6 Students), Los Alamos National Laboratory
