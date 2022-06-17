@@ -76,6 +76,7 @@ table td:first-of-type {
 ### Open Source Projects ###
 
 | [VOTCA](https://www.votca.org) | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
+| [Cabana](https://github.com/ECP-copa/Cabana) | Performance-portable library for particle-based simulations | Core Developer
 | [FleCSI](http://www.flecsi.org) | Flexible Computer Science Infrastructure | Developer
 | [Gentoo](https://www.gentoo.org) | Advanced Linux distribution | Developer
 | [Fedora](https://start.fedoraproject.org) | Linux distribution | Contributor
