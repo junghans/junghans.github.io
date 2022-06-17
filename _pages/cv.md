@@ -202,7 +202,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 ### Talks ###
 
-Over 50 invited and contributed talks and presentations
+Over 50 invited and contributed talks
 
 #### Selected Talks ####
 
