@@ -23,6 +23,10 @@ nav: true
 
 {: reversed="reversed"}
 
+0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
+   *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
+   Accepted in: *Proceeding of the 9th Workshop on Language-Based Parallel Programming Models 2022* (WLPP 22),<br>
+   Gdansk, Poland.
 0. S. Slattery, S. T. Reeve, **C. Junghans**, D. Lebrun-Grandie, R. Bird, G. Chen, S. Fogerty, Y. Qiu, S. Schulz, A. Scheinberg, A. Isner, K. Chong, S. Moore, T. Germann, J. Belak, and S. Mniszewski<br>
    *Cabana: A Performance Portable Library for Particle-Based Simulations*,<br>
    [J. Open Source Softw. 7, 4115 (2022)](https://doi.org/10.21105/joss.04115) [[online](2022a.pdf)].
