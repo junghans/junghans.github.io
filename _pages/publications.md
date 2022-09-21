@@ -10,6 +10,10 @@ nav: true
 
 {: reversed="reversed"}
 
+0. S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, **C. Junghans**, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan,<br>
+   *Predictive Scale-Bridging Simulations through Active Learning*,<br>
+   [arXiv:2209.09811](https://arxiv.org/abs/2209.09811).
+
 0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
    *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
    [arXiv:2202.12309](https://arxiv.org/abs/2202.12309).
