@@ -12,7 +12,7 @@ nav: true
 
 0. A. Pachalieva, R. S. Pavel, J. E. Santos, A. Diaw, N. Lubbers, M. Mehana, J. R. Haack, H. S. Viswanathan, D. Livescu, T. C. Germann, and **C. Junghans**,<br>
    *GLUE Code: A framework handling communication and interfaces between scales*,<br>
-   [Under review at J. Open Source Softw. (2022)](https://github.com/openjournals/joss-reviews/issues) [[online](https://github.com/lanl/GLUE/blob/manuscript/paper.md)].
+   [Under public review at J. Open Source Softw. (2022)](https://github.com/openjournals/joss-reviews/issues/4782) [[online](https://raw.githubusercontent.com/openjournals/joss-papers/joss.04782/joss.04782/10.21105.joss.04782.pdf)] [[view](https://github.com/openjournals/joss-papers/blob/joss.04782/joss.04782/10.21105.joss.04782.pdf)].
 
 0. S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, **C. Junghans**, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan,<br>
    *Predictive Scale-Bridging Simulations through Active Learning*,<br>
