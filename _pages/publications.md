@@ -18,10 +18,6 @@ nav: true
    *Predictive Scale-Bridging Simulations through Active Learning*,<br>
    [arXiv:2209.09811](https://arxiv.org/abs/2209.09811).
 
-0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
-   *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
-   [arXiv:2202.12309](https://arxiv.org/abs/2202.12309).
-
 0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
    *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
    [arXiv:2109.10876](https://arxiv.org/abs/2109.10876).
@@ -31,6 +27,9 @@ nav: true
 
 {: reversed="reversed"}
 
+0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
+   *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
+   To appear in Int. J. High Perf. Comp. App. (2022), also [arXiv:2202.12309](https://arxiv.org/abs/2202.12309).
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    Accepted in: *Proceeding of the 9th Workshop on Language-Based Parallel Programming Models 2022* (WLPP 22),<br>
