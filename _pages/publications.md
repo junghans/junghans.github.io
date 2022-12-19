@@ -27,13 +27,13 @@ nav: true
 
 {: reversed="reversed"}
 
-0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
-   *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
-   To appear in Int. J. High Perf. Comp. App. (2022), also [arXiv:2202.12309](https://arxiv.org/abs/2202.12309).
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    Accepted in: *Proceeding of the 9th Workshop on Language-Based Parallel Programming Models 2022* (WLPP 22),<br>
    Gdansk, Poland.
+0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
+   *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
+   [Int. J. High Perf. Comp. App. (2022)](https://doi.org/10.1177/10943420221143775) [[online](2022b.pdf)].
 0. S. Slattery, S. T. Reeve, **C. Junghans**, D. Lebrun-Grandie, R. Bird, G. Chen, S. Fogerty, Y. Qiu, S. Schulz, A. Scheinberg, A. Isner, K. Chong, S. Moore, T. Germann, J. Belak, and S. Mniszewski<br>
    *Cabana: A Performance Portable Library for Particle-Based Simulations*,<br>
    [J. Open Source Softw. 7, 4115 (2022)](https://doi.org/10.21105/joss.04115) [[online](2022a.pdf)].
