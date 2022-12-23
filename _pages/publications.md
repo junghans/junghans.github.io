@@ -23,15 +23,13 @@ nav: true
 
 {: reversed="reversed"}
 
-0. A. Pachalieva, R. S. Pavel, J. E. Santos, A. Diaw, N. Lubbers, M. Mehana, J. R. Haack, H. S. Viswanathan, D. Livescu, T. C. Germann, and **C. Junghans**,<br>
-   *GLUE Code: A framework handling communication and interfaces between scales*,<br>
-   [Accepted in J. Open Source Softw. (2022)](https://github.com/openjournals/joss-reviews/issues/4822) [[online](https://raw.githubusercontent.com/openjournals/joss-papers/joss.04822/joss.04822/10.21105.joss.04822.pdf)] [[view](https://github.com/openjournals/joss-papers/blob/joss.04822/joss.04822/10.21105.joss.04822.pdf)].
-
-
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    Accepted in: *Proceeding of the 9th Workshop on Language-Based Parallel Programming Models 2022* (WLPP 22),<br>
    Gdansk, Poland [arXiv:2212.11878](https://arxiv.org/abs/2212.11878).
+0. A. Pachalieva, R. S. Pavel, J. E. Santos, A. Diaw, N. Lubbers, M. Mehana, J. R. Haack, H. S. Viswanathan, D. Livescu, T. C. Germann, and **C. Junghans**,<br>
+   *GLUE Code: A framework handling communication and interfaces between scales*,<br>
+   [J. Open Source Softw. 7, 4822 (2022)](https://doi.org/10.21105/joss.04822) [[online](2022c.pdf)].
 0. P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, **C. Junghans**, D. Holladay, and J. M. Stone,<br>
    *Parthenon - a performance portable block-structured adaptive mesh refinement framework*,<br>
    [Int. J. High Perf. Comp. App. (2022)](https://doi.org/10.1177/10943420221143775) [[online](2022b.pdf)].
