@@ -78,7 +78,6 @@ table td:first-of-type {
 | [VOTCA](https://www.votca.org) | Versatile object-oriented toolkit for coarse-graining applications | Core Developer
 | [Cabana](https://github.com/ECP-copa/Cabana) | Performance-portable library for particle-based simulations | Core Developer
 | [FleCSI](http://www.flecsi.org) | Flexible Computer Science Infrastructure | Developer
-| [Gentoo](https://www.gentoo.org) | Advanced Linux distribution | Developer
 | [Fedora](https://start.fedoraproject.org) | Linux distribution | Contributor
 | [OpenSuse](https://en.opensuse.org) | Linux distribution | Contributor
 | [ESPReSo++](https://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
@@ -104,7 +103,6 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 - [Gromacs](https://gitlab.com/gromacs/gromacs)
 - [OpenSuse Build Service](https://build.opensuse.org)
-- [Gentoo Science Project](https://github.com/gentoo/sci)
 
 
 #### Conferences ####

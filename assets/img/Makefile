@@ -1,6 +1,6 @@
 all: email.png
 
-MAIL="junghans@\{votca.org,lanl.gov,gentoo.org,fedoraproject.org\}"
+MAIL="junghans@\{votca.org,lanl.gov,fedoraproject.org\}"
 
 .INTERMEDIATE: email.tex
 email.tex: Makefile
