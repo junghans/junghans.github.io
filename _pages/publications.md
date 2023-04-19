@@ -14,15 +14,14 @@ nav: true
    *Predictive Scale-Bridging Simulations through Active Learning*,<br>
    [arXiv:2209.09811](https://arxiv.org/abs/2209.09811).
 
-0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
-   *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
-   [arXiv:2109.10876](https://arxiv.org/abs/2109.10876).
-
 
 ### Reviewed Papers ###
 
 {: reversed="reversed"}
 
+0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
+   *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
+   To appear in Comp. Phys. Comm., also [arXiv:2109.10876](https://arxiv.org/abs/2109.10876).
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    Accepted in: *Proceeding of the 9th Workshop on Language-Based Parallel Programming Models 2022* (WLPP 22),<br>
