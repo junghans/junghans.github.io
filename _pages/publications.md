@@ -21,7 +21,7 @@ nav: true
 
 0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
    *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
-   [To appear in Comp. Phys. Comm. (2023)][https://doi.org/10.1016/j.cpc.2023.108760).
+   [To appear in Comp. Phys. Comm. (2023)](https://doi.org/10.1016/j.cpc.2023.108760).
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    in: R. Wyrzykowski, J. Dongarra, E. Deelman, and K. Karczewski, (Eds.)<br>
