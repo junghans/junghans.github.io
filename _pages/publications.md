@@ -21,10 +21,10 @@ nav: true
 
 0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
    *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
-   [To appear in Comp. Phys. Comm. (2023)](https://doi.org/10.1016/j.cpc.2023.108760).
+   [Comp. Phys. Comm. 290, 108760 (2023)](https://doi.org/10.1016/j.cpc.2023.108760) [[online](2023b.pdf)]
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
-   in: R. Wyrzykowski, J. Dongarra, E. Deelman, and K. Karczewski, (Eds.)<br>
+   in: R. Wyrzykowski, J. Dongarra, E. Deelman, and K. Karczewski (Eds.),<br>
    Parallel Processing and Applied Mathematics. PPAM 2022. Lecture Notes in Computer Science, [Vol. 13827](https://doi.org/10.1007/978-3-031-30445-3_1) (2023) [[online](2023a.pdf)].
 0. A. Pachalieva, R. S. Pavel, J. E. Santos, A. Diaw, N. Lubbers, M. Mehana, J. R. Haack, H. S. Viswanathan, D. Livescu, T. C. Germann, and **C. Junghans**,<br>
    *GLUE Code: A framework handling communication and interfaces between scales*,<br>
