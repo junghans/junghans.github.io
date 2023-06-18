@@ -19,9 +19,12 @@ nav: true
 
 {: reversed="reversed"}
 
+0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
+   *Using heterogeneous GPU nodes with a Cabana-based implementation of MPCD*,<br>
+   [Parallel Comput. 103033 (2023)](https://doi.org/10.1016/j.parco.2023.1030330) [[online](2023c.pdf)].
 0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
    *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
-   [Comp. Phys. Comm. 290, 108760 (2023)](https://doi.org/10.1016/j.cpc.2023.108760) [[online](2023b.pdf)]
+   [Comp. Phys. Comm. 290, 108760 (2023)](https://doi.org/10.1016/j.cpc.2023.108760) [[online](2023b.pdf)].
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Kokkos-Based Implementation of MPCD on Heterogeneous Nodes*,<br>
    in: R. Wyrzykowski, J. Dongarra, E. Deelman, and K. Karczewski (Eds.),<br>
