@@ -19,6 +19,9 @@ nav: true
 
 {: reversed="reversed"}
 
+0. S. Wijesinghe, **C. Junghans**, D. Perahia, and G. S. Grest,<br>
+   *Polydots, soft nanoparticles, at membrane interfaces*,<br>
+   In press [RSC Adv. (2023)](https://doi.org/10.1039/d3ra02085a).
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Using heterogeneous GPU nodes with a Cabana-based implementation of MPCD*,<br>
    [Parallel Comput. 103033 (2023)](https://doi.org/10.1016/j.parco.2023.103033) [[online](2023c.pdf)].
