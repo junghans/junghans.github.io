@@ -21,10 +21,10 @@ nav: true
 
 0. S. Wijesinghe, **C. Junghans**, D. Perahia, and G. S. Grest,<br>
    *Polydots, soft nanoparticles, at membrane interfaces*,<br>
-   In press [RSC Adv. (2023)](https://doi.org/10.1039/d3ra02085a).
+   In press [RSC Adv. (2023)](https://doi.org/10.1039/d3ra02085a) [[online](2023d.pdf)].
 0. R. Halver, **C. Junghans**, and G. Sutmann,<br>
    *Using heterogeneous GPU nodes with a Cabana-based implementation of MPCD*,<br>
-   [Parallel Comput. 103033 (2023)](https://doi.org/10.1016/j.parco.2023.103033) [[online](2023c.pdf)].
+   [Paral. Comp. 117, 103033 (2023)](https://doi.org/10.1016/j.parco.2023.103033) [[online](2023c.pdf)].
 0. J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, **C. Junghans**, and A. Brinkmann,<br>
    *Code modernization strategies for short-range non-bonded molecular dynamics simulations*,<br>
    [Comp. Phys. Comm. 290, 108760 (2023)](https://doi.org/10.1016/j.cpc.2023.108760) [[online](2023b.pdf)].
