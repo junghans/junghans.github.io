@@ -35,6 +35,7 @@ jobs:
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
         npm install -g mermaid.cli
+        sudo apt-get update
         sudo apt-get install latexmk texlive-latex-extra
     - name: Setup deploy options
       id: setup
