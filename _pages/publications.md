@@ -18,7 +18,7 @@ nav: true
 
 0. S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, **C. Junghans**, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan,<br>
    *Predictive Scale-Bridging Simulations through Active Learning*,<br>
-   To appear in Sci. Rep. (2023) [arXiv:2209.09811](https://arxiv.org/abs/2209.09811).
+   [Sci. Rep. 13, 16262 (2023)](https://doi.org/10.1038/s41598-023-42823-6) [[online](2023e.pdf)].
 0. S. Wijesinghe, **C. Junghans**, D. Perahia, and G. S. Grest,<br>
    *Polydots, soft nanoparticles, at membrane interfaces*,<br>
    [RSC Adv. 13, 19227 (2023)](https://doi.org/10.1039/d3ra02085a) [[online](2023d.pdf)].
