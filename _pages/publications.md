@@ -216,10 +216,10 @@ For more infomation see [my ResearcherID profile](http://www.researcherid.com/ri
 {: reversed="reversed"}
 
 0.  *Balancing the load: Los Alamos researchers develop code to distribute computation more efficiently and across increasing numbers of supercomputer processors.*<br>
-    [ASCR Discovery Story](https://ascr-discovery.org/2018/05/balancing-the-load/amp/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and [LANL Science Brief](https://www.lanl.gov/discover/science-briefs/2019/April/0418-balancing-the-load.php) (2018).
+    [ASCR Discovery Story](https://ascr-discovery.org/2018/05/balancing-the-load/amp/), [HPCwire](https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/), [insideHPC](https://insidehpc.com/2018/05/balancing-load-million-cores-concert/) and LANL Science Brief (2018).
 0.  **C. Junghans**, A. K. Hüttel and U. Müller, <br>
     *Gentoo Linux: Quelltexte und Rolling Releases*,<br>
-    [c't Magazin 16, 162 (2012)](http://www.heise.de/ct/inhalt/2012/16/162/).
+    [c't Magazin 16, 162 (2012)](https://www.heise.de/select/ct/archiv/2012/16/seite-162).
 0.  **C. Junghans**,<br>
     *The Method of Multicanonical Simulations in Different Models*, <br>
     Technical Report, Universität Leipzig (2005), [[online](2005b.pdf)].
