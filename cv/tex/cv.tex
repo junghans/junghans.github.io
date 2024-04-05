@@ -1,0 +1,674 @@
+\documentclass{article}
+
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{fancyhdr}
+
+\hypersetup{
+  colorlinks = true,
+  urlcolor = blue,
+  pdfauthor = {Christoph Junghans},
+  pdfkeywords = {computational physics, monte carlo, molecular dynamics, votca},
+  pdftitle = {Christoph Junghans: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+\geometry{
+  body={6.5in, 8.5in},
+  left=1.0in,
+  top=1.25in
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\pagestyle{fancy}
+\rhead{Christoph Junghans\hfill\thepage}
+%\pagestyle{empty}
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\itshape\normalsize}
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+\begin{document}
+\thispagestyle{plain}
+\vspace*{-1.2cm}
+
+% Place name at left
+\begin{tabular}{p{0.965\textwidth}}
+{\huge Christoph Junghans}\\
+\hline
+\end{tabular}
+\vspace{0.2in}
+
+\begin{minipage}{0.55\linewidth}
+  Group Leader\\ 
+  \href{https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/applied-computer-science/index.php}{Applied Computer Science Group}\\
+  \href{https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/index.php}{Computer, Computational, \& Statistical Sciences Division}\\
+  \href{http://www.lanl.gov}{Los Alamos National Laboratory}, NM, USA
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+  \begin{tabular}{ll}
+    Phone: & ++1-505-695-2142 \\
+    Email: & \href{mailto:junghans@lanl.gov}{\tt junghans@lanl.gov} \\
+    Web: & \href{http://www.lanl.gov/junghans}{\tt www.lanl.gov/junghans} \\
+  \end{tabular}
+\end{minipage}
+
+\section*{Research Interests}
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\item \textbf{Currently:} Applied computer science
+\item Software design and management -- core developer of the coarse-graining package \htmladdnormallink{VOTCA}{http://www.votca.org}
+\item Porting and optimization of scientific codes (\htmladdnormallink{VOTCA}{http://www.votca.org}, \htmladdnormallink{Cabana}{https://github.com/ECP-copa/Cabana}, \htmladdnormallink{FleCSI}{http://www.flecsi.org})
+\item Novel software development workflow for Exascale computing
+\item Systematic coarse-graining of liquids and implementation of new methodologies (e.g.\ thermostats)
+\item Development of adaptive resolution simulation approaches (changing the degrees of freedom on the fly)
+\item Generalized ensemble methods to study phase transitions (multicanonical techniques)
+%\item Extending the time-scale of bio-simulations using accelerated molecular dynamics
+\end{itemize}
+
+\section*{Education}
+\begin{tabular}{ll}
+Oct 2010& \textbf{Dr. rer. nat. (Ph.D.) in Physics}, \textit{magna cum laude},\\
+&Johannes Gutenberg University, Mainz, Germany\\
+&\htmladdnormallink{\textit{Between the Scales: Water from different Perspectives}}{http://www.compphys.de/publications/2010e.pdf}\\
+&An adaptive resolution molecular dynamics study using various coarse-graining methods\\
+Nov 2006&\textbf{Diploma (M.Sc.) in Physics}, \textit{summa cum laude}, University of Leipzig, Germany\\
+&\htmladdnormallink{\textit{Aggregation of Mesoscopic Protein-like Heteropolymers}}{http://www.compphys.de/publications/2006d.pdf}\\
+&A generalized ensemble Monte Carlo study using multicanonical techniques\\
+\end{tabular}
+
+\section*{Work Experience}
+\begin{longtable}{p{0.2\textwidth}p{0.78\textwidth}}
+Feb 2021 - Present & \textbf{Group Leader}, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab \\
+Feb 2016 - Present & \textbf{CNLS Affiliate}, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab \\
+July 2018 - Feb 2021 & \textbf{Deputy Group Leader}, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab \\
+Jan 2017 - July 2018 & \textbf{Deputy Team Leader}, Co-Design Team, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab \\
+May 2014 - July 2018 & \textbf{Staff Scientist}, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab \\
+Mar 2013 -- Apr 2014 & \textbf{Director's Postdoc. Fellow}, Theoretical Division, Los Alamos National Lab\\
+Nov 2011 -- Feb 2013 & \textbf{Postdoc. Research Assistant}, Theoretical Division, Los Alamos National Lab\\
+May 2012 -- June 2012 & \textbf{Member}, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA \\
+Nov 2010 -- Oct 2011 & \textbf{Postdoc. Research Assistant}, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany\\
+Jan 2007 -- Oct 2010 & \textbf{Ph.D.\ Student}, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany\\
+Jan 2009 -- July 2009 & \textbf{Specialist for Application Performance \& Deep Computing}, Internship, IBM Systems \& Technology Group Europe \\
+Oct 2003 -- Sept 2006 & \textbf{Student Assistant}, Institute for Theoretical Physics, University of Leipzig \\
+Aug 2005 -- Oct 2005 & \textbf{Research Student} in the ``Scientific Computing'' program, J{\"u}lich Supercomputing Centre, Germany \\
+Sep 2004 & \textbf{Student Assistant}, Institute for Meteorology, University of Leipzig \\
+Feb 2003 -- April 2003 & \textbf{Research Student}, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Germany \\
+\end{longtable}
+
+\section*{Open Source Projects}
+\begin{tabular}{lll}
+\htmladdnormallink{VOTCA}{http://www.votca.org} & Versatile Toolkit for coarse-graining applications & Core Developer\\
+\htmladdnormallink{Cabana}{https://github.com/ECP-copa/Cabana} & Performance-portable library for particle-based simulations & Core Developer\\
+\htmladdnormallink{FleCSI}{http://www.flecsi.org} & Flexible Computer Science Infrastructure & Developer\\
+\htmladdnormallink{Fedora}{https://start.fedoraproject.org} & Linux distribution & Contributor \\
+\htmladdnormallink{OpenSuse}{https://en.opensuse.org} & Linux distribution & Contributor \\
+\htmladdnormallink{ESPReSo++}{http://www.espresso-pp.de} & Successor of the ESPResSo simulation package & Developer\\
+\htmladdnormallink{GroMaCS}{http://www.gromacs.org} & Versatile package to perform molecular dynamics & Developer (inactive)\\
+\htmladdnormallink{ESPReSo}{http://www.espressomd.org} & Extensible Simulation Package for Research on Soft matter & Developer (inactive)\\
+\end{tabular}\\
+
+More information can be found on \htmladdnormallink{my GitHub profile}{http://www.github.com/junghans} and \htmladdnormallink{my OpenHUB profile}{http://www.openhub.net/accounts/junghans}.
+
+\section*{Awards}
+\begin{tabular}{ll}
+Nov 2019 & Top 10\% most cited PLOS ONE papers published in 2015 \\
+Sep 2017 & LAAP Award in recognition of outstanding contributions to the ISTI Summer School Program \\
+Feb 2017 & Postdoc. Distinguished Mentor Award, LANL \\
+July 2016 & LAAP Achievement Award in appreciation for active service on the WSST team \\
+Jan 2015 & Classified as outstanding researcher, USCIS \\
+Jan 2014 & Most cited article published in EPJE in the past 5 years \\
+Mar 2013 & Los Alamos National Laboratory Director's Post-Doctoral Fellowship \\
+May 2012 & Member of the Kavli Institute for Theoretical Physics\\
+June 2010 & Participant of the 60th Lindau Nobel Laureate Meeting\\
+Nov 2006 & Diploma with honor (highest possible grade) \\
+Nov 2005  & Wolfgang Natonek award, University of Leipzig\\
+Oct 2003  & Teubner award, Department for Physics and Earth Science, University of Leipzig\\
+July 2000 & Book award of the German Physical Society (DPG) for high school graduates\\
+\end{tabular}
+
+\section*{Professional Skills}
+
+\subsection*{Managerial}
+
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\item Line management, since July 2018, Group of 65+ staff scientists and Postdocs, \$50M+ budget 
+\item Team management, 2 years, technical management of 12+ team member
+\item Project management, multiple lead roles in Exascale Computing Project (ECP), Laboratory Directed Research \& Development (LDRD) and Advanced Simulation \& Computing (ASC) projects 
+\end{itemize}
+
+\subsection*{Referee for Scientific Journals}
+
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\item ACS: J. Chem. Inf. Model. \& J. Phys. Chem.
+\item AIP: J. Chem. Phys.
+\item Elsevier: Comp. Phys. Comm.
+\item RSC: Phys. Chem. Chem. Phys.
+\item and others
+\end{itemize}
+
+\vspace{3mm}
+\subsection*{Code Review}
+
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\item \htmladdnormallink{Gromacs}{https://gitlab.com/gromacs/gromacs}
+\item \htmladdnormallink{OpenSuse Build Service}{https://build.opensuse.org}
+\end{itemize}
+
+\subsection*{Conferences}
+
+\begin{itemize}
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\item Member of the Organization Committee for the \htmladdnormallink{Salishan Conference on High Speed Computing}{http://salishan.ahsc-nm.org/}
+\item Chairman for APS annual meetings
+\end{itemize}
+
+\subsection*{Representative}
+
+\begin{tabular}{p{0.2\textwidth}p{0.78\textwidth}}
+Nov 2018 - Sep 2022 & Member of the Information Science and Technology Institute (ISTI) council, LANL \\
+July 2015 - June 2016 & Member of the Worker Safety \& Security Team (WSST) for CCS-7, LANL \\
+July 2007 - Dec 2008 & PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz \\
+Nov 2007 - Nov 2008 & PhD representative of the MPI for Polymer Research \\
+Oct 2002 - Sep 2005 & Elected member of student government (Fachschaftsrat) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees \\
+\end{tabular}
+
+
+\section*{Computer Skills}
+
+\begin{tabular}{ll}
+\textbf{General} & Linux, AIX, Mac OS, DOS, Windows \\
+\textbf{Programming} & C, Fortran, MPI, OpenMP, C++ \\
+\textbf{Scripting} & Shell, awk, Perl, expect, PHP, tcl, Python\\
+\textbf{Markup Languages} & HTML, latex, mediawiki, txt2tags \\
+\end{tabular}
+
+\section*{Teaching Experience}
+\vspace{-4mm}
+
+\begin{longtable}{p{0.2\textwidth}p{0.78\textwidth}}
+Aug 2021 & ``VOTCA and LAMMPS for electronic spectroscopy and transport'' (Tutorial), \htmladdnormallink{LAMMPS Workshop and Symposium}{https://www.lammps.org/workshops/Aug21}, Virtual\\
+Aug 2019 & ``VOTCA and LAMMPS for electronic spectroscopy and transport'' (Tutorial), \htmladdnormallink{LAMMPS Workshop and Symposium}{https://www.lammps.org/workshops/Aug19/workshop.html}, Albuquerque, NM \\
+May 2018 - Aug 2018 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (6 Students), Los Alamos National Laboratory \\
+May 2017 - Jul 2017 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (6 Students), Los Alamos National Laboratory \\
+Oct 2016 & ``Coarse-Graining with VOTCA'' (Tutorial), \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA''}{https://www.cecam.org/workshop-details/327}, Mainz, Germany \\
+Jun 2016 - Aug 2016 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (7 Students), Los Alamos National Laboratory \\
+May  2016 & Gitlab Hands-On course, ASC/NGC Program, LANL \\
+Oct 2015 & ``Coarse-Graining with VOTCA'' (Tutorial), \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Summer School ``Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+Sep 2015 & Git Hands-On course, ASC/NGC Program, LANL \\
+Jun 2015 - Aug 2015 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (6 Students), Los Alamos National Laboratory \\
+Nov 2014 & Git IC Tutorial, Institutional Computing, LANL \\
+Oct 2014 & Hands-on: VOTCA, \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{``School on Multiscale Modeling and Use of Espresso++ and VOTCA''}{https://www.cecam.org/workshop-details/505}, Mainz, Germany \\
+Jun 2014 - Aug. 2014 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (6 Students), Los Alamos National Laboratory \\
+Aug 2014 & Gromacs Tutorial, \htmladdnormallink{The Eighth q-bio Summer School}{http://q-bio.org/wiki/The\_Eighth\_q-bio\_Summer\_School}, Albuquerque, NM (LA-UR 14-26188) \\
+Jun 2014 & Gromacs IC Tutorial, Institutional Computing, LANL (LA-UR 14-24814) \\
+Oct 2013 & ``Systematic Coarse-Graining with VOTCA'' (Tutorial), \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Summer School ``Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/ess2013/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+Jul 2013 - Aug 2013 & \htmladdnormallink{Co-Design Summer School}{http://codesign.lanl.gov} (6 Students), Los Alamos National Laboratory \\
+Jul 2013 & Gromacs Tutorial, \htmladdnormallink{The Seventh q-bio Summer School}{http://q-bio.org/wiki/The\_Seventh\_q-bio\_Summer\_School:\_Biomolecular\_Simulations}, Santa Fe, NM \\
+Oct 2012 & ``Systematic Coarse-Graining with VOTCA'' (Tutorial), \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/ess2012/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+Jul 2012 & Gromacs Tutorial, \htmladdnormallink{The Sixth q-bio Summer School}{http://cnls.lanl.gov/q-bio/wiki/index.php/The\_Sixth\_q-bio\_Summer\_School:\_Biomolecular\_Simulations}, Santa Fe, NM \\
+Oct 2011 & Hands-on: VOTCA, \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo''}{https://www.cecam.org/workshop-details/797}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+May 2010 & Votca Workshop, \htmladdnormallink{CSI Darmstadt}{http://www.csi.tu-darmstadt.de/} \\
+Apr 2008 - Sep 2008 & Theoretical physics III, Johannes Gutenberg University of Mainz \\
+Oct 2007 - Mar 2008 & Theoretical physics II, Johannes Gutenberg University of Mainz \\
+Apr 2007 - Sep 2007 & Theoretical physics I, Johannes Gutenberg University of Mainz \\
+Apr 2006 - Sep 2006 & Introduction to computer simulations I, University of Leipzig \\
+Sep 2004 - Oct 2004 & Mathematical preparation course for first-year students, University of Leipzig \\
+\end{longtable}
+
+\vspace{-2mm}
+\section*{Mentoring}
+\vspace{-4mm}
+
+\begin{longtable}{p{0.2\textwidth}p{0.78\textwidth}}
+Feb 2022 - present & Postdoc. Research Assistant, Los Alamos National Laboratory \\
+Jun 2019 - Mar 2021 & Postdoc. Research Assistant, Los Alamos National Laboratory \\
+Feb 2018 - Apr 2020 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+May 2018 - Feb 2019 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+Feb 2017 - Jan 2019 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+Sep 2018 & Member of PhD committee, University of Reims Champagne-Ardenne \\
+Jun 2018 - Aug 2018 & ECP Summer Student, Los Alamos National Laboratory \\
+May 2018 - Aug 2018 & Co-Design Summer School (6 Students), Los Alamos National Laboratory \\
+May 2018 - Aug 2018 & ASC Summer Student, Los Alamos National Laboratory \\
+Feb 2016 - May 2018 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+Dec 2016 - Apr 2018 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+Jun 2017 - Aug 2017 & High School Internship Student, Los Alamos National Laboratory \\
+Apr 2017 - Jun 2017 & ASC Summer Student, Los Alamos National Laboratory \\
+May 2017 - Jul 2017 & Data-Science at Scale Summer Student, Los Alamos National Laboratory \\
+May 2017 - Jul 2017 & Co-Design Summer School (6 Students), Los Alamos National Laboratory \\
+May 2015 - May 2017 & Metropolis Postdoc. Fellow (now Staff Scientist), Los Alamos National Laboratory \\
+Aug 2016 - Apr 2017 & Postdoc. Research Assistant (now Staff Scientist), Los Alamos National Laboratory \\
+Jul 2016 - Sep 2016 & CNLS Summer Student, Los Alamos National Laboratory \\
+Jun 2016 - Aug 2016 & Co-Design Summer School (7 Students), Los Alamos National Laboratory \\
+Jul 2015 - Sep 2015 & IC Summer Student, Los Alamos National Laboratory \\
+Jun 2015 - Aug 2015 & Co-Design Summer School (6 Students), Los Alamos National Laboratory \\
+Jul 2014 - Sep 2014 & CNLS Summer Student, Los Alamos National Laboratory \\
+Jun 2014 - Aug 2014 & Co-Design Summer School (6 Students), Los Alamos National Laboratory \\
+Jul 2013 - Aug 2013 & Co-Design Summer School (6 Students), Los Alamos National Laboratory \\
+Jun 2010 - Aug 2010 & Summer Student, University of Mainz \\
+Oct 2005 - Mar 2006 & Simulation methods in generalized ensembles (2 Students), University of Leipzig \\
+\end{longtable}
+
+\newpage
+\section*{Talks}
+
+Over 50 invited and contributed talks
+
+\subsection*{Selected Talks}
+
+\begin{tabular}{p{0.1\textwidth}p{0.83\textwidth}}
+Sep. 2018 & Lecture: ``Co-Design at Los Alamos National Laboratory'', \htmladdnormallink{University of Reims Champagne-Ardenne}{http://www.univ-reims.eu/} \\
+Oct. 2016 & Talk: ``Recent developments in VOTCA'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA''}{https://www.cecam.org/workshop-details/327}, Mainz, Germany \\
+May 2012 & Seminar: ``Particle-based multi-scale simulations using the Adaptive Resolution Scheme'', \htmladdnormallink{IBM Research, Almaden}{http://www.almaden.ibm.com} \\
+July 2011 & Colloquium: ``Locality Analysis via Adaptive Resolution Simulations'', Theoriekolloquium, \htmladdnormallink{Faculty of Natural Sciences II}{http://www.natfak2.uni-halle.de}, \htmladdnormallink{Martin Luther University Halle-Wittenberg}{http://www.uni-halle.de} \\
+\end{tabular}
+
+%\subsection*{Colloquium Talks}
+%
+%\begin{tabular}{p{0.1\textwidth}p{0.83\textwidth}}
+%July 2011 & ``Locality Analysis via Adaptive Resolution Simulations'', Theoriekolloquium, \htmladdnormallink{Faculty of Natural Sciences II}{http://www.natfak2.uni-halle.de}, \htmladdnormallink{Martin Luther University Halle-Wittenberg}{http://www.uni-halle.de} \\
+%\end{tabular}
+%
+%\subsection*{Invited Talks}
+%\vspace{-2mm}
+%
+%\begin{longtable}{p{0.1\textwidth}p{0.83\textwidth}}
+%Oct. 2016 & ``Recent developments in VOTCA'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA''}{https://www.cecam.org/workshop-details/327}, Mainz, Germany \\
+%Oct. 2015 & ``Recent and Future Developments of VOTCA'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Summer School ``Simulating Soft and Active Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/community-and-support/espresso-summer-school-2015/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+%Oct. 2014 & ``Introduction to coarse-graining of liquids and soft matter using VOTCA'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{``School on Multiscale Modeling and Use of Espresso++ and VOTCA''}{https://www.cecam.org/workshop-details/505}, Mainz, Germany \\
+%Oct. 2013 & ``Recent and Future Developments of VOTCA'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Summer School ``Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/ess2013/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+%Oct. 2012 & ``Multi-scale modeling using AdResS'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Simulating Soft Matter with ESPResSo, ESPResSo++ and VOTCA''}{http://espressomd.org/wordpress/ess2012/}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+%June 2012 & ``Molecular Dynamics using Gromacs'', Intel EPOCH, Workshop, Portland, OR \\
+%June 2012 & ``Towards a Unified Framework for Coarse-graining Particle-based Simulations'', \htmladdnormallink{KITP}{http://www.kitp.ucsb.edu} \htmladdnormallink{Conference: ``Modeling Soft Matter: Linking Multiple Length and Time Scales''}{http://www.kitp.ucsb.edu/activities/dbdetails?acro=multiscale-c12}, \htmladdnormallink{UCSB}{http://www.ucsb.edu} \\
+%Oct. 2011 & ``Multi-scale modeling using AdResS'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo''}{https://www.cecam.org/workshop-details/797}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+%Oct. 2010 & ``Multi-scale modeling using AdResS'', \htmladdnormallink{CECAM}{http://www.cecam.org} \htmladdnormallink{Workshop ``Simulating Soft Matter with ESPResSo''}{https://www.cecam.org/workshop-details/820}, \htmladdnormallink{ICP Stuttgart}{http://www.icp.uni-stuttgart.de/} \\
+%Nov. 2007 & ``Controlling material properties using a thermostat'', \htmladdnormallink{CompPhys07}{http://www.physik.uni-leipzig.de/\~janke/CompPhys07}, \htmladdnormallink{ITP Leipzig}{http://www.physik.uni-leipzig.de} \\
+%\end{longtable}
+%
+%\subsection*{Seminar Talks (invited)}
+%\vspace{-2mm}
+%
+%\begin{longtable}{p{0.1\textwidth}p{0.83\textwidth}}
+%Sep. 2018 & ``Co-Design at Los Alamos National Laboratory'', \htmladdnormallink{University of Reims Champagne-Ardenne}{http://www.univ-reims.eu/} \\
+%June 2017 & ``Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling'', Nambe Meeting, Los Alamos, NM \\
+%Oct. 2016 & ``Co-Design at Los Alamos National Laboratory'', \htmladdnormallink{MPCDF}{http://www.mpcdf.mpg.de/} \\
+%June 2016 & ASC/NGC Gitlab Tutorial, Parallel Computing Summer Research Internship Program, LANL \\
+%Sep. 2012 & ``Adaptive Resolution Simulations of C60 in Toluene'', \htmladdnormallink{Biomolecular Modeling Group}{http://www.matysiaklab.umd.edu/}, \htmladdnormallink{UMD}{http://www.umd.edu/} \\
+%Aug. 2012 & ``Multi-scale Modeling using the Adaptive Resolution Scheme'', \htmladdnormallink{Sandia National Laboratory}{http://www.sandia.gov/}, Albuquerque, NM \\
+%May 2012 & ``Particle-based multi-scale simulations using the Adaptive Resolution Scheme'', \htmladdnormallink{IBM Research, Almaden}{http://www.almaden.ibm.com} \\
+%May 2012 & ``Coarse-graining Using the VOTCA Package'', \htmladdnormallink{KITP}{http://www.kitp.ucsb.edu} \htmladdnormallink{Program: ``Physical Principles of Multiscale Modeling, Analysis and Simulation in Soft Condensed Matter''}{http://online.kitp.ucsb.edu/online/multiscale12/}, \htmladdnormallink{UCSB}{http://www.ucsb.edu} \\
+%July 2011 & ``Locality Analysis via Adaptive Resolution Simulations'', \htmladdnormallink{DFH-UFA}{http://www.dfh-ufa.org} \& \htmladdnormallink{TKM}{http://www.physik.uni-leipzig.de/index.php?id=8} Seminar, \htmladdnormallink{Institut f{\"u}r Theoretische Physik}{http://www.physik.uni-leipzig.de}, \htmladdnormallink{University of Leipzig}{http://www.zv.uni-leipzig.de/en} \\
+%June 2011 & ``Versatile object-oriented toolkit for coarse-graining applications'', \htmladdnormallink{Department of Materials and Environmental Chemistry}{http://www.mmk.su.se}, \htmladdnormallink{Stockholm University}{http://www.su.se} \\
+%Apr. 2011 & ``Adaptive resolution simulations of aqueous solutions'', S{\'e}minaire de Physique, \htmladdnormallink{Biophysique et Physique Statistique}{https://www.lpct.univ-lorraine.fr/}, \htmladdnormallink{UPV Metz}{http://www.univ-metz.fr} \\
+%Mar. 2011 & ``Adaptive resolution simulations of water'', \htmladdnormallink{Theoretical and Computational Biophysics Group}{http://www.ks.uiuc.edu}, \htmladdnormallink{UIUC}{http://illinois.edu} \\
+%Mar. 2011 & ``Adaptive resolution simulations of aqueous solutions'', \htmladdnormallink{Laufer Center for Physical and Quantitative Biology}{http://laufercenter.stonybrook.edu}, \htmladdnormallink{Stony Brook University}{http://www.stonybrook.edu} \\
+%Jan. 2011 & ``Versatile object-oriented toolkit for coarse-graining applications'', \htmladdnormallink{Theoretical and Computational Biophysics Department}{http://www.mpibpc.mpg.de/home/grubmueller}, \htmladdnormallink{MPI-BPC}{http://www.mpibpc.mpg.de} \\
+%Nov. 2009 & ``Versatile object-oriented toolkit for coarse-graining applications'', Computational Biology Cluster Seminar, IFF-2, \htmladdnormallink{FZ J{\"u}lich}{http://www.fz-juelich.de/portal/EN/Home/home\_node.html} \\
+%July 2009 & ``New HPC libraries for performance improvements'', HPC Seminar, IBM Systems \& Technology Group \\
+%June 2007 & ``Extensions to Dissipative Particle Dynamics'', \htmladdnormallink{Faculty of Science}{http://www.naturvetenskap.lu.se}, \htmladdnormallink{Lund University}{http://www.lunduniversity.lu.se} \\
+%\end{longtable}
+%
+%\subsection*{Contributed Talks}
+%\vspace{-2mm}
+%
+%\begin{longtable}{p{0.1\textwidth}p{0.83\textwidth}}
+%Aug. 2017 & ``LAMMPS on CMake'', \htmladdnormallink{August 2017 LAMMPS Users' Workshop and Symposium}{http://lammps.sandia.gov/workshops/Aug17/workshop.html}, Albuquerque, NM \\
+%Feb. 2017 & ``Using Asynchronous Runtimes to Support Multiscale Multiphysics On the Trinity Supercomputer'' (with R. Pavel), Programming Models and Co-Design Meeting, Livermore, CA \\
+%Feb. 2016 & ``Tabasco: A realistic multi-scale proxy app for Material science'' (with S.  Mniszewski), Programming Models and Co-Design Meeting, Los Alamos, NM \\
+%Feb. 2016 & ``Actually Using Runtimes for Meaningful Computation: Multiphysics, not Fibonacci'' (with R. Pavel), Programming Models and Co-Design Meeting, Los Alamos, NM \\
+%Aug. 2015 & ``Coarse-graining using VOTCA and LAMMPS'', \htmladdnormallink{August 2015 LAMMPS Users' Workshop and Symposium}{http://lammps.sandia.gov/workshops/Aug15/workshop.html}, Albuquerque, NM \\
+%May  2015 & ``Parallel Runtime Environments with Cloud Database: Performance Study for HMM with Adaptive Sampling'', \htmladdnormallink{13th Annual Workshop on Charm++ and its Applications}{http://charm.cs.illinois.edu/workshops/charmWorkshop2015/}, Champaign-Urbana \\
+%Mar. 2014 & ``Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics'', \htmladdnormallink{APS March Meeting 2014}{http://www.aps.org/meetings/meeting.cfm?name=MAR14}, Denver \\
+%Sep. 2013 & ``Adaptive Resolution Simulations of C60 in Toluene'', Gromacs USA Workshop and Conference, \htmladdnormallink{UVA}{http://www.virginia.edu/} \\
+%Aug. 2013 & ``Introduction to coarse-graining of liquids and soft matter'', \htmladdnormallink{August 2013 LAMMPS Users' Workshop and Symposium}{http://lammps.sandia.gov/workshops/Aug13/agenda.html}, Albuquerque, NM \\
+%Mar. 2013 & ``Recent developments in the VOTCA package for coarse-graining'', \htmladdnormallink{APS March Meeting 2013}{http://www.aps.org/meetings/meeting.cfm?name=MAR13}, Baltimore \\
+%Sep. 2012 & ``Multi-scale simulations of fullerenes in aqueous solution employing the Adaptive Resolution Scheme'', 22nd International Workshop on Computational Mechanics of Materials (IWCMM XXII), \htmladdnormallink{Johns Hopkins University}{http://www.jhu.edu/} \\
+%Mar. 2012 & ``Structure formation of toluene around C60: Application of the Adaptive Resolution Scheme'', \htmladdnormallink{APS March Meeting 2012}{http://www.aps.org/meetings/meeting.cfm?name=MAR12}, Boston \\
+%Feb. 2012 & ``Local structure formation of toluene around a C60 fullerene: An adaptive resolution study'', \htmladdnormallink{25th Annual CSP Workshop}{http://www.csp.uga.edu/Workshop/2012}, \htmladdnormallink{Center for Simulational Physics}{http://www.csp.uga.edu}, \htmladdnormallink{University of Georgia}{http://www.uga.edu} \\
+%Nov. 2009 & ``Versatile object-oriented toolkit for coarse-graining applications'', \htmladdnormallink{CompPhys09}{http://www.physik.uni-leipzig.de/\~janke/CompPhys09}, \htmladdnormallink{ITP Leipzig}{http://www.physik.uni-leipzig.de} \\
+%Nov. 2008 & ``Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility'', \htmladdnormallink{CompPhys08}{http://www.physik.uni-leipzig.de/\~janke/CompPhys08}, \htmladdnormallink{ITP Leipzig}{http://www.physik.uni-leipzig.de} \\
+%June 2008 & ``Adjusting dynamic material properties by a thermostat'', ICMMES 2008, \htmladdnormallink{University of Amsterdam}{http://www.uva.nl} \\
+%Feb. 2008 & ``Controlling material properties using a thermostat'', \htmladdnormallink{DPG Spring Meeting 2008}{http://berlin08.dpg-tagungen.de/index.html?lang=en} Berlin \\
+%\end{longtable}
+
+\section*{Publications}
+
+h-index: \htmladdnormallink{23 (Google Scholar)}{http://scholar.google.com/citations?user=nwPxp24AAAAJ}, \htmladdnormallink{19 (ResearcherID)}{http://www.researcherid.com/rid/G-4238-2010}
+
+\subsection*{Reviewed Papers}
+
+\begin{enumerate}
+
+\item[45.]S. T. Reeve, J.-L. Fattebert, S. DeWitt, D. Joy, P. Seleson, S. Slattery, A. Scheinberg, R. Halver, \textbf{C. Junghans}, C. F. A. Negre, M. E. Wall, Y. Zhang, A. M. Niklasson, D. Perez, S. M. Mniszewski, and J. Belak,
+   \textit{Co-design for Particle Applications at Exascale},
+   \htmladdnormallink{Comp. Sci. Eng. PrePrints(2024)}{https://doi.org/10.1109/MCSE.2024.3384052}.
+
+\item[44.] S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, \textbf{C. Junghans}, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan, 
+  \textit{Predictive Scale-Bridging Simulations through Active Learning},
+  \htmladdnormallink{Sci. Rep. \textbf{13}, 16262 (2023)}{https://doi.org/10.1038/s41598-023-42823-6}.
+
+\item[43.] S. Wijesinghe, \textbf{C. Junghans}, D. Perahia, and G. S. Grest,
+   \textit{Polydots, soft nanoparticles, at membrane interfaces},
+    \htmladdnormallink{RSC Adv. \textbf{13}, 19227 (2023)}{https://doi.org/10.1039/d3ra02085a}.
+
+\item[42.] R. Halver, \textbf{C. Junghans}, and G. Sutmann,
+   \textit{Using heterogeneous GPU nodes with a Cabana-based implementation of MPCD},
+   \htmladdnormallink{Paral. Comp. \textbf{117}, 103033 (2023)}{https://doi.org/10.1016/j.parco.2023.103033}.
+
+\item[41.] J. Vance, Z.-H. Xu, N. Tretyakov, T. Stuehn, M. Rampp, S. Eibl, \textbf{C. Junghans}, and A. Brinkmann,
+   \textit{Code modernization strategies for short-range non-bonded molecular dynamics simulations},
+   \htmladdnormallink{Comp. Phys. Comm. \textbf{290}, 108760 (2023)}{https://doi.org/10.1016/j.cpc.2023.108760}.
+
+\item[40.] R. Halver, \textbf{C. Junghans}, and G. Sutmann,
+   \textit{Kokkos-Based Implementation of MPCD on Heterogeneous Nodes},
+   in: R. Wyrzykowski, J. Dongarra, E. Deelman, and K. Karczewski (Eds.),
+   Parallel Processing and Applied Mathematics. PPAM 2022. Lecture Notes in Computer Science, \htmladdnormallink{Vol. 13827}{https://doi.org/10.1007/978-3-031-30445-3_1} (2023).
+
+\item[39.] A. Pachalieva, R. S. Pavel, J. E. Santos, A. Diaw, N. Lubbers, M. Mehana, J. R. Haack, H. S. Viswanathan, D. Livescu, T. C. Germann, and \textbf{C. Junghans},
+   \textit{GLUE Code: A framework handling communication and interfaces between scales},
+   \htmladdnormallink{J. Open Source Softw. \textbf{7}, 4822 (2022)}{https://doi.org/10.21105/joss.04822}.
+
+\item[38.] P. Grete, J. C. Dolence, J. M. Miller, J. Brown, B. Ryan, A. Gaspar, F. Glines, S. Swaminarayan, J. Lippuner, C. J. Solomon, G. Shipman, \textbf{C. Junghans}, D. Holladay, and J. M. Stone,
+   \textit{Parthenon - a performance portable block-structured adaptive mesh refinement framework},
+   \htmladdnormallink{Int. J. High Perf. Comp. App. \textbf{37}, 465 (2023)}{https://doi.org/10.1177/10943420221143775}.
+
+\item[37.] S. Slattery, S. T. Reeve, \textbf{C. Junghans}, D. Lebrun-Grandie, R. Bird, G. Chen, S. Fogerty, Y. Qiu, S. Schulz, A. Scheinberg, A. Isner, K. Chong, S. Moore, T. Germann, J. Belak, and S. Mniszewski,
+   \textit{Cabana: A Performance Portable Library for Particle-Based Simulations},
+   \htmladdnormallink{J. Open Source Softw. \textbf{7}, 4115 (2022)}{https://doi.org/10.21105/joss.04115}.
+
+\item[36.] J. Bakosi, R. Bird, F. Gonzalez, \textbf{C. Junghans}, W. Li, H. Luo, A. Pandare, and J. Waltz,
+  \textit{Asynchronous distributed-memory task-parallel algorithm for compressible flows on unstructured 3D Eulerian grids},
+  \htmladdnormallink{Adv. Eng. Softw. \textbf{160}, 102962 (2021)}{https://doi.org/10.1016/j.advengsoft.2020.102962}.
+
+\item[35.] S. M. Mniszewski, J. Belak, J.-L. Fattebert, C. F. A. Negre, S. R. Slattery, A. A. Adedoyin, R. F. Bird, C.S. Chang, G. Chen, S. Ethier, S. Fogerty, S. Habib, \textbf{C. Junghans}, D. Lebrun-Grandie, J. Mohd-Yusof, S. G. Moore, D. Osei-Kuffuor, S. J. Plimpton, A. Pope, S. T. Reeve, L. Ricketson, A. Scheinberg, A. Y. Sharma, and M. E. Wall,
+  \textit{Enabling Particle Applications for Exascale Computing Platforms},
+  \htmladdnormallink{Int. J. High Perf. Comp. App. \textbf{35}, 572 (2021)}{https://doi.org/10.1177/10943420211022829}.
+
+\item[34.] A. Diaw, K. Barros, J. Haack, \textbf{C. Junghans}, B. Keenan, Y. W. Li, D. Livescu, N. Lubbers, M. McKerns, R. S. Pavel, D. Rosenberger, I. Sagert, and T. C. Germann, 
+  \textit{Multiscale simulation of plasma flows using active learning},
+  \htmladdnormallink{Phys. Rev. E \textbf{102}, 023310 (2020)}{https://doi.org/10.1103/PhysRevE.102.023310}.
+
+\item[33.] N. Lubbers, A. Agarwal, Y. Chen, S. Son, M. Mehana, Q. Kang, S. Karra, \textbf{C. Junghans}, T. C. Germann, and  H. S. Viswanathan,
+  \textit{Modeling and scale‐bridging using machine learning: nanoconfinement effects in porous media},
+  \htmladdnormallink{Sci. Rep. \textbf{10}, 13312 (2020)}{https://doi.org/10.1038/s41598-020-69661-0}.
+
+\item[32.] G. Tirimbo, V. Sundaram, O. Caylak, W. Scharpach, J. Sijen, \textbf{C. Junghans}, J. Brown, F. Zapata Ruiz, N. Renaud, J. Wehner, and B. Baumeier,
+  \textit{Excited-State Electronic Structure of Molecules Using Many-Body Green’s Functions: Quasiparticles and Electron-Hole Excitations with VOTCA-XTP},
+  \htmladdnormallink{J. Chem. Phys. \textbf{152}, 114103 (2020)}{https://doi.org/10.1063/1.5144277}.
+
+\item[31.] H. V. Guzman, N. Tretyakov, H. Kobayashi, A. C. Fogarty, K. Kreis, J. Krajniak, \textbf{C. Junghans}, K. Kremer, and T. Stuehn,
+  \textit{ESPResSo++ 2.0: Advanced methods for multiscale molecular simulation},
+  \htmladdnormallink{Comp. Phys. Comm. \textbf{238}, 66 (2019)}{https://doi.org/10.1016/j.cpc.2018.12.017}.
+
+\item[30.] J. Wehner, L. Brombacher, J. Brown, \textbf{C. Junghans}, O. Caylak, Y. Khalak, P. Madhikar, G. Tirimbo, and B. Baumeier,
+  \textit{Electronic Excitations in Complex Molecular Environments: Many-Body Green's Functions Theory in VOTCA-XTP},
+  \htmladdnormallink{J. Chem. Theo. Comp. \textbf{14}, 6253 (2018)}{https://doi.org/10.1021/acs.jctc.8b00617}.
+
+\item[29.] C. Krekeler, A. Agarwal, \textbf{C. Junghans}, M. Praprotnik, and L. Delle Site,
+  \textit{Adaptive Resolution Molecular Dynamics Technique: Down to the Essential},
+  \htmladdnormallink{J. Chem. Phys. \textbf{149}, 024104 (2018)}{https://doi.org/10.1063/1.5031206}.
+
+\item[28.] H. V. Guzman, \textbf{C. Junghans}, K. Kremer, and T. Stuehn,
+  \textit{Scalable and fast heterogeneous molecular simulation with predictive parallelization schemes},
+  \htmladdnormallink{Phys. Rev. E \textbf{96}, 053311 (2017)}{https://doi.org/10.1103/PhysRevE.96.053311}.
+
+\item[27.] S. K. Gutierrez, K. Davis, D. Arnold, R. S. Baker, R. W. Robey, P. McCormick, D. Holladay, J. A. Dahl, J. Zerr, F. Weik, and \textbf{C. Junghans},
+  \textit{Accommodating Thread-Level Heterogeneity in Coupled Parallel Applications},
+  in: \textit{Proceedings of 2017 IEEE International Parallel and Distributed Processing Symposium} (IPDPS),
+  Orlando, FL, USA, \htmladdnormallink{469 (2017)}{http://dx.doi.org/10.1109/IPDPS.2017.13}.
+
+\item[26.] \textbf{C. Junghans}, A. Agarwal, and L. Delle Site,
+  \textit{Computational efficiency and Amdahl’s law for the adaptive resolution simulation technique},
+  \htmladdnormallink{Comp. Phys. Comm. \textbf{215}, 20 (2017)}{http://dx.doi.org/10.1016/j.cpc.2017.01.030}.
+
+\item[25.] T. E. de Oliveira, P. A. Netz, K. Kremer, \textbf{C. Junghans}, and D. Mukherji,
+  \textit{C-IBI: Targeting cumulative coordination within an iterative protocol to derive coarse-grained models of (multi-component) complex fluids},
+  \htmladdnormallink{J. Chem. Phys. \textbf{144}, 174106 (2016)}{http://dx.doi.org/10.1063/1.4947253}.
+
+\item[24.] R. S. Pavel, A. L. McPherson, T. C. Germann, and \textbf{C. Junghans},
+  \textit{Database Assisted Distribution to Improve Fault Tolerance for Multiphysics Applications},
+  in: \textit{Proceedings of the 2nd International Workshop on Hardware-Software Co-Design for High Performance Computing 2015} (Co-HPC '15),
+  ACM, New York, NY, USA, \htmladdnormallink{Article 4}{http://dx.doi.org/10.1145/2834899.2834908}.
+
+\item[23.] S. Y. Mashayak, M. N. Jochum, K. Koschke, N. R. Aluru, V. R{\"u}hle, and \textbf{C. Junghans},
+  \textit{Relative entropy and optimization-driven coarse-graining methods in VOTCA},
+  \htmladdnormallink{PLoS ONE \textbf{10}, e131754 (2015)}{http://dx.doi.org/10.1371/journal.pone.0131754}.
+   ``\emph{Among the top 10\% most cited PLoS ONE papers published in 2015.}" (2019)
+
+\item[22.] S. M. Mniszewski, \textbf{C. Junghans}, A. F. Voter, D. Perez, and S. J. Eidenbenz,
+  \textit{TADSim: Discrete Event-based Performance Prediction for Temperature Accelerated Dynamics},
+  \htmladdnormallink{Trans. Mod. Comp. Sim.  \textbf{25}, 15 (2015)}{http://dx.doi.org/10.1145/2699715}.
+
+\item[21.] D. G. Roehm, R. S. Pavel, K. Barros, B. Rouet-Leduc, A. L. McPherson, T. C. Germann, and \textbf{C. Junghans},
+  \textit{Distributed Database Kriging for Adaptive Sampling},
+  \htmladdnormallink{Comp. Phys. Comm. \textbf{192}, 138 (2015)}{http://dx.doi.org/10.1016/j.cpc.2015.03.006}.
+
+\item[20.] S. Bevc, \textbf{C. Junghans}, and M. Praprotnik,
+  \textit{STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations},
+  \htmladdnormallink{J. Comp. Chem. \textbf{36}, 467 (2015)}{http://dx.doi.org/10.1002/jcc.23806}.
+
+\item[19.] \textbf{C. Junghans}, D. Perez and T. Vogel,
+  \textit{Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics},
+  \htmladdnormallink{J. Chem. Theo. Comp. \textbf{10}, 1843 (2014)}{http://dx.doi.org/10.1021/ct500077d}.
+
+\item[18.] B. Rouet-Leduc, K. Barros, E. Cieren, V. Elango, \textbf{C. Junghans}, T. Lookman, J. Mohd-Yusof, R. S. Pavel, A. Y. Rivera, D. Roehm, A. L. McPherson, T. C. Germann,
+  \textit{Spatial adaptive sampling in multiscale simulation},
+  \htmladdnormallink{Comp. Phys. Comm.  \textbf{185}, 1857 (2014)}{http://dx.doi.org/10.1016/j.cpc.2014.03.011}.
+
+\item[17.] A. Nagarajan, \textbf{C. Junghans} and S. Matysiak,
+  \textit{Multiscale simulation of liquid water using a four-to-one mapping for coarse-graining},
+  \htmladdnormallink{J. Chem. Theo. Comp. \textbf{9}, 5168 (2013)}{http://dx.doi.org/10.1021/ct400566j}.
+
+\item[16.] S. Bevc, \textbf{C. Junghans}, K. Kremer and M. Praprotnik,
+  \textit{Adaptive resolution simulation of salt solutions},
+  \htmladdnormallink{New J. Phys., \textbf{15}, 105007 (2013)}{http://dx.doi.org/10.1088/1367-2630/15/10/105007}.
+
+\item[15.] P. Ganguly, D. Mukherji, \textbf{C. Junghans} and N. F. A. van der Vegt,
+  \textit{Kirkwood-Buff coarse-grained force fields for aqueous solutions},
+  \htmladdnormallink{J. Chem. Theo. Comp., \textbf{8}, 1802 (2012)}{http://dx.doi.org/10.1021/ct3000958}.
+
+\item[14.] S. Fritsch, S. Poblete, \textbf{C. Junghans}, G. Ciccotti, L. Delle Site and K. Kremer,
+  \textit{Adaptive resolution molecular dynamics simulation through coupling to an internal particle reservoir},
+  \htmladdnormallink{Phys. Rev. Lett. \textbf{108}, 170602 (2012)}{http://dx.doi.org/10.1103/PhysRevLett.108.170602}.
+
+\item[13.] S. Fritsch, \textbf{C. Junghans} and K. Kremer,
+  \textit{Structure formation of toluene around C60: Implementation of the Adaptive Resolution Scheme (AdResS) into GROMACS},
+  \htmladdnormallink{J. Chem. Theo. Comp. \textbf{8}, 398 (2012)}{http://dx.doi.org/10.1021/ct200706f}.
+
+\item[12.] V. R{\"u}hle and \textbf{C. Junghans},
+  \textit{Hybrid approaches to coarse-graining using the VOTCA package: liquid hexane},
+  \htmladdnormallink{Macromol. Theory Simul., \textbf{20}, 472 (2011)}{http://dx.doi.org/10.1002/mats.201100011}.
+
+\item[11.] \textbf{C. Junghans}, W. Janke and M. Bachmann,
+  \textit{Hierarchies in Nucleation Transitions},
+  \htmladdnormallink{Comp. Phys. Comm., \textbf{182}, 1937 (2011)}{http://dx.doi.org/10.1016/j.cpc.2010.11.015}.
+
+\item[10.] B. P. Lambeth, Jr., \textbf{C. Junghans}, K. Kremer, C. Clementi, and L. Delle Site, 
+  \textit{Communication: On the Locality of Hydrogen Bond Networks at Hydrophobic Interface},
+  \htmladdnormallink{J. Chem. Phys. \textbf{133},  221101 (2010)}{http://dx.doi.org/10.1063/1.3522773}.
+%  Also featured in: \htmladdnormallink{Virt. J. Bio. Phys. Res. \textbf{20}(12) (2010)}{http://www.virtualjournals.org/dbt/dbt.jsp?KEY=VIRT02&Volume=20&Issue=12}.
+
+\item[9.] \textbf{C. Junghans} and S. Poblete,
+  \textit{A reference implementation of the adaptive resolution scheme in ESPResSo},
+  \htmladdnormallink{Comp. Phys. Comm. \textbf{181}, 1449 (2010)}{http://dx.doi.org/10.1016/j.cpc.2010.04.013}.
+
+\item[8.] V. R{\"u}hle, \textbf{C. Junghans}, A. Lukyanov, K. Kremer and D. Andrienko,
+  \textit{Versatile Object-oriented Toolkit for Coarse-graining Applications},
+  \htmladdnormallink{J. Chem. Theo. Comp. \textbf{5}, 3211 (2009)}{http://dx.doi.org/10.1021/ct900369w}. 
+
+\item[7.] \textbf{C. Junghans}, M. Bachmann and W. Janke,
+  \textit{Statistical Mechanics of Aggregation and Crystallization for Semiflexible Polymers},
+  \htmladdnormallink{Europhys. Lett. \textbf{87}, 40002 (2009)}{http://dx.doi.org/10.1209/0295-5075/87/40002}.
+
+\item[6.] H. Wang, \textbf{C. Junghans} and K. Kremer,
+  \textit{Comparative atomistic and coarse-grained study of water: What do we lose by coarse-graining?},
+  \htmladdnormallink{Euro. Phys. J. E \textbf{28}, 221 (2009)}{http://dx.doi.org/10.1140/epje/i2008-10413-5}. 
+  ``\emph{Most cited article published in the journal in the past 5 years}'' (2014)
+
+\item[5.] M. Praprotnik, \textbf{C. Junghans}, L. Delle Site and K. Kremer,
+  \textit{Simulation approaches to soft matter: Generic statistical properties vs. chemical details},
+  \htmladdnormallink{Comp. Phys. Comm. \textbf{179}, 51 (2008)}{http://dx.doi.org/10.1016/j.cpc.2008.01.018}.
+
+\item[4.] \textbf{C. Junghans}, M. Bachmann and W. Janke,
+  \textit{Thermodynamics of Peptide Aggregation Processes: An Analysis from Perspectives of Three Statistical Ensembles},
+  \htmladdnormallink{J. Chem. Phys. \textbf{128}, 085103 (2008)}{http://dx.doi.org/10.1063/1.2830233} .
+%  Also featured in: \htmladdnormallink{Virt. J. Nanoscale Sci. \& Techn. \textbf{17}(10) (2008)}{http://scitation.aip.org/dbt/dbt.jsp?KEY=VIRT01&Volume=17&Issue=10} and \htmladdnormallink{Virt. J. Biol. Phys. Res. \textbf{15}(5) (2008)}{http://ojps.aip.org/dbt/dbt.jsp?KEY=VIRT02&Volume=15&Issue=5}.
+
+\item[3.] \textbf{C. Junghans}, M. Praprotnik and K. Kremer,
+  \textit{Transport properties controlled by a thermostat: An extended dissipative particle dynamics thermostat},
+  \htmladdnormallink{Soft Matter \textbf{4}, 156 (2008)}{http://dx.doi.org/10.1039/b713568h}.
+
+\item[2.] \textbf{C. Junghans}, M. Bachmann and W. Janke,
+  \textit{Microcanonical Analyses of Peptide Aggregation Processes},
+  \htmladdnormallink{Phys. Rev. Lett. \textbf{97}, 218103 (2006)}{http://dx.doi.org/10.1103/PhysRevLett.97.218103}.
+
+\item[1.] \textbf{C. Junghans} and U. H. E. Hansmann,
+  \textit{Numerical Comparison of Wang Landau Sampling and Parallel Tempering for Met-enkephalin}, 
+  \htmladdnormallink{Int. J. Mod. Phys. C \textbf{17}, 817 (2006)}{http://dx.doi.org/10.1142/S012918310600931X}.
+\end{enumerate}
+
+More information can be found on \htmladdnormallink{my ResearcherID profile}{http://www.researcherid.com/rid/G-4238-2010}, \htmladdnormallink{my Google Scholar profile}{http://scholar.google.com/citations?user=nwPxp24AAAAJ\&pagesize=100}, \htmladdnormallink{my ORCID profile}{http://orcid.org/0000-0003-0925-1458}, \htmladdnormallink{my ResearchGate profile}{https://www.researchgate.net/profile/Christoph\_Junghans/publications/} or \htmladdnormallink{my Impactstory profile}{https://impactstory.org/u/0000-0003-0925-1458}.
+
+\subsection*{Book Chapters}
+
+\begin{enumerate}
+\item[3.] L. Delle Site, A. Agarwal, \textbf{C. Junghans}, and H. Wang, 
+  \textit{Adaptive Resolution Simulation as a Grand Canonical Molecular Dynamics Scheme: Principles, Applications, Perspectives},
+  in: C. Clementi (Ed.),
+  \textit{Multiscale Methods in Molecular Biophysics},
+  Series in Computational Biophysics, CRC Press (2016), ISBN 1482225700.
+
+\item[2.] E. Apol, R. Apostolov, H.J.C. Berendsen, A. van Buuren, P. Bjelkmar, R. van Drunen, A. Feenstra, S. Fritsch, G. Groenhof, \textbf{C. Junghans}, P. Kasson, P. Larsson, P. Meulenhoff, T. Murtola, S. Pall, S. Pronk, R. Schulz, M. Shirts, A. Sijbers, P. Tieleman, B. Hess, D. van der Spoel, and E. Lindahl, 
+  \textit{\htmladdnormallink{Gromacs User Manual Version 4.6}{http://dx.doi.org/10.13140/2.1.1310.0480}},
+  \htmladdnormallink{gromacs.org}{http://www.gromacs.org} (2013).
+
+\item[1.] \textbf{C. Junghans}, M. Praprotnik and L. Delle Site,
+  \textit{Adaptive Resolution Schemes},
+  in: J. Grotendorst, N. Attig, S. Bl{\"u}gel and D. Marx (Eds.),
+  \textit{Multiscale Simulation Methods in Molecular Sciences}, \htmladdnormallink{NIC Series Vol. 42}{http://juser.fz-juelich.de/record/3737/files/nic-series-volume42.pdf}, J{\"u}lich (2009), 359.
+\end{enumerate}
+
+\subsection*{Other Publications}
+
+\begin{enumerate}
+\item[6.] \textit{Balancing the load: Los Alamos researchers develop code to distribute computation more efficiently and across increasing numbers of supercomputer processors.}
+  \htmladdnormallink{ASCR Discovery Story}{https://ascr-discovery.org/2018/05/balancing-the-load/amp/}, \htmladdnormallink{HPCwire}{https://www.hpcwire.com/off-the-wire/los-alamos-scientists-attack-load-balancing-challenge/}, \htmladdnormallink{insideHPC}{https://insidehpc.com/2018/05/balancing-load-million-cores-concert/} and LANL Science Brief (2018).
+
+\item[5.] \textbf{C. Junghans}, A. K. H{\"u}ttel and U. M{\"u}ller, 
+  \textit{Gentoo Linux: Quelltexte und Rolling Releases},
+  \htmladdnormallink{c't Magazin \textbf{16}, 162 (2012)}{https://www.heise.de/select/ct/archiv/2012/16/seite-162}.
+
+\item[4.] S. Eidenbenz, K. Davis, A. Voter, H. Djidjev, L. Gurvits, \textbf{C. Junghans}, S. Mniszewski, D. Perez, N. Santhi and S. Thulasidasan,
+  \textit{Optimization Principles for Codesign applied to Molecular Dynamics: Design Space Exploration, Performance Prediction, and Optimization Strategies},
+  in: Proceedings of the DOE ASCR Exascale Research Conference, Portland, OR (2012), (LA-UR 12-20070). 
+
+\item[3.] T. Weidauer, \textbf{C. Junghans}, O. Pauluis, M. P{\"u}tz and J. Schumacher,
+  \textit{Shallow Moist Convection},
+  in: G. M{\"u}nster, D. Wolf, M. Kremer (Eds.),
+  NIC Symposium 2010, \htmladdnormallink{IAS Series Vol. 3}{http://hdl.handle.net/2128/3697}, J{\"u}lich (2010), 373.
+
+\item[2.] \textbf{C. Junghans}, M. Bachmann and W. Janke,
+  \textit{\htmladdnormallink{Phase Separation in Peptide Aggregation Processes - Multicanonical Study of a Mesoscopic Model}{http://dx.doi.org/10.13140/2.1.4488.5440}},
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),
+  \textit{From Computational Biophysics to Systems Biology 2007}, NIC Series Vol. 36, J{\"u}lich (2007), 169.
+
+\item[1.] \textbf{C. Junghans} and U. H. E. Hansmann,
+  \textit{Cross-Check Methods in Protein Simulations},
+  in: U. H. E. Hansmann, J. Meinke, S. Mohanty and O. Zimmermann (Eds.),
+  \textit{From Computational Biophysics to Systems Biology 2006},
+  NIC Series Vol. 34, J{\"u}lich (2006), 157.
+\end{enumerate}
+
+%\subsection*{References}
+%
+%\begin{minipage}{0.45\linewidth}
+%Prof.\ K.\ Kremer
+%\vspace{-2mm}\\
+%{\tiny PhD Advisor}\\
+%\href{http://www.mpip-mainz.mpg.de}{Max Planck Institute for Polymer Research} \\
+%Email: \href{mailto:kremer@mpip-mainz.mpg.de}{\tt kremer@mpip-mainz.mpg.de}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Prof.\ W.\ Janke
+%\vspace{-2mm}\\
+%{\tiny Diploma Advisor}\\
+%\href{http://www.physik.uni-leipzig.de/~janke/}{ITP, University of Leipzig} \\
+%Email: \href{mailto:janke@itp.uni-leipzig.de}{\tt janke@itp.uni-leipzig.de}
+%\end{minipage}
+%
+%\vspace{2ex}
+%\begin{minipage}{0.45\linewidth}
+%Prof T.\ Schilling
+%\vspace{-2mm}\\
+%{\tiny 2nd PhD Advisor}\\
+%\href{www.tanjaschilling.de}{FSTC, University of Luxembourg} \\
+%Email: \href{mailto:tanja.schilling@uni.lu}{\tt tanja.schilling@uni.lu}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Prof.\ M.\ Bachmann
+%\vspace{-2mm}\\
+%{\tiny 2nd Diploma Advisor}\\
+%\href{http://www.smsyslab.org}{Center for Simulational Physics, UGA} \\
+%Email: \href{mailto:bachmann@smsyslab.org}{\tt bachmann@smsyslab.org}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Prof.\ M.\ Deserno
+%\vspace{-2mm}\\
+%{\tiny Collaborator}\\
+%\href{http://www.cmu.edu/biolphys/deserno/}{Dept.\ of Physics, Carnegie Mellon University} \\
+%Email: \href{mailto:deserno@andrew.cmu.edu}{\tt deserno@andrew.cmu.edu}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Prof.\ N.\ van der Vegt
+%\vspace{-2mm}\\
+%{\tiny Collaborator}\\
+%\href{http://csi.tu-darmstadt.de}{CSI, TU Darmstadt} \\
+%Email: \href{mailto:vandervegt@csi.tu-darmstadt.de}{\tt vandervegt@csi.tu-darmstadt.de}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%\vspace{2ex}
+%\begin{minipage}{0.45\linewidth}
+%Dr.\ B.\ Hess
+%\vspace{-2mm}\\
+%{\tiny Gromacs Developer}\\
+%\href{http://www.sbc.su.se/}{SBC, Stockholm University} \\
+%Email: \href{mailto:hess@cbr.su.se}{\tt hess@cbr.su.se}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Dr.\ M.\ P{\"u}tz
+%\vspace{-2mm}\\
+%{\tiny Application Performance Specialist}\\
+%Cray Germany \\
+%Email: \href{mailto:mpuetz@cray.com}{\tt mpuetz@cray.com}
+%\end{minipage}
+%\begin{minipage}{0.45\linewidth}
+%Dr.\ C.\ Peter
+%\vspace{-2mm}\\
+%{\tiny Project Leader}\\
+%\href{http://www.mpip-mainz.mpg.de}{Uni Konstanz} \\
+%Email: \href{mailto:peter@mpip-mainz.mpg.de}{\tt peter@mpip-mainz.mpg.de}
+%\end{minipage}
+\end{document}
+
+
