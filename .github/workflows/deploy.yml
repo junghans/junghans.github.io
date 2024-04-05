@@ -36,6 +36,14 @@ jobs:
         valueFile: '_config.yml'
         propertyPath: 'giscus.repo'
         value: ${{ github.repository }}
+    - name: Install and build PDF CV
+      run: |
+        sudo apt-get update
+        sudo apt-get install latexmk texlive-latex-extra
+        latexmk -pdf cv.tex
+        latexmk -c cv.tex
+        ls
+      working-directory: cv/tex
     - name: Install and Build 🔧
       run: |
         pip3 install --upgrade jupyter
@@ -44,14 +52,6 @@ jobs:
         export JEKYLL_ENV=production
         bundle exec jekyll build --lsi
         purgecss -c purgecss.config.js
-        sudo apt-get update
-        sudo apt-get install latexmk texlive-latex-extra
-    - name: Build cv
-      run: |
-        latexmk -pdf cv.tex
-        latexmk -c cv.tex
-        ls
-      working-directory: cv/tex
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
       uses: JamesIves/github-pages-deploy-action@v4
