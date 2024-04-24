@@ -8,7 +8,6 @@ nav_order: 2
 ---
 
 ### Preprints ###
-=======
 
 {: reversed="reversed"}
 
