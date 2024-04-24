@@ -20,7 +20,7 @@ nav_order: 2
 
 {: reversed="reversed"}
 
-0. S. T. Reeve, J.-L. Fattebert, S. DeWitt, D. Joy, P. Seleson, S. Slattery, A. Scheinberg, R. Halver, **C. Junghans**, C. F. A. Negre, M. E. Wall, Y. Zhang, A. M. Niklasson, D. Perez, S. M. Mniszewski, and J. Belak,<<br>
+0. S. T. Reeve, J.-L. Fattebert, S. DeWitt, D. Joy, P. Seleson, S. Slattery, A. Scheinberg, R. Halver, **C. Junghans**, C. F. A. Negre, M. E. Wall, Y. Zhang, A. M. Niklasson, D. Perez, S. M. Mniszewski, and J. Belak,<br>
    *Co-design for Particle Applications at Exascale*,<br>
    [Comp. Sci. Eng. PrePrints(2024)](https://doi.org/10.1109/MCSE.2024.3384052) [[online](2024a.pdf)].
 0. S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, **C. Junghans**, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan,<br>
