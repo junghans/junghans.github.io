@@ -163,7 +163,7 @@ nav_order: 2
 
 
 
-For more infomation see [my ResearcherID profile](http://www.researcherid.com/rid/G-4238-2010), [my Google Scholar profile](http://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100), [my ORCID profile](http://orcid.org/0000-0003-0925-1458), [my ResearchGate profile](https://www.researchgate.net/profile/Christoph_Junghans/publications/) or [my Impactstory profile](https://impactstory.org/u/0000-0003-0925-1458).
+For more infomation see [my ResearcherID profile](https://www.webofscience.com/wos/author/record/G-4238-2010), [my Google Scholar profile](http://scholar.google.com/citations?user=nwPxp24AAAAJ&pagesize=100), [my ORCID profile](http://orcid.org/0000-0003-0925-1458), [my ResearchGate profile](https://www.researchgate.net/profile/Christoph_Junghans/publications/) or [my Impactstory profile](https://impactstory.org/u/0000-0003-0925-1458).
 
 
 ### Theses ###
