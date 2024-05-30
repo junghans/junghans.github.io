@@ -16,7 +16,7 @@ nav_order: 2
     [J. Open Source Softw. (under Review)](https://github.com/openjournals/joss-reviews/issues/6795) [[online](2024c.pdf)].
 0. J. M. Miller, D. A. Holladay, J. H. Peterson, C. M. Mauney, R. Berger, A. Pietarila Graham, K. C. Tsai, B. Barker, A. Holas, A. E. Mattsson, M. Gogilashvili, J. C. Dolence, C. D. Meyer, S. Swaminarayan, and **C. Junghans**,<br>
    *Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures*,<br>
-   [J. Open Source Softw. (under Review)](https://github.com/openjournals/joss-reviews/issues/6658) [[online](2024b.pdf)].
+   [J. Open Source Softw. (under Review)](https://github.com/openjournals/joss-reviews/issues/6805) [[online](2024b.pdf)].
 
 
 ### Reviewed Papers ###
