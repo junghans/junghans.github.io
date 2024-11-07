@@ -7,19 +7,20 @@ nav: true
 nav_order: 2
 ---
 
+<!---
 ### Preprints ###
 
 {: reversed="reversed"}
 
-0. J. M. Miller, D. A. Holladay, J. H. Peterson, C. M. Mauney, R. Berger, A. Pietarila Graham, K. C. Tsai, B. Barker, A. Holas, A. E. Mattsson, M. Gogilashvili, J. C. Dolence, C. D. Meyer, S. Swaminarayan, and **C. Junghans**,<br>
-   *Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures*,<br>
-   [J. Open Source Softw. (under Review)](https://github.com/openjournals/joss-reviews/issues/6805) [[online](2024c.pdf)].
-
+-->
 
 ### Reviewed Papers ###
 
 {: reversed="reversed"}
 
+0. J. M. Miller, D. A. Holladay, J. H. Peterson, C. M. Mauney, R. Berger, A. Pietarila Graham, K. C. Tsai, B. Barker, A. Holas, A. E. Mattsson, M. Gogilashvili, J. C. Dolence, C. D. Meyer, S. Swaminarayan, and **C. Junghans**,<br>
+   *Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures*,<br>
+   [J. Open Source Softw. 9, 6805 (2024)](https://doi.org/10.21105/joss.06805) [[online](2024c.pdf)].
 0. B. Baumeier, J. Wehner, N. Renaud, F. Zapata Ruiz, R. Halver, P. Madhikar, R. Gerritsen, G. Tirimbo, J. Sijen, D. Rosenberger, J. S. Brown, V. Sundaram, J. Krajniak, M. Bernhardt, and **C. Junghans**,<br>
    *VOTCA: multiscale frameworks for quantum and classical simulations in soft matter*,<br>
     [J. Open Source Softw. 9, 6864 (2024)](https://doi.org/10.21105/joss.06864) [[online](2024b.pdf)].
