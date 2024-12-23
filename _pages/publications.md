@@ -7,12 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-<!---
 ### Preprints ###
 
 {: reversed="reversed"}
 
--->
+0. G. Daiss, P. Diehl, J. Yan, J. K. Holmen, R. Gayatri, **C. Junghans**, A. Straub, J. R. Hammond, D. Marcello, M. Tsuji, D. Pflüger, and H. Kaiser,<br>
+   *Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX*,<br>
+   [arXiv:2412.15518](https://doi.org/10.48550/arXiv.2412.15518).
 
 ### Reviewed Papers ###
 
