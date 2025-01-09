@@ -14,9 +14,9 @@ social: true  # includes social icons at the bottom of the page
 
 | Full Name | Dr. Christoph Junghans
 | Role | Group Leader
-| Group | [Applied Computer Science, CCS-7](https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/applied-computer-science/index.php)
-| Division | [Computer, Computational, and Statistical Sciences Division](https://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/index.php)
+| Group | [Applied Computer Science, CCS-7](https://m.lanl.gov/ccs-7)
+| Division | [Computer, Computational, and Statistical Sciences Division](https://www.lanl.gov/engage/organizations/aldsct/computer-computational-and-statistical-sciences)
 | Affiliation | [Los Alamos National Laboratory](http://www.lanl.gov)
-| Web | [Official Homepage](http://www.lanl.gov/junghans)
+| Web | [Official Homepage](http://m.lanl.gov/junghans)
 | Phone | ++1-505-665-2278
 | Email | ![email](assets/img/email.png)
