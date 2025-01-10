@@ -15,8 +15,8 @@ toc:
 
 ### Personal Information ###
 
-| **Name**               | Christoph Junghans
-|                        | ![Image of Christoph](../assets/img/junghans.jpg)
+| **Name**               | Christoph Junghans<br> ![Image of Christoph](../assets/img/junghans.jpg)
+|                        |
 
 
 ### Education ###
