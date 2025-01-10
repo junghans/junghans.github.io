@@ -17,7 +17,6 @@ toc:
 
 | **Name**               | Christoph Junghans
 |                        | ![Image of Christoph](../assets/img/junghans.jpg)
-|                        |
 
 
 ### Education ###
