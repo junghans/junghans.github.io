@@ -25,7 +25,7 @@ nav_order: 2
 0. B. Baumeier, J. Wehner, N. Renaud, F. Zapata Ruiz, R. Halver, P. Madhikar, R. Gerritsen, G. Tirimbo, J. Sijen, D. Rosenberger, J. S. Brown, V. Sundaram, J. Krajniak, M. Bernhardt, and **C. Junghans**,<br>
    *VOTCA: multiscale frameworks for quantum and classical simulations in soft matter*,<br>
     [J. Open Source Softw. 9, 6864 (2024)](https://doi.org/10.21105/joss.06864) [[online](2024b.pdf)].
-0. S. T. Reeve, J.-L. Fattebert, S. DeWitt, D. Joy, P. Seleson, S. Slattery, A. Scheinberg, R. Halver, **C. Junghans**, C. F. A. Negre, M. E. Wall, Y. Zhang, A. M. Niklasson, D. Perez, S. M. Mniszewski, and J. Belak,<br>
+0. S. T. Reeve, J.-L. Fattebert, S. DeWitt, P. Seleson, D. Joy, S. Slattery, A. Scheinberg, R. Halver, **C. Junghans**, C. F. A. Negre, M. E. Wall, Y. Zhang, A. M. Niklasson, J. Belak, S. M. Mniszewski, and D. Perez,<br>
    *Co-design for Particle Applications at Exascale*,<br>
    [Comp. Sci. Eng. 26, 43 (2024)](https://doi.org/10.1109/MCSE.2024.3384052) [[online](2024a.pdf)].
 0. S. Karra, M. Mehana, N. Lubbers, Y. Chen, A. Diaw, J. E. Santos, A. Pachalieva, R. S. Pavel, J. R. Haack, M. McKerns, **C. Junghans**, Q. Kang, D. Livescu, T. C. Germann, and H. S. Viswanathan,<br>
