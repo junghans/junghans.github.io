@@ -13,8 +13,9 @@ social: true  # includes social icons at the bottom of the page
 ![Image of Christoph](assets/img/junghans.jpg)
 
 | Full Name | Dr. Christoph Junghans
-| Role | Deputy Division Leader (acting)
-| Division | [Theoretical](https://www.lanl.gov/engage/organizations/aldsct/theoretical)
+| Role | Group Leader
+| Group | [Applied Computer Science, CCS-7](https://m.lanl.gov/ccs-7)
+| Division | [Computer, Computational, and Statistical Sciences Division](https://www.lanl.gov/engage/organizations/aldsct/computer-computational-and-statistical-sciences)
 | Affiliation | [Los Alamos National Laboratory](http://www.lanl.gov)
 | Web | [Official Homepage](http://m.lanl.gov/junghans)
 | Phone | ++1-505-665-2278
