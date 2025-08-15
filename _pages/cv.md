@@ -98,6 +98,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 
 #### Referee for Scientific Journals ####
 
+- Editor: Journal of Open Source Software
 - ACS: J. Chem. Inf. Model. & J. Phys. Chem.
 - AIP: J. Chem. Phys.
 - Elsevier: Comp. Phys. Comm.
