@@ -15,7 +15,7 @@ toc:
 
 ### Personal Information ###
 
-| **Name**               | Christoph Junghans<
+| **Name**               | Christoph Junghans
 |                        | ![Image of Christoph](../assets/img/junghans.jpg)
 |                        |
 
