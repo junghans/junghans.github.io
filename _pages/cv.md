@@ -42,7 +42,7 @@ table td:first-of-type {
 }
 </style>
 
-| Aug. 2025 - Present    | Group Leader, Applied Computer Science Group, Computing and Artificial Intelligence Division, Los Alamos National Lab
+| Sep. 2025 - Present    | Group Leader, Applied Computer Science Group, Computing and Artificial Intelligence Division, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Feb. 2021 - Aug. 2025  | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Mar. 2025 - Jun. 2025  | Deputy Division Leader (acting), Theoretical Division, Los Alamos National Lab
