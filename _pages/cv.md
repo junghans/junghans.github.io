@@ -17,7 +17,6 @@ toc:
 
 | **Name**               | Christoph Junghans
 |                        | ![Image of Christoph](../assets/img/junghans.jpg)
-|                        |
 
 
 ### Education ###
@@ -31,7 +30,6 @@ toc:
 | **School**             |
 | July 2000              | Abitur, Gymnasium Brandis, Germany
 |                        | Major field of study: Mathematics, Physics
-|                        |
 
 
 ### Work Experience ###
@@ -60,7 +58,6 @@ table td:first-of-type {
 | Sep. 2004              | Student Assistant, Institute for Meteorology, University of Leipzig
 | Feb. 2003 - Apr. 2003  | Service contract, Chair for Fluid Mechanics, Martin Luther University of Halle-Wittenberg, Halle, Germany
 | Mar. 2002              | Student Assistant, Institute for Theoretical Physics, University of Leipzig
-| |
 
 ### Awards ###
 
@@ -77,7 +74,6 @@ table td:first-of-type {
 | Nov. 2005 | Wolfgang Natonek award, University of Leipzig
 | Oct. 2003 | Teubner award, Department for Physics and Earth Science, University of Leipzig
 | July 2000 | Book award of the German Physical Society (DPG) for high school graduates
-| |
 
 ### Open Source Projects ###
 
@@ -89,7 +85,6 @@ table td:first-of-type {
 | [ESPReSo++](https://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
 | [GroMaCS](https://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo](https://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
-| |
 
 For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
 
@@ -125,7 +120,6 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | July 2007 - Dec. 2008 | PhD representative of the theory group, Max Planck Institute for Polymer Research, Mainz
 | Nov. 2007 - Nov. 2008 | PhD representative of the MPI for Polymer Research, Mainz
 | Oct. 2002 - Sep. 2005 | Elected member of student government (Fachschaftsrat) of the Department for Physics and Earth Science, University of Leipzig - Extensive committee work in this period incl. spokesperson, treasurer and member of several faculty/university committees
-| |
 
 [//]: # ### Committee Experience ####
 [//]: # - Spokesperson of the students of the Physics Department (2 years)
@@ -142,7 +136,6 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | **Programming**           | C, C++, Fortran, MPI, OpenMP
 | **Scripting**             | Shell, awk, Perl, expect, PHP, tcl, Python
 | **Markup Languages**      | HTML, latex, mediawiki, txt2tags
-| |
 
 ### Teaching Experience ###
 
@@ -173,7 +166,6 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Apr. 2007 - Sep. 2007 | Theoretical physics I, Johannes Gutenberg University of Mainz
 | Apr. 2006 - Sep. 2006 | Introduction to computer simulations I, University of Leipzig
 | Sep. 2004 - Oct. 2004 | Mathematical preparation course for first-year students, University of Leipzig
-| |
 
 ### Mentoring ###
 
@@ -203,7 +195,6 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 | Jun. 2013 - Aug. 2013  | Co-Design Summer School (6 Students), Los Alamos National Laboratory
 | Jun. 2010 - Aug. 2010  | Summer Student, University of Mainz
 | Oct. 2005 - Mar. 2006  | Simulation methods in generalized ensembles (2 Students), University of Leipzig
-| |
 
 ### Talks ###
 
@@ -215,13 +206,11 @@ Over 50 invited and contributed talks
 | Oct. 2016 | Talk: "Recent developments in VOTCA", [CECAM](http://www.cecam.org) [Workshop "Multiscale Simulations of Soft Matter with Hands-On Tutorials on ESPResSo++ and VOTCA"](https://www.cecam.org/workshop-details/327), Mainz, Germany
 | May 2012 | Seminar: "Particle-based multi-scale simulations using the Adaptive Resolution Scheme", [IBM Research, Almaden](http://www.almaden.ibm.com)
 | July 2011 | Colloquium: "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
-| |
 
 <!--
 #### Colloquium Talks ####
 
 | July 2011 | "Locality Analysis via Adaptive Resolution Simulations", Theoriekolloquium, [Faculty of Natural Sciences II](http://www.natfak2.uni-halle.de), [Martin Luther University Halle-Wittenberg](http://www.uni-halle.de)
-| |
 
 #### Invited Talks ####
 
@@ -235,7 +224,6 @@ Over 50 invited and contributed talks
 | Oct. 2011 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Coarse-grained Simulation of Biological Soft Matter Systems using ESPResSo"](https://www.cecam.org/workshop-details/797), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Oct. 2010 | "Multi-scale modeling using AdResS", [CECAM](http://www.cecam.org) [Workshop "Simulating Soft Matter with ESPResSo"](https://www.cecam.org/workshop-details/820), [ICP Stuttgart](http://www.icp.uni-stuttgart.de/)
 | Nov. 2007 | "Controlling material properties using a thermostat", [CompPhys07](http://www.physik.uni-leipzig.de/~janke/CompPhys07), [ITP Leipzig](http://www.physik.uni-leipzig.de)
-| |
 
 #### Seminar Talks (invited) ####
 
@@ -256,7 +244,6 @@ Over 50 invited and contributed talks
 | Nov. 2009 | "Versatile object-oriented toolkit for coarse-graining applications", Computational Biology Cluster Seminar, IFF-2, [FZ Jülich](http://www.fz-juelich.de/portal/EN/Home/home_node.html)
 | July 2009 | "New HPC libraries for performance improvements", IBM Systems & Technology Group
 | June 2007 | "Extensions to Dissipative Particle Dynamics", [Faculty of Science ](http://www.naturvetenskap.lu.se), [Lund University](http://www.lunduniversity.lu.se)
-| |
 
 #### Contributed Talks ####
 
@@ -277,7 +264,6 @@ Over 50 invited and contributed talks
 | Nov. 2008 | "Comparative atomistic and coarse-grained study of water: simulation details vs. simulation feasibility", [CompPhys08](http://www.physik.uni-leipzig.de/~janke/CompPhys08), [ITP Leipzig](http://www.physik.uni-leipzig.de)
 | June 2008 | "Adjusting dynamic material properties by a thermostat", ICMMES 2008, [University of Amsterdam](http://www.uva.nl)
 | Feb. 2008 | "Controlling material properties using a thermostat", [DPG Spring Meeting 2008](http://berlin08.dpg-tagungen.de/index.html?lang=en), Berlin
-| |
 -->
 
 ### Publications ###
