@@ -21,7 +21,7 @@ nav_order: 2
 
 0. G. Daiss, P. Diehl, J. Yan, J. K. Holmen, R. Gayatri, **C. Junghans**, A. Straub, J. R. Hammond, D. Marcello, M. Tsuji, D. Pflüger, and H. Kaiser,<br>
    *Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX*,<br>
-   To appear in Int. J. High Perf. Comp. App. (2025) [[online](2025a.pdf)].
+   [To appear in Int. J. High Perf. Comp. App. (2025)](https://doi.org/10.1177/10943420251386503) [[online](2025a.pdf)].
 0. J. M. Miller, D. A. Holladay, J. H. Peterson, C. M. Mauney, R. Berger, A. Pietarila Graham, K. C. Tsai, B. Barker, A. Holas, A. E. Mattsson, M. Gogilashvili, J. C. Dolence, C. D. Meyer, S. Swaminarayan, and **C. Junghans**,<br>
    *Singularity-EOS: Performance Portable Equations of State and Mixed Cell Closures*,<br>
    [J. Open Source Softw. 9, 6805 (2024)](https://doi.org/10.21105/joss.06805) [[online](2024c.pdf)].
