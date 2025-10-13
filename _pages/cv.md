@@ -86,7 +86,7 @@ table td:first-of-type {
 | [GroMaCS](https://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo](https://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
 
-For more infomation see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
+For more information see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
 
 
 ### Professional Skills ###
@@ -113,7 +113,7 @@ For more infomation see [my GitHub profile](http://www.github.com/junghans) and 
 - Chairman for the APS annual meetings
 
 
-#### Representativ ####
+#### Representative ####
 
 | Nov. 2018 - Sep. 2022 | Member of the Information Science and Technology Institute (ISTI) council, LANL
 | July 2015 - June 2016 | Member of the Worker Safety & Security Team (WSST) for CCS-7, LANL
