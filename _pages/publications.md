@@ -14,10 +14,12 @@ nav_order: 2
 0. B. Bergen, N. Moss, I. Demeshko, D. Herring, M. Charest, J. Loiseau, N. Ray, J. Graham, H. Kaiser, L.-T. Lo, K. Tsai, C. Ferenbaugh, R. Berger, J. Wohlbier, J. Lippuner, W. Wu, A. Reisner, **C. Junghans**, S. Pakin, B. K. Krueger, L. Spies, S. Lakshmiranganatha, M. Ortner, P. Grosset, D. Gunter, M. Moraru, G. Shipman, J. Waters, S. Halverson, O. Caylak, P. Brady, P. V. F. Edelmann, M. Delan, B. Keim, C. Malone, A. Villa, D. Holladay, D. Barrack, N. Gupta, O. Certík, R. Bird, and M. Rasmussen,<br>
    *FleCSI: Flexible Computational Science Infrastructure*,<br>
    [J. Open Source Softw. (2025)](https://github.com/openjournals/joss-reviews/issues/8756) [[online](2025b.pdf)].
-1. P. Diehl, Y. W. Li, **C. Junghans**, E. MacCarthy, Y. He, R. Hartman-Baker, S. Parete-Koon, C. Lively, K. Gott, and K. Streu,<br>
+0. P. Diehl, Y. W. Li, **C. Junghans**, E. MacCarthy, Y. He, R. Hartman-Baker, S. Parete-Koon, C. Lively, K. Gott, and K. Streu,<br>
    *Shaping the future workforce: Challenges and lessons learned inHPC education from national labs and computing centers*,<br>
-   [Submitted (2025)](https://doi.org/10.35542/osf.io/sua4v_v1).
-
+   [Submitted (2025)](https://doi.org/10.35542/osf.io/sua4v_v1) [[online](2025c.pdf)]
+0.  Z.-H. Xu, J. Vance, N. Tretyakov, S. Eibl, P. Kus, J. Krajniak, T. Bereau, H. V. Guzman, B. Song, M. Rampp, T. Stuehn, and **C. Junghans**,<br>
+    *ESPResSo++: A Fast and Extensible Molecular Simulation Package for Coarse-Grained Models*
+    [J. Open Source Softw. (2026)](https://github.com/openjournals/joss-reviews/issues/10217) [[online](2026a.pdf)].
 ### Reviewed Papers ###
 
 {: reversed="reversed"}
