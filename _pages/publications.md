@@ -115,7 +115,7 @@ nav_order: 2
    [Comp. Phys. Comm. 192, 138 (2015)](http://dx.doi.org/10.1016/j.cpc.2015.03.006) [[online](2015b.pdf)].
 0. S. Bevc, **C. Junghans**, and M. Praprotnik, [![cover2015a](2015a.jpg){: style="float: right"}](2015a_big.jpg)<br>
    *STOCK: Structure Mapper and Online Coarse-Graining Kit for Molecular Simulations*,<br>
-   [J. Comp. Chem. 36, 467 (2015)](http://dx.doi.org/10.1002/jcc.23806) [[online](2015a.pdf)] [[Homepage](http://stock.cmm.ki.si)].
+   [J. Comp. Chem. 36, 467 (2015)](http://dx.doi.org/10.1002/jcc.23806) [[online](2015a.pdf)].
 0. **C. Junghans**, D. Perez and T. Vogel,<br>
    *Molecular Dynamics in the Multicanonical Ensemble: Equivalence of Wang-Landau Sampling, Statistical Temperature Molecular Dynamics, and Metadynamics*,<br>
    [J. Chem. Theo. Comp. 10, 1843 (2014)](http://dx.doi.org/10.1021/ct500077d) [[online](2014b.pdf)].
