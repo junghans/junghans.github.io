@@ -11,17 +11,18 @@ nav_order: 2
 
 {: reversed="reversed"}
 
-0. B. Bergen, N. Moss, I. Demeshko, D. Herring, M. Charest, J. Loiseau, N. Ray, J. Graham, H. Kaiser, L.-T. Lo, K. Tsai, C. Ferenbaugh, R. Berger, J. Wohlbier, J. Lippuner, W. Wu, A. Reisner, **C. Junghans**, S. Pakin, B. K. Krueger, L. Spies, S. Lakshmiranganatha, M. Ortner, P. Grosset, D. Gunter, M. Moraru, G. Shipman, J. Waters, S. Halverson, O. Caylak, P. Brady, P. V. F. Edelmann, M. Delan, B. Keim, C. Malone, A. Villa, D. Holladay, D. Barrack, N. Gupta, O. Certík, R. Bird, and M. Rasmussen,<br>
-   *FleCSI: Flexible Computational Science Infrastructure*,<br>
-   [J. Open Source Softw. (2025)](https://github.com/openjournals/joss-reviews/issues/8756) [[online](2025b.pdf)].
-
 0.  Z.-H. Xu, J. Vance, N. Tretyakov, S. Eibl, P. Kus, J. Krajniak, T. Bereau, H. V. Guzman, B. Song, M. Rampp, T. Stuehn, and **C. Junghans**,<br>
     *ESPResSo++: A Fast and Extensible Molecular Simulation Package for Coarse-Grained Models*
     [J. Open Source Softw. (2026)](https://github.com/openjournals/joss-reviews/issues/10217) [[online](2026a.pdf)].
+
+
 ### Reviewed Papers ###
 
 {: reversed="reversed"}
 
+0. B. Bergen, N. Moss, I. Demeshko, S. D. Herring, M. Charest, J. Loiseau, N. Ray, J. Graham, H. Kaiser, L.-T. Lo, K. Tsai, C. Ferenbaugh, R. Berger, J. Wohlbier, J. Lippuner, W. Wu, A. Reisner, S. Pakin, B. K. Krueger, L. Spies, S. Lakshmiranganatha, M. Ortner, P. Grosset, D. Gunter, M. Moraru, G. Shipman, J. Waters, S. A. Halverson, O. Caylak, P. Brady, P. V. F. Edelmann, M. Delan, B. Keim, C. M. Malone, A. Villa, D. Holladay, D. Barrack, N. Gupta, O. Certík, R. Bird, and M. Rasmussen, and **C. Junghans**,<br>
+   *FleCSI: Flexible Computational Science Infrastructure*,<br>
+   [J. Open Source Softw. 11, 9333(2026)](https://doi.org/10.21105/joss.09333) [[online](2025b.pdf)].
 0. P. Diehl, Y. W. Li, **C. Junghans**, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. He, R. Hartman-Baker, , C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer,<br>
    *Shaping the Future Workforce: Challenges and Lessons Learned in HPC Education from National Labs and Computing Centers*,<br>
    [J. Comp. Sci. Edu. 17, 19 (2026)](https://doi.org/10.22369/issn.2153-4136/17/1/3) [[online](2025c.pdf)]
