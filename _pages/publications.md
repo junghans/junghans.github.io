@@ -22,10 +22,10 @@ nav_order: 2
 
 0. B. Bergen, N. Moss, I. Demeshko, S. D. Herring, M. Charest, J. Loiseau, N. Ray, J. Graham, H. Kaiser, L.-T. Lo, K. Tsai, C. Ferenbaugh, R. Berger, J. Wohlbier, J. Lippuner, W. Wu, A. Reisner, S. Pakin, B. K. Krueger, L. Spies, S. Lakshmiranganatha, M. Ortner, P. Grosset, D. Gunter, M. Moraru, G. Shipman, J. Waters, S. A. Halverson, O. Caylak, P. Brady, P. V. F. Edelmann, M. Delan, B. Keim, C. M. Malone, A. Villa, D. Holladay, D. Barrack, N. Gupta, O. Certík, R. Bird, and M. Rasmussen, and **C. Junghans**,<br>
    *FleCSI: Flexible Computational Science Infrastructure*,<br>
-   [J. Open Source Softw. 11, 9333(2026)](https://doi.org/10.21105/joss.09333) [[online](2025b.pdf)].
+   [J. Open Source Softw. 11, 9333(2026)](https://doi.org/10.21105/joss.09333) [[online](2026b.pdf)].
 0. P. Diehl, Y. W. Li, **C. Junghans**, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. He, R. Hartman-Baker, , C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer,<br>
    *Shaping the Future Workforce: Challenges and Lessons Learned in HPC Education from National Labs and Computing Centers*,<br>
-   [J. Comp. Sci. Edu. 17, 19 (2026)](https://doi.org/10.22369/issn.2153-4136/17/1/3) [[online](2025c.pdf)]
+   [J. Comp. Sci. Edu. 17, 19 (2026)](https://doi.org/10.22369/issn.2153-4136/17/1/3) [[online](2026a.pdf)]
 0. G. Daiss, P. Diehl, J. Yan, J. K. Holmen, R. Gayatri, **C. Junghans**, A. Straub, J. R. Hammond, D. Marcello, M. Tsuji, D. Pflüger, and H. Kaiser,<br>
    *Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX*,<br>
    [Int. J. High Perf. Comp. App. 40, 196 (2025)](https://doi.org/10.1177/10943420251386503) [[online](2025a.pdf)].
