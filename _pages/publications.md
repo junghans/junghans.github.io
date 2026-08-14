@@ -13,7 +13,7 @@ nav_order: 2
 
 0.  Z.-H. Xu, J. Vance, N. Tretyakov, S. Eibl, P. Kus, J. Krajniak, T. Bereau, H. V. Guzman, B. Song, M. Rampp, T. Stuehn, and **C. Junghans**,<br>
     *ESPResSo++: A Fast and Extensible Molecular Simulation Package for Coarse-Grained Models*
-    [J. Open Source Softw. (2026)](https://github.com/openjournals/joss-reviews/issues/10217) [[online](2026a.pdf)].
+    [J. Open Source Softw. (2026)](https://github.com/openjournals/joss-reviews/issues/10217) [[online](2026c.pdf)].
 
 
 ### Reviewed Papers ###
