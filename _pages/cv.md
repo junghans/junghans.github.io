@@ -40,7 +40,8 @@ table td:first-of-type {
 }
 </style>
 
-| Sep. 2025 - Present    | Group Leader, Applied Computer Science Group, Computing and Artificial Intelligence Division, Los Alamos National Lab
+| Jul. 2026 - Present    |  Deputy Division Leader (acting), Computing and Artificial Intelligence Division, Los Alamos National Lab
+| Sep. 2025 - Jul. 2026  | Group Leader, Applied Computer Science Group, Computing and Artificial Intelligence Division, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Feb. 2021 - Aug. 2025  | Group Leader, Applied Computer Science Group, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Mar. 2025 - Jun. 2025  | Deputy Division Leader (acting), Theoretical Division, Los Alamos National Lab
@@ -49,7 +50,7 @@ table td:first-of-type {
 | May  2014 - July 2018  | Staff Scientist, Computer, Computational, and Statistical Sciences Division, Los Alamos National Lab
 | Mar. 2013 - Apr. 2014  | Director's Postdoc. Fellow, Theoretical Division, Los Alamos National Lab
 | Nov. 2011 - Feb. 2013  | Postdoc. Research Assistant, Theoretical Division, Los Alamos National Lab
-| May  2012  - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
+| May  2012 - June 2012  | Member, The Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA
 | Nov. 2010 - Oct. 2011  | Postdoc. Research Assistant, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
 | Jan. 2007 - Oct. 2010  | PhD Student, Polymer Theory Group, Max Planck Institute for Polymer Research, Mainz, Germany
 | Jan. 2009 - July 2009  | Internship as Specialist for Application Performance & Deep Computing, IBM Systems & Technology Group
@@ -61,6 +62,7 @@ table td:first-of-type {
 
 ### Awards ###
 
+| Jul. 2026 | Senior member of Institute of Electrical and Electronics Engineers (IEEE)
 | Nov. 2019 | Top 10% most cited PLOS ONE papers published in 2015
 | Sep. 2017 | LAAP Award in recognition of outstanding contributions to the ISTI Summer School Program
 | Feb. 2017 | Postdoc. Distinguished Mentor Award, LANL
