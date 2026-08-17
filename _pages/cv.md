@@ -62,7 +62,7 @@ table td:first-of-type {
 
 ### Awards ###
 
-| Jul. 2026 | Senior member of Institute of Electrical and Electronics Engineers (IEEE)
+| June 2026 | Senior member of Institute of Electrical and Electronics Engineers (IEEE)
 | Nov. 2019 | Top 10% most cited PLOS ONE papers published in 2015
 | Sep. 2017 | LAAP Award in recognition of outstanding contributions to the ISTI Summer School Program
 | Feb. 2017 | Postdoc. Distinguished Mentor Award, LANL
