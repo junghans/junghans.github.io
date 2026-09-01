@@ -41,6 +41,7 @@ table td:first-of-type {
 </style>
 
 | Jul. 2026 - Present    | Deputy Division Leader (acting), Computing and Artificial Intelligence Division, Los Alamos National Lab
+| Jul. 2025 - Present    | Member of the Mid-Range Computing Council, Los Alamos National Lab
 | Feb. 2016 - Present    | CNLS Affiliate, Center for Nonlinear Studies, Theoretical Division, Los Alamos National Lab
 | Feb. 2021 - Jul. 2026  | Group Leader, Applied Computer Science Group, Computing and Artificial Intelligence Division (formerly Computer, Computational, and Statistical Sciences Division), Los Alamos National Lab
 | Mar. 2025 - Jun. 2025  | Deputy Division Leader (acting), Theoretical Division, Los Alamos National Lab
