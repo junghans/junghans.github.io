@@ -87,6 +87,7 @@ table td:first-of-type {
 | [ESPReSo++](https://www.espresso-pp.de) | Successor of the ESPResSo simulation package | Developer
 | [GroMaCS](https://www.gromacs.org) | Versatile package to perform molecular dynamics | Developer (inactive)
 | [ESPReSo](https://www.espressomd.org) | Extensible Simulation Package for Research on Soft matter | Developer (inactive)
+| [Linux](https://github.com/torvalds/linux/commit/7636bda61aacbef955c7f0088f7c3cb0875dc4a9) | 1 patch in the kernel | \\
 
 For more information see [my GitHub profile](http://www.github.com/junghans) and [my OpenHUB profile](http://www.openhub.net/accounts/junghans)
 
