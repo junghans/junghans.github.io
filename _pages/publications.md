@@ -7,19 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-### Preprints ###
+### Reviewed Papers ###
 
 {: reversed="reversed"}
 
 0.  Z.-H. Xu, J. Vance, N. Tretyakov, S. Eibl, P. Kus, J. Krajniak, T. Bereau, H. V. Guzman, B. Song, M. Rampp, T. Stuehn, and **C. Junghans**,<br>
     *ESPResSo++: A Fast and Extensible Molecular Simulation Package for Coarse-Grained Models*
-    [Under Review: J. Open Source Softw. (2026)](https://github.com/openjournals/joss-reviews/issues/11072) [[arXiv:2608.14911](https://doi.org/10.48550/arXiv.2608.14911)].
-
-
-### Reviewed Papers ###
-
-{: reversed="reversed"}
-
+    [J. Open Source Softw. 11, 11072 (2026)](https://doi.org/10.21105/joss.11072)[[online](2026c.pdf)].
 0. B. Bergen, N. Moss, I. Demeshko, S. D. Herring, M. Charest, J. Loiseau, N. Ray, J. Graham, H. Kaiser, L.-T. Lo, K. Tsai, C. Ferenbaugh, R. Berger, J. Wohlbier, J. Lippuner, W. Wu, A. Reisner, S. Pakin, B. K. Krueger, L. Spies, S. Lakshmiranganatha, M. Ortner, P. Grosset, D. Gunter, M. Moraru, G. Shipman, J. Waters, S. A. Halverson, O. Caylak, P. Brady, P. V. F. Edelmann, M. Delan, B. Keim, C. M. Malone, A. Villa, D. Holladay, D. Barrack, N. Gupta, O. Certík, R. Bird, and M. Rasmussen, and **C. Junghans**,<br>
    *FleCSI: Flexible Computational Science Infrastructure*,<br>
    [J. Open Source Softw. 11, 9333(2026)](https://doi.org/10.21105/joss.09333) [[online](2026b.pdf)].
